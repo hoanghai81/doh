@@ -1,70 +1,96 @@
 // deno/doh.ts
-const RETHINK_UPSTREAM = "https://max.rethinkdns.com/dns-query"; // upstream DoH JSON
+const UPSTREAM = "https://max.rethinkdns.com/dns-query";
 
-export async function dohHandler(req: Request, sets: any, currentMode: string): Promise<Response> {
-  // Support both GET ?name=... (dns-json style) and POST binary (proxy pass)
-  const url = new URL(req.url);
+export async function handleDnsJson(name: string, sets: any, currentMode: string) {
+  const q = name.toLowerCase();
 
-  // If GET with name param => handle json path
-  const name = url.searchParams.get("name");
-  if (name) {
-    const q = name.toLowerCase();
-    if (isAllowed(q, sets.allow)) {
-      return await forwardToUpstream(q);
-    }
-    if (isBlocked(q, sets, currentMode)) {
-      return nxResponse(q);
-    }
-    return await forwardToUpstream(q);
+  if (isAllowed(q, sets.allow)) {
+    return await forwardJson(q);
   }
-
-  // If POST binary DNS message => proxy to upstream as-is (transparent)
-  if (req.method === "POST") {
-    // Proxy binary DNS message to upstream and return response
-    const body = await req.arrayBuffer();
-    const upstreamResp = await fetch(RETHINK_UPSTREAM, {
-      method: "POST",
-      headers: { "content-type": "application/dns-message" },
-      body
-    });
-    const buf = await upstreamResp.arrayBuffer();
-    return new Response(buf, {
-      status: upstreamResp.status,
-      headers: { "content-type": upstreamResp.headers.get("content-type") || "application/dns-message" }
-    });
+  if (isBlocked(q, sets, currentMode)) {
+    return nxJson(q);
   }
-
-  return new Response(JSON.stringify({ error: "no name param" }), { status: 400, headers: { "content-type": "application/json" }});
+  return await forwardJson(q);
 }
 
-function nxResponse(name: string) {
-  return new Response(JSON.stringify({ Status: 3, TC: false, RD: true, RA: true, Question: [{ name, type: 1 }], Answer: [] }), {
-    headers: { "content-type": "application/dns-json" }
-  });
-}
+export async function handleDnsMessage(req: Request, sets: any, currentMode: string) {
+  const body = new Uint8Array(await req.arrayBuffer());
 
-async function forwardToUpstream(name: string) {
-  const upstreamUrl = RETHINK_UPSTREAM + "?name=" + encodeURIComponent(name);
-  const r = await fetch(upstreamUrl, { headers: { accept: "application/dns-json" }});
-  const text = await r.text();
-  return new Response(text, { headers: { "content-type": r.headers.get("content-type") || "application/dns-json" }});
-}
-
-function isAllowed(name: string, allowSet: Set<string>) {
-  if (allowSet.has(name)) return true;
-  for (const a of allowSet) {
-    if (name === a) return true;
-    if (name.endsWith("." + a)) return true;
+  // Extract QNAME from DNS message
+  const qname = extractName(body);
+  if (qname) {
+    if (isAllowed(qname, sets.allow)) return await forwardMsg(body);
+    if (isBlocked(qname, sets, currentMode)) return nxMsg(body);
   }
+
+  return await forwardMsg(body);
+}
+
+// ---- helpers ----
+
+function isAllowed(name: string, allow: Set<string>) {
+  for (const a of allow)
+    if (name === a || name.endsWith("." + a)) return true;
   return false;
 }
 
 function isBlocked(name: string, sets: any, mode: string) {
-  const use = mode === "yt" ? sets.yt : mode === "tt" ? sets.tt : sets.base;
-  if (use.has(name)) return true;
-  for (const d of use) {
-    if (name === d) return true;
-    if (name.endsWith("." + d)) return true;
-  }
+  const list = mode === "yt" ? sets.yt : mode === "tt" ? sets.tt : sets.base;
+  for (const d of list)
+    if (name === d || name.endsWith("." + d)) return true;
   return false;
-      }
+}
+
+function extractName(msg: Uint8Array) {
+  try {
+    let off = 12;
+    const labels = [];
+    while (true) {
+      const len = msg[off++];
+      if (!len) break;
+      labels.push(new TextDecoder().decode(msg.slice(off, off + len)));
+      off += len;
+    }
+    return labels.join(".").toLowerCase();
+  } catch {
+    return null;
+  }
+}
+
+async function forwardJson(name: string) {
+  const r = await fetch(UPSTREAM + "?name=" + name, {
+    headers: { accept: "application/dns-json" },
+  });
+  return new Response(await r.text(), {
+    headers: { "content-type": "application/dns-json" },
+  });
+}
+
+async function forwardMsg(body: Uint8Array) {
+  const r = await fetch(UPSTREAM, {
+    method: "POST",
+    headers: { "content-type": "application/dns-message" },
+    body,
+  });
+  return new Response(await r.arrayBuffer(), {
+    headers: { "content-type": "application/dns-message" },
+  });
+}
+
+function nxJson(name: string) {
+  return Response.json({
+    Status: 3,
+    Question: [{ name, type: 1 }],
+    Answer: [],
+  });
+}
+
+function nxMsg(reqBody: Uint8Array) {
+  // return same header ID but no answers
+  const out = new Uint8Array(reqBody.length);
+  out.set(reqBody);
+  out[2] |= 0x03; // RCODE = 3 (NXDOMAIN)
+  return new Response(out, {
+    headers: { "content-type": "application/dns-message" },
+  });
+    }
