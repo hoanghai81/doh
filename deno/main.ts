@@ -1,109 +1,90 @@
-// deno/main.ts
-import { dohHandler } from "./doh.ts";
+import { handleDnsJson, handleDnsMessage } from "./doh.ts";
 
-const REPO_RAW = "https://raw.githubusercontent.com/hoanghai81/doh/main/modes";
+const RAW = "https://raw.githubusercontent.com/hoanghai81/doh/main/modes";
 const URLS = {
-  base: `${REPO_RAW}/base.txt`,
-  yt: `${REPO_RAW}/yt.txt`,
-  tt: `${REPO_RAW}/tt.txt`,
-  allow: `${REPO_RAW}/allow.txt`,
+  base: `${RAW}/base.txt`,
+  yt: `${RAW}/yt.txt`,
+  tt: `${RAW}/tt.txt`,
+  allow: `${RAW}/allow.txt`,
 };
 
-const CACHE_TTL = 1000 * 60 * 5; // 5 minutes
-let lastLoad = 0;
-let sets: any = { base: new Set(), yt: new Set(), tt: new Set(), allow: new Set() };
-let currentMode: "base" | "yt" | "tt" = "base";
+let sets = { base: new Set(), yt: new Set(), tt: new Set(), allow: new Set() };
+let mode = "base";
+let last = 0;
+const TTL = 1000 * 60 * 10;
 
-// token from Deno Deploy secret MODE_TOKEN
-const MODE_TOKEN = Deno.env.get("MODE_TOKEN") || "";
+const TOKEN = Deno.env.get("MODE_TOKEN") || "";
 
-function parseToSet(txt: string) {
+async function loadLists(force = false) {
+  if (!force && Date.now() - last < TTL) return;
+  try {
+    const [b, y, t, a] = await Promise.all([
+      fetch(URLS.base).then(r => r.text()),
+      fetch(URLS.yt).then(r => r.text()),
+      fetch(URLS.tt).then(r => r.text()),
+      fetch(URLS.allow).then(r => r.text()),
+    ]);
+    sets.base = toSet(b);
+    sets.yt = toSet(y);
+    sets.tt = toSet(t);
+    sets.allow = toSet(a);
+    last = Date.now();
+  } catch (e) {
+    console.error("Load error:", e);
+  }
+}
+
+function toSet(text: string) {
   return new Set(
-    txt.split(/\r?\n/).map(s => s.trim().toLowerCase())
-      .map(s => s.replace(/^0\.0\.0\.0\s+/, "").replace(/^\s+|\s+$/g,""))
+    text.split("\n")
+      .map(x => x.trim().toLowerCase())
       .filter(Boolean)
   );
 }
 
-async function reloadIfNeeded(force = false) {
-  const now = Date.now();
-  if (!force && now - lastLoad < CACHE_TTL) return;
+Deno.serve(async (req) => {
   try {
-    const [b,y,t,al] = await Promise.all([
-      fetch(URLS.base).then(r => r.ok ? r.text() : ""),
-      fetch(URLS.yt).then(r => r.ok ? r.text() : ""),
-      fetch(URLS.tt).then(r => r.ok ? r.text() : ""),
-      fetch(URLS.allow).then(r => r.ok ? r.text() : "")
-    ]);
-    sets.base = parseToSet(b);
-    sets.yt = parseToSet(y);
-    sets.tt = parseToSet(t);
-    sets.allow = parseToSet(al);
-    lastLoad = Date.now();
-    console.log("Lists loaded:", sets.base.size, sets.yt.size, sets.tt.size, sets.allow.size);
-  } catch (e) {
-    console.error("Failed to load lists:", e);
-  }
-}
+    await loadLists();
 
-addEventListener("fetch", (evt) => {
-  evt.respondWith(handle(evt.request));
+    const url = new URL(req.url);
+
+    if (url.pathname === "/status") {
+      return Response.json({
+        mode,
+        counts: {
+          base: sets.base.size,
+          yt: sets.yt.size,
+          tt: sets.tt.size,
+          allow: sets.allow.size,
+        },
+      });
+    }
+
+    if (url.pathname === "/setmode") {
+      const t = url.searchParams.get("token");
+      const m = url.searchParams.get("m");
+      if (!TOKEN || t !== TOKEN) return new Response("401", { status: 401 });
+      if (!["base", "yt", "tt"].includes(m!)) return new Response("400", { status: 400 });
+      mode = m!;
+      return Response.json({ ok: true, mode });
+    }
+
+    // DoH JSON GET
+    if (url.pathname === "/dns-query" && url.searchParams.get("name")) {
+      return await handleDnsJson(url.searchParams.get("name")!, sets, mode);
+    }
+
+    // Android PrivateDNS & DoH POST
+    if (
+      url.pathname === "/dns-query" ||
+      url.pathname === "/.well-known/dns-query"
+    ) {
+      return await handleDnsMessage(req, sets, mode);
+    }
+
+    return new Response("OK");
+  } catch (err) {
+    console.log("Handled error:", err?.message);
+    return new Response("err", { status: 200 });
+  }
 });
-
-async function handle(req: Request): Promise<Response> {
-  const url = new URL(req.url);
-  // reload lists if expired
-  await reloadIfNeeded();
-
-  // status
-  if (url.pathname === "/status") {
-    return new Response(JSON.stringify({
-      mode: currentMode,
-      counts: { base: sets.base.size, yt: sets.yt.size, tt: sets.tt.size, allow: sets.allow.size },
-      lastLoad
-    }), { headers: { "content-type": "application/json" }});
-  }
-
-  // reload (protected)
-  if (url.pathname === "/reload") {
-    const token = url.searchParams.get("token") || "";
-    if (!MODE_TOKEN || token !== MODE_TOKEN) {
-      return new Response(JSON.stringify({ error: "unauthorized" }), { status: 401, headers: { "content-type":"application/json" }});
-    }
-    await reloadIfNeeded(true);
-    return new Response(JSON.stringify({ ok: true }), { headers: { "content-type":"application/json" }});
-  }
-
-  // set mode (protected)
-  if (url.pathname === "/setmode" || url.pathname.startsWith("/mode/")) {
-    const token = url.searchParams.get("token") || "";
-    if (!MODE_TOKEN || token !== MODE_TOKEN) {
-      return new Response(JSON.stringify({ error: "unauthorized" }), { status: 401, headers: { "content-type":"application/json" }});
-    }
-    // support query ?m=yt or /mode/yt
-    let m = url.searchParams.get("m") || "";
-    if (!m && url.pathname.startsWith("/mode/")) m = url.pathname.split("/").pop() || "";
-    if (["base","yt","tt"].includes(m)) {
-      currentMode = m as any;
-      return new Response(JSON.stringify({ ok: true, mode: currentMode }), { headers: { "content-type":"application/json" }});
-    }
-    return new Response(JSON.stringify({ error: "invalid mode" }), { status: 400, headers: { "content-type":"application/json" }});
-  }
-
-  // Android and standard DoH endpoints
-  if (url.pathname === "/.well-known/dns-query" || url.pathname === "/dns-query") {
-    return dohHandler(req, sets, currentMode);
-  }
-
-  // root
-  return new Response(`Custom DoH Server
-Endpoints:
-/dns-query (DoH JSON GET ?name=)
-/.well-known/dns-query (Android)
- /status   -> info
- /setmode?m=base|yt|tt&token=XXX
- /reload?token=XXX
-Current mode: ${currentMode}
-Counts: base=${sets.base.size} yt=${sets.yt.size} tt=${sets.tt.size} allow=${sets.allow.size}
-`, { headers: { "content-type": "text/plain" }});
-                            }
