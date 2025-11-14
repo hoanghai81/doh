@@ -159987,7 +159987,6 @@ tiktok-ads.hara.vn
 tiktok-user-events.boloforms.com
 tiktok.com
 tiktok.tray.com.br
-tiktokcdn.com
 tiktokcdn1.xyz
 tiktokcy1.com
 tiktokpangle-b.us
@@ -172138,7 +172137,6 @@ v1.wphonelife.com
 v12group.com
 v16-ad.byteoversea.com
 v16m-default.akamaized.net.iberostar.com
-v16m.tiktokcdn.com
 v16oumz76l2jkuzh.cfd
 v2.api.adflex.vn
 v2.chartboost.com
