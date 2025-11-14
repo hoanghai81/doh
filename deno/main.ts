@@ -117,3 +117,33 @@ async function handle(req: Request): Promise<Response> {
 
   return new Response("Deno DoH Filter - /dns-query?name=example.com /setmode?m=base|yt|tt&token=xxx /status", { headers: {"content-type":"text/plain"} });
             }
+
+// main.ts — fixed Android Private DNS support
+
+import { dohHandler } from "./doh.ts";
+
+export default {
+  async fetch(req: Request): Promise<Response> {
+    const url = new URL(req.url);
+
+    // --- Android Private DNS REQUIRED endpoint ---
+    // Android only accepts this exact path and MUST return DNS,
+    // redirect will NOT work.
+    if (url.pathname === "/.well-known/dns-query") {
+      return dohHandler(req);
+    }
+
+    // --- Standard DoH endpoint ---
+    if (url.pathname === "/dns-query") {
+      return dohHandler(req);
+    }
+
+    // --- Root page ---
+    return new Response(
+      `Custom DoH Server running.\nUse these endpoints:\n\n` +
+      `• /dns-query (standard)\n` +
+      `• /.well-known/dns-query (Android Private DNS)\n`,
+      { status: 200 }
+    );
+  }
+};
