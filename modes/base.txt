@@ -19471,6 +19471,7 @@ app.selectyourtickets.com
 app.seminoles.com
 app.semusi.com
 app.senaobz.cc
+app.sephora.com
 app.serverbid.com
 app.shopback.com
 app.shopimind.com
@@ -60789,6 +60790,7 @@ gitam.co.il
 gitbook.com
 gitcrumbs.com
 github-scanner.com
+github.com
 github.dev
 github.gpuzelenograd.cloudns.be
 githuhey.com
@@ -80276,6 +80278,7 @@ klaobgkmzjzko.top
 klarinsights.net
 klarnaservices.com
 klaushydra.com
+klaviyo.com
 klaviyo_analytics.js
 klavjn.niawigs.com
 klbbgbwwaylgm.top
@@ -80595,6 +80598,7 @@ kohgc.kaizenfoodcompany.com
 kohiseewhatm.com
 kohlermetrics.kohler.com
 kohlermetricssecure.kohler.com
+kohls.com
 kohns.sokolovelaw.com
 koi.artsvp.co
 koi.fftf.cat
@@ -83921,6 +83925,7 @@ link.supermama.io
 link.superviz.com
 link.support.discovery.plus
 link.surbee.io
+link.swa.info
 link.swaypayapp.com
 link.swingindex.golf
 link.swrve.com
@@ -125407,6 +125412,7 @@ sams.effilee.de
 sams.manager-lounge.de
 sams.manager-magazin.de
 sams.spiegel.de
+samsclub.com
 samsung.com
 samsungacr.com
 samsungadhub.com
@@ -158457,6 +158463,7 @@ techcombank.site
 techcombank.vn-ol.top
 techcombank.website
 techconverter.com
+techcrunch.com
 techfrenal.click
 techgifts.tradeshow.globalsources.com
 techiteration.com

@@ -1,4 +1,3 @@
-.intercom-clicks.com
 a-3.ru
 a24m.a-bank.com.ua
 aab.de
@@ -362,7 +361,6 @@ app.adjust.com
 app.dharma.io
 app.getresponse.com
 app.link
-app.sephora.com
 app2.salesmanago.pl
 app3.takasbank.web.tr
 appsflyer.com
@@ -867,7 +865,6 @@ click.pstmrk.it
 click.redditmail.com
 click.royalcaribbeanmarketing.com
 click.s.kohls.com
-click.snapshat.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -1022,7 +1019,6 @@ degussa-bank.de
 deine-volksbank.de
 delsuronline.com.ve
 delta-online.kz
-demo.seamless.ai
 dengisend.ru
 dengulebanken.no
 desjardins.com
@@ -1156,7 +1152,6 @@ ellisbank.com
 elster.de
 email-tracking.infobip.com
 email.docker.com
-email.namebase.io
 email.uber.com
 emiratesnbd.com
 emiratesnbd.com.eg
@@ -1306,14 +1301,12 @@ getpenta.com
 gg.gg
 gibank.ru
 gildeskaal-sparebank.no
-github.com
 global.moneygram.com
 globalhbl.com
 globexbank.ru
 gls-online-filiale.de
 gls.de
 gnbsudameris.com.co
-go.blokada.org
 go.flx1.com
 go.microsoft.com
 go.nordlocker.net
@@ -1331,9 +1324,6 @@ googletagmanager.com
 goonline.bnpparibas.pl
 gopjn.com
 gorod23.ru
-goto.algolia.com
-goto.jet.com
-goto.target.com
 gov.uk
 gr-go.kelkoogroup.net
 grab.com
@@ -1886,10 +1876,8 @@ kieler-volksbank.de
 kiwibank.co.nz
 kkb.ru
 klarna.com
-klaviyo.com
 klik.poba.hr
 klikbca.com
-kohls.com
 kokobank.com
 konet.kovanica.hr
 kontist.com
@@ -2015,9 +2003,6 @@ link.epicgames.com
 link.freshmail.mx
 link.otkritiefc.ru
 link.springer.com
-link.swa.info
-link.sylikes.com
-link.wizzair.com
 links.iterable.com
 links.mkt41.net
 links.mkt51.net
@@ -2067,7 +2052,6 @@ macquarie.com.au
 maerkische-bank.de
 magnetbank.hu
 maib.md
-mailerlite.com
 mangomoney.ru
 manimo.su
 marcard.de
@@ -3124,7 +3108,6 @@ saisoncard.co.jp
 salzlandsparkasse.de
 samba.com
 sampathvishwa.com
-samsclub.com
 samsungpop.com
 sanalpos.halkbank.com.tr
 santander.cl
@@ -3686,7 +3669,6 @@ synocommunity.com
 system.aliorbank.pl
 t-mobilebankowe.pl
 t.dripemail2.com
-t.emailing.monoprix.fr
 t.myvisualiq.net
 t.notif-colissimo-laposte.info
 t23.intelliad.de
@@ -3725,7 +3707,6 @@ tdbank.com
 tdcanadatrust.com
 teb.com.tr
 teba-kreditbank.de
-techcrunch.com
 teksweb.icbc.com.tr
 telebank.eatpbank.ru
 telebank.forshtadt.ru
@@ -4011,7 +3992,6 @@ verkkopankki2.danskebank.fi
 vicsuper.com.au
 vietcombank.com.vn
 vietinbank.vn
-view.email.nzz.ch
 view.virt.s7.exacttarget.com
 vip.ritzbank.ru
 virginmoney.com
@@ -4479,7 +4459,6 @@ www4.handelsbanken.fi
 xalqbank.az
 xcitybank.com.ua
 xg4ken.com
-xht.micromania.fr
 xn--80aae3af7av6a7a.xn
 xn--httenberger-bank-jzb.de
 xpi.com.br
