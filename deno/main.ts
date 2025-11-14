@@ -1,8 +1,8 @@
 // deno/main.ts
-const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPO_NAME/main/modes/base.txt";
-const GITHUB_RAW_YT   = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPO_NAME/main/modes/yt.txt";
-const GITHUB_RAW_TT   = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPO_NAME/main/modes/tt.txt";
-const GITHUB_RAW_ALLOW = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPO_NAME/main/modes/allow.txt";
+const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/hoanghai81/doh/main/modes/base.txt";
+const GITHUB_RAW_YT   = "https://raw.githubusercontent.com/hoanghai81/doh/main/modes/yt.txt";
+const GITHUB_RAW_TT   = "https://raw.githubusercontent.com/hoanghai81/doh/main/modes/tt.txt";
+const GITHUB_RAW_ALLOW = "https://raw.githubusercontent.com/hoanghai81/doh/main/modes/allow.txt";
 
 const CACHE_TTL = 1000 * 60 * 5; // 5 minutes
 let lastLoad = 0;
