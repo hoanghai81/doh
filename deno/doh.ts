@@ -1,96 +1,88 @@
-// deno/doh.ts
-const UPSTREAM = "https://max.rethinkdns.com/dns-query";
+import { isBlocked } from "./blocklist.ts";
 
-export async function handleDnsJson(name: string, sets: any, currentMode: string) {
-  const q = name.toLowerCase();
-
-  if (isAllowed(q, sets.allow)) {
-    return await forwardJson(q);
-  }
-  if (isBlocked(q, sets, currentMode)) {
-    return nxJson(q);
-  }
-  return await forwardJson(q);
+async function blockResponseJson(name: string) {
+  return Response.json(
+    {
+      Status: 3, // NXDOMAIN
+      Answer: [],
+      Question: [{ name, type: 1 }],
+    },
+    {
+      status: 200,
+      headers: { "content-type": "application/dns-json" },
+    },
+  );
 }
 
-export async function handleDnsMessage(req: Request, sets: any, currentMode: string) {
-  const body = new Uint8Array(await req.arrayBuffer());
-
-  // Extract QNAME from DNS message
-  const qname = extractName(body);
-  if (qname) {
-    if (isAllowed(qname, sets.allow)) return await forwardMsg(body);
-    if (isBlocked(qname, sets, currentMode)) return nxMsg(body);
-  }
-
-  return await forwardMsg(body);
-}
-
-// ---- helpers ----
-
-function isAllowed(name: string, allow: Set<string>) {
-  for (const a of allow)
-    if (name === a || name.endsWith("." + a)) return true;
-  return false;
-}
-
-function isBlocked(name: string, sets: any, mode: string) {
-  const list = mode === "yt" ? sets.yt : mode === "tt" ? sets.tt : sets.base;
-  for (const d of list)
-    if (name === d || name.endsWith("." + d)) return true;
-  return false;
-}
-
-function extractName(msg: Uint8Array) {
-  try {
-    let off = 12;
-    const labels = [];
-    while (true) {
-      const len = msg[off++];
-      if (!len) break;
-      labels.push(new TextDecoder().decode(msg.slice(off, off + len)));
-      off += len;
-    }
-    return labels.join(".").toLowerCase();
-  } catch {
-    return null;
-  }
-}
-
-async function forwardJson(name: string) {
-  const r = await fetch(UPSTREAM + "?name=" + name, {
-    headers: { accept: "application/dns-json" },
+async function blockResponseWire() {
+  // Return empty DNS packet
+  return new Response(new Uint8Array(), {
+    headers: { "content-type": "application/dns-message" },
+    status: 200,
   });
-  return new Response(await r.text(), {
+}
+
+export async function handleDnsJson(request: Request): Promise<Response> {
+  const url = new URL(request.url);
+  const name = url.searchParams.get("name")?.toLowerCase();
+  const type = url.searchParams.get("type") ?? "A";
+
+  if (!name) {
+    return Response.json({ error: "Missing name" }, { status: 400 });
+  }
+
+  // Check block
+  if (await isBlocked(name)) {
+    return blockResponseJson(name);
+  }
+
+  // Forward upstream
+  const upstream = `https://1.1.1.1/dns-query?name=${name}&type=${type}`;
+  const res = await fetch(upstream, {
+    headers: { "accept": "application/dns-json" },
+  });
+
+  return new Response(await res.text(), {
     headers: { "content-type": "application/dns-json" },
+    status: res.status,
   });
 }
 
-async function forwardMsg(body: Uint8Array) {
-  const r = await fetch(UPSTREAM, {
+export async function handleDnsWireformat(request: Request): Promise<Response> {
+  const body = new Uint8Array(await request.arrayBuffer());
+
+  // Parse qname from DNS packet → very basic
+  const domain = extractDomainFromWire(body);
+
+  if (domain && await isBlocked(domain)) {
+    return blockResponseWire();
+  }
+
+  const upstream = "https://1.1.1.1/dns-query";
+  const res = await fetch(upstream, {
     method: "POST",
     headers: { "content-type": "application/dns-message" },
     body,
   });
-  return new Response(await r.arrayBuffer(), {
+
+  return new Response(await res.arrayBuffer(), {
     headers: { "content-type": "application/dns-message" },
+    status: res.status,
   });
 }
 
-function nxJson(name: string) {
-  return Response.json({
-    Status: 3,
-    Question: [{ name, type: 1 }],
-    Answer: [],
-  });
-}
-
-function nxMsg(reqBody: Uint8Array) {
-  // return same header ID but no answers
-  const out = new Uint8Array(reqBody.length);
-  out.set(reqBody);
-  out[2] |= 0x03; // RCODE = 3 (NXDOMAIN)
-  return new Response(out, {
-    headers: { "content-type": "application/dns-message" },
-  });
+// Minimal DNS parser (enough for blocking)
+function extractDomainFromWire(buf: Uint8Array): string | null {
+  try {
+    let p = 12; // skip header
+    let labels = [];
+    while (buf[p] !== 0) {
+      const len = buf[p];
+      labels.push(new TextDecoder().decode(buf.slice(p + 1, p + 1 + len)));
+      p += len + 1;
     }
+    return labels.join(".").toLowerCase();
+  } catch (_) {
+    return null;
+  }
+}
