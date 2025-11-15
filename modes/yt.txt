@@ -19101,6 +19101,7 @@ app.hotdoc.com.au
 app.hstatic.net
 app.humanaresponses.com
 app.huskers.com
+app.hype.it
 app.iamblackbusiness.com
 app.id.plascoid.com
 app.idexevent.com
@@ -28442,6 +28443,7 @@ cafefrench.com
 cafemedia.com
 cafenews.pl
 cafepharma.adblade.com
+cafescampfires.com
 cafewarriors.com
 cafhstudio.help
 cafi.happyfamily1st.com
@@ -47610,6 +47612,7 @@ doolaustash.com
 dooloust.net
 doomail.org
 doomdefender.com
+doomhedge.com
 doomna.com
 doordash.com
 doormanracket.com
@@ -98587,6 +98590,7 @@ mixpanel-init.js
 mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
 mixpanel.com
+mixpanel.js
 mixpo.com
 mixproxy.epoch.cloud
 mixtraff.com
