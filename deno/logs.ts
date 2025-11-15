@@ -37,12 +37,24 @@ export function serveLogsPage(): Response {
 export function serveLogsStream(): Response {
   const body = new ReadableStream({
     start(controller) {
-      send();
-      function send() {
-        const txt = logs.join("\\n");
-        controller.enqueue(`data: ${txt}\n\n`);
-        setTimeout(send, 1500);
-      }
+      let closed = false;
+
+      const interval = setInterval(() => {
+        try {
+          if (closed) return;
+          controller.enqueue(`data: ${logs.join("\n")}\n\n`);
+        } catch {
+          // client disconnect → stop enqueue
+          closed = true;
+          clearInterval(interval);
+        }
+      }, 1500);
+
+      // Khi client đóng kết nối
+      controller.signal.addEventListener("abort", () => {
+        closed = true;
+        clearInterval(interval);
+      });
     },
   });
 
