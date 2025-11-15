@@ -1,57 +1,19 @@
-import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
-import { handleDnsQuery } from "./doh.ts";
-import { getLogs } from "./logs.ts";
+import {
+  handleDnsJson,
+  handleDnsWireformat,
+} from "./doh.ts";
 
-serve(async (req: Request) => {
-  const url = new URL(req.url);
-  const pathname = url.pathname;
+Deno.serve((request: Request) => {
+  const url = new URL(request.url);
 
-  if (pathname === "/logs") {
-    const html = await Deno.readTextFile("./deno/logs.html");
-    return new Response(html, {
-      headers: { "content-type": "text/html" },
-    });
+  if (url.pathname === "/dns-query") {
+    if (request.method === "GET") return handleDnsJson(request);
+    if (request.method === "POST") return handleDnsWireformat(request);
   }
 
-  if (pathname === "/logs/json") {
-    return new Response(JSON.stringify(getLogs()), {
-      headers: { "content-type": "application/json" },
-    });
-  }
-
-  if (pathname === "/status") {
-    return new Response(
-      JSON.stringify({
-        status: "running",
-        doh: "/dns-query",
-        logs: "enabled",
-      }),
-      { headers: { "content-type": "application/json" } },
-    );
-  }
-
-  if (pathname === "/dns-query") {
-    if (req.method === "POST") {
-      const body = new Uint8Array(await req.arrayBuffer());
-      const out = await handleDnsQuery(body, req);
-      return new Response(out, {
-        headers: { "content-type": "application/dns-message" },
-      });
-    }
-
-    const dnsParam = url.searchParams.get("dns");
-    if (dnsParam) {
-      const body = Uint8Array.from(atob(dnsParam), (c) =>
-        c.charCodeAt(0)
-      );
-      const out = await handleDnsQuery(body, req);
-      return new Response(out, {
-        headers: { "content-type": "application/dns-message" },
-      });
-    }
-
-    return new Response("Bad Request", { status: 400 });
-  }
-
-  return new Response("DOH Server OK");
+  return Response.json({
+    status: "running",
+    doh: "/dns-query",
+    blocklist: "enabled",
+  });
 });
