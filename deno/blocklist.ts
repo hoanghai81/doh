@@ -2,6 +2,7 @@
 // Loads allow/block lists and keeps them in memory
 
 const BLOCKLIST_URLS = [
+  "https://a.rawtv.top/youtube-blocker",
   "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
   "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt",
   "https://easylist.to/easylist/easyprivacy.txt",
