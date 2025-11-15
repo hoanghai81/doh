@@ -1,33 +1,31 @@
-import {
-  handleDnsJson,
-  handleDnsWireformat,
-} from "./doh.ts";
-import { appendLog, serveLogsPage, serveLogsStream } from "./logs.ts";
+import { handleDnsJson, handleDnsWireformat } from "./doh.ts";
+import { logLine, serveLogs } from "./logs.ts";
 
-Deno.serve(async (request: Request) => {
+Deno.serve((request: Request) => {
   const url = new URL(request.url);
 
-  // ---- Live Logs Routes (NEW but safe) ----
-  if (url.pathname === "/logs") return serveLogsPage();
-  if (url.pathname === "/logs/stream") return serveLogsStream();
+  // xem log text
+  if (url.pathname === "/logs") {
+    return serveLogs();
+  }
 
-  // ---- DOH Routes (KEEP EXACTLY LIKE ORIGINAL) ----
+  // DOH
   if (url.pathname === "/dns-query") {
     if (request.method === "GET") {
-      appendLog("GET JSON");
+      logLine("GET JSON");
       return handleDnsJson(request);
     }
     if (request.method === "POST") {
-      appendLog("POST WIREFORMAT");
+      logLine("POST WIREFORMAT");
       return handleDnsWireformat(request);
     }
   }
 
-  // ---- Status ----
+  // status
   return Response.json({
     status: "running",
     doh: "/dns-query",
     blocklist: "enabled",
-    logs: "/logs",
+    logs: "/logs"
   });
 });
