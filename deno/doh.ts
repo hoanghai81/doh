@@ -26,7 +26,7 @@ function readName(view: DataView, offset: number): string {
   return labels.join(".");
 }
 
-// Trả NXDOMAIN
+// NXDOMAIN
 function nxdomain(req: Uint8Array): Uint8Array {
   const resp = new Uint8Array(req.length);
   resp.set(req);
@@ -34,7 +34,7 @@ function nxdomain(req: Uint8Array): Uint8Array {
   return resp;
 }
 
-// Forward upstream → Cloudflare
+// Forward upstream → Cloudflare DNS
 async function resolveUpstream(q: Uint8Array): Promise<Uint8Array> {
   const resp = await fetch("https://cloudflare-dns.com/dns-query", {
     method: "POST",
@@ -44,8 +44,13 @@ async function resolveUpstream(q: Uint8Array): Promise<Uint8Array> {
   return new Uint8Array(await resp.arrayBuffer());
 }
 
-// 👉 HÀM QUAN TRỌNG PHẢI EXPORT — handleDnsQuery
-export async function handleDnsQuery(body: Uint8Array, req: Request): Promise<Uint8Array> {
+// ============================================
+// 🟢 EXPORT CHÍNH – QUAN TRỌNG
+// ============================================
+export async function handleDnsQuery(
+  body: Uint8Array,
+  req: Request,
+): Promise<Uint8Array> {
   const view = new DataView(body.buffer);
   const qdcount = view.getUint16(4);
   if (qdcount !== 1) return nxdomain(body);
@@ -55,6 +60,7 @@ export async function handleDnsQuery(body: Uint8Array, req: Request): Promise<Ui
 
   while (body[offset] !== 0) offset += body[offset] + 1;
   offset++;
+
   const qtype = view.getUint16(offset);
 
   const clientIp =
@@ -66,6 +72,7 @@ export async function handleDnsQuery(body: Uint8Array, req: Request): Promise<Ui
     ? "BLOCK"
     : "ALLOW";
 
+  // Ghi log
   addLog(hostname, String(qtype), action, clientIp);
 
   if (action === "BLOCK") return nxdomain(body);
