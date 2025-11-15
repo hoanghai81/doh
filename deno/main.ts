@@ -1,51 +1,19 @@
-import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
-import { handleDnsQuery } from "./doh.ts";
-import { getLogs } from "./logs.ts";
+import {
+  handleDnsJson,
+  handleDnsWireformat,
+} from "./doh.ts";
 
-serve(async (req: Request) => {
-  const url = new URL(req.url);
-  const p = url.pathname;
+Deno.serve((request: Request) => {
+  const url = new URL(request.url);
 
-  if (p === "/logs") {
-    const html = await Deno.readTextFile("./deno/logs.html");
-    return new Response(html, { headers: { "content-type": "text/html" } });
+  if (url.pathname === "/dns-query") {
+    if (request.method === "GET") return handleDnsJson(request);
+    if (request.method === "POST") return handleDnsWireformat(request);
   }
 
-  if (p === "/logs/json") {
-    return new Response(JSON.stringify(getLogs()), {
-      headers: { "content-type": "application/json" },
-    });
-  }
-
-  if (p === "/status") {
-    return new Response(
-      JSON.stringify({ status: "running", logs: "ok", doh: "/dns-query" }),
-      { headers: { "content-type": "application/json" } },
-    );
-  }
-
-  if (p === "/dns-query") {
-    // POST (DoH)
-    if (req.method === "POST") {
-      const body = new Uint8Array(await req.arrayBuffer());
-      const resp = await handleDnsQuery(body, req);
-      return new Response(resp, {
-        headers: { "content-type": "application/dns-message" },
-      });
-    }
-
-    // GET ?dns=
-    const dns = url.searchParams.get("dns");
-    if (dns) {
-      const raw = Uint8Array.from(atob(dns), (c) => c.charCodeAt(0));
-      const resp = await handleDnsQuery(raw, req);
-      return new Response(resp, {
-        headers: { "content-type": "application/dns-message" },
-      });
-    }
-
-    return new Response("Bad Request", { status: 400 });
-  }
-
-  return new Response("OK", { status: 200 });
+  return Response.json({
+    status: "running",
+    doh: "/dns-query",
+    blocklist: "enabled",
+  });
 });
