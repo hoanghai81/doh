@@ -1,31 +1,41 @@
 import { handleDnsJson, handleDnsWireformat } from "./doh.ts";
-import { logLine, serveLogs } from "./logs.ts";
+import { addLog, serveLogs } from "./logs.ts";
+import { isBlocked } from "./blocklist.ts";
 
-Deno.serve((request: Request) => {
+Deno.serve(async (request: Request) => {
   const url = new URL(request.url);
 
-  // xem log text
+  // logs page
   if (url.pathname === "/logs") {
     return serveLogs();
   }
 
-  // DOH
+  // DOH route
   if (url.pathname === "/dns-query") {
     if (request.method === "GET") {
-      logLine("GET JSON");
-      return handleDnsJson(request);
+      const { response, qName } = await handleDnsJson(request);
+
+      if (qName) {
+        addLog(qName, isBlocked(qName) ? "block" : "allow");
+      }
+
+      return response;
     }
+
     if (request.method === "POST") {
-      logLine("POST WIREFORMAT");
-      return handleDnsWireformat(request);
+      const { response, qName } = await handleDnsWireformat(request);
+
+      if (qName) {
+        addLog(qName, isBlocked(qName) ? "block" : "allow");
+      }
+
+      return response;
     }
   }
 
-  // status
   return Response.json({
     status: "running",
     doh: "/dns-query",
-    blocklist: "enabled",
-    logs: "/logs"
+    logs: "/logs",
   });
 });
