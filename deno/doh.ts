@@ -1,110 +1,76 @@
-import { ensureBlocklistsLoaded, isBlocked } from "./blocklist.ts";
+// deno/doh.ts
+import { addLog } from "./logs.ts";
 
-const UPSTREAM_DOH = "https://1.1.1.1/dns-query";
+// Load blocklist
+const blockAll = await Deno.readTextFile("./deno/modes/merged_block_all.txt")
+  .then((t) => new Set(t.split("\n").map((l) => l.trim()).filter((x) => x)));
 
+const encoder = new TextEncoder();
+const decoder = new TextDecoder();
 
-// =====================================
-// 1) JSON GET handler
-// =====================================
-export async function handleDnsJson(request: Request): Promise<Response> {
-  await ensureBlocklistsLoaded();
-
-  const url = new URL(request.url);
-  const name = url.searchParams.get("name");
-  const type = url.searchParams.get("type") ?? "A";
-
-  if (!name) {
-    return Response.json({ error: "missing name" }, { status: 400 });
+// Parse DNS name from query
+function readName(view: DataView, offset: number): string {
+  let labels: string[] = [];
+  while (true) {
+    let len = view.getUint8(offset);
+    if (len === 0) break;
+    offset++;
+    let parts = [];
+    for (let i = 0; i < len; i++) {
+      parts.push(String.fromCharCode(view.getUint8(offset + i)));
+    }
+    labels.push(parts.join(""));
+    offset += len;
   }
-
-  if (isBlocked(name)) {
-    return Response.json({
-      Status: 0,
-      Answer: [],
-      Comment: "Blocked by custom blocklist (JSON)",
-    });
-  }
-
-  const upstream = `${UPSTREAM_DOH}?name=${encodeURIComponent(name)}&type=${type}`;
-  const upstreamResp = await fetch(upstream, {
-    headers: { "accept": "application/dns-json" },
-  });
-
-  return new Response(await upstreamResp.text(), {
-    headers: { "content-type": "application/dns-json" },
-  });
+  return labels.join(".");
 }
 
+// Create NXDOMAIN response
+function nxdomain(request: Uint8Array): Uint8Array {
+  const resp = new Uint8Array(request.length);
+  resp.set(request);
+  resp[2] |= 0x03; // rcode 3 = NXDOMAIN
+  return resp;
+}
 
-// =====================================
-// 2) WIREFORMAT POST handler (REAL DOH)
-// =====================================
-export async function handleDnsWireformat(request: Request): Promise<Response> {
-  await ensureBlocklistsLoaded();
-
-  // parse DNS query name out of wireformat packet
-  const buf = new Uint8Array(await request.arrayBuffer());
-  const qName = extractNameFromWireformat(buf);
-
-  // if could parse name AND is blocked → return NXDOMAIN
-  if (qName && isBlocked(qName)) {
-    const nxdomain = buildNXDomainResponse(buf);
-    return new Response(nxdomain, {
-      headers: { "content-type": "application/dns-message" },
-    });
-  }
-
-  // otherwise forward request upstream
-  const upstreamResp = await fetch(UPSTREAM_DOH, {
+// Forward allowed queries to 1.1.1.1
+async function resolveUpstream(q: Uint8Array): Promise<Uint8Array> {
+  const resp = await fetch("https://cloudflare-dns.com/dns-query", {
     method: "POST",
     headers: { "content-type": "application/dns-message" },
-    body: buf,
+    body: q,
   });
-
-  return new Response(await upstreamResp.arrayBuffer(), {
-    headers: { "content-type": "application/dns-message" },
-  });
+  return new Uint8Array(await resp.arrayBuffer());
 }
 
+export async function handleDnsQuery(body: Uint8Array, req: Request) {
+  const view = new DataView(body.buffer);
+  const qdcount = view.getUint16(4);
 
-// ========================================
-// PARSE DNS NAME FROM WIREFORMAT
-// ========================================
-function extractNameFromWireformat(data: Uint8Array): string | null {
-  try {
-    let pos = 12; // skip header
-    const labels = [];
+  if (qdcount !== 1) return nxdomain(body);
 
-    while (true) {
-      const len = data[pos];
-      if (len === 0) break;
-      if (len > 63) return null; // invalid
+  let offset = 12;
+  const hostname = readName(view, offset).toLowerCase();
 
-      const label = new TextDecoder().decode(data.slice(pos + 1, pos + 1 + len));
-      labels.push(label);
-      pos += len + 1;
-    }
+  // Move offset to qtype
+  while (body[offset] !== 0) offset += body[offset] + 1;
+  offset++;
+  const qtype = view.getUint16(offset);
 
-    return labels.join(".").toLowerCase();
-  } catch {
-    return null;
-  }
-}
+  const clientIp =
+    req.headers.get("x-forwarded-for") ??
+    req.headers.get("cf-connecting-ip") ??
+    "unknown";
 
+  // Check blocklist
+  let action: "ALLOW" | "BLOCK" = "ALLOW";
+  if (blockAll.has(hostname)) action = "BLOCK";
 
-// ========================================
-// BUILD NXDOMAIN RESPONSE
-// ========================================
-function buildNXDomainResponse(query: Uint8Array): Uint8Array {
-  const resp = new Uint8Array(query);
+  // Log event
+  addLog(hostname, String(qtype), action, clientIp);
 
-  // Set response flags: QR=1, RCODE=3 (NXDOMAIN)
-  resp[2] |= 0b10000000; // QR = response
-  resp[3] |= 0b00000011; // RCODE = 3 (NXDOMAIN)
+  if (action === "BLOCK") return nxdomain(body);
 
-  // Answer count = 0
-  resp[6] = 0;
-  resp[7] = 0;
-
-  return resp;
+  // Allow → forward to upstream
+  return await resolveUpstream(body);
       }
