@@ -1,6 +1,6 @@
 import { addLog } from "./logs.ts";
 
-// Load blocklist từ file merged tại root /modes/
+// Load blocklist
 const blockAll = await Deno.readTextFile("./modes/merged_block_all.txt")
   .then((t) =>
     new Set(
@@ -9,10 +9,7 @@ const blockAll = await Deno.readTextFile("./modes/merged_block_all.txt")
   )
   .catch(() => new Set<string>());
 
-const decoder = new TextDecoder();
-const encoder = new TextEncoder();
-
-// Hàm đọc tên domain từ packet DNS
+// Helper: đọc domain từ DNS packet
 function readName(view: DataView, offset: number): string {
   const labels: string[] = [];
   while (true) {
@@ -29,15 +26,15 @@ function readName(view: DataView, offset: number): string {
   return labels.join(".");
 }
 
-// Tạo response NXDOMAIN
+// Trả NXDOMAIN
 function nxdomain(req: Uint8Array): Uint8Array {
   const resp = new Uint8Array(req.length);
   resp.set(req);
-  resp[2] |= 0x03; // RCODE = 3 (NXDOMAIN)
+  resp[2] |= 0x03;
   return resp;
 }
 
-// Forward query đến upstream (Cloudflare)
+// Forward upstream → Cloudflare
 async function resolveUpstream(q: Uint8Array): Promise<Uint8Array> {
   const resp = await fetch("https://cloudflare-dns.com/dns-query", {
     method: "POST",
@@ -47,42 +44,31 @@ async function resolveUpstream(q: Uint8Array): Promise<Uint8Array> {
   return new Uint8Array(await resp.arrayBuffer());
 }
 
-// Hàm chính xử lý DoH
+// 👉 HÀM QUAN TRỌNG PHẢI EXPORT — handleDnsQuery
 export async function handleDnsQuery(body: Uint8Array, req: Request): Promise<Uint8Array> {
   const view = new DataView(body.buffer);
   const qdcount = view.getUint16(4);
-  if (qdcount !== 1) {
-    return nxdomain(body);
-  }
+  if (qdcount !== 1) return nxdomain(body);
 
-  // Đọc hostname
   let offset = 12;
   const hostname = readName(view, offset).toLowerCase();
 
-  // Tìm qtype
-  while (body[offset] !== 0) {
-    offset += body[offset] + 1;
-  }
+  while (body[offset] !== 0) offset += body[offset] + 1;
   offset++;
   const qtype = view.getUint16(offset);
 
-  // Lấy IP client nếu có
   const clientIp =
     req.headers.get("x-forwarded-for") ??
     req.headers.get("cf-connecting-ip") ??
     "unknown";
 
-  // Kiểm tra block
-  const action: "ALLOW" | "BLOCK" = blockAll.has(hostname) ? "BLOCK" : "ALLOW";
+  const action: "ALLOW" | "BLOCK" = blockAll.has(hostname)
+    ? "BLOCK"
+    : "ALLOW";
 
-  // Ghi log
   addLog(hostname, String(qtype), action, clientIp);
 
-  // Nếu BLOCK → trả NXDOMAIN
-  if (action === "BLOCK") {
-    return nxdomain(body);
-  }
+  if (action === "BLOCK") return nxdomain(body);
 
-  // Nếu ALLOW → forward
   return await resolveUpstream(body);
 }
