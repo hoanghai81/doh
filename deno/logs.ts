@@ -1,35 +1,52 @@
-// deno/logs.ts
-interface LogEntry {
-  time: number;
-  hostname: string;
-  type: string;
-  action: "ALLOW" | "BLOCK";
-  client: string;
+let logs: string[] = [];
+const LIMIT = 200;
+
+export function appendLog(line: string) {
+  const t = new Date().toISOString();
+  logs.push(`[${t}] ${line}`);
+  if (logs.length > LIMIT) logs.shift();
 }
 
-const MAX_LOGS = 600;        // ~10 phút nếu 1 request/second
-const MAX_AGE = 10 * 60 * 1000; // 10 phút
+export function serveLogsPage(): Response {
+  return new Response(
+    `<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Live DNS Logs</title>
+      <style>
+        body { font-family: monospace; background:#111; color:#0f0; padding:20px; }
+        #log { white-space:pre-wrap; }
+      </style>
+    </head>
+    <body>
+      <h2>Live DNS Logs</h2>
+      <div id="log">Loading...</div>
 
-let logs: LogEntry[] = [];
-
-export function addLog(
-  hostname: string,
-  type: string,
-  action: "ALLOW" | "BLOCK",
-  client: string,
-) {
-  const now = Date.now();
-
-  logs.push({ time: now, hostname, type, action, client });
-
-  if (logs.length > MAX_LOGS) logs.shift();
-
-  // Dọn log quá cũ
-  logs = logs.filter((l) => now - l.time < MAX_AGE);
+      <script>
+        const logDiv = document.getElementById("log");
+        const es = new EventSource("/logs/stream");
+        es.onmessage = (e) => { logDiv.textContent = e.data; };
+      </script>
+    </body>
+    </html>`,
+    { headers: { "content-type": "text/html" } }
+  );
 }
 
-export function getLogs() {
-  const now = Date.now();
-  logs = logs.filter((l) => now - l.time < MAX_AGE);
-  return logs.slice().reverse();
+export function serveLogsStream(): Response {
+  const body = new ReadableStream({
+    start(controller) {
+      send();
+      function send() {
+        const txt = logs.join("\\n");
+        controller.enqueue(`data: ${txt}\n\n`);
+        setTimeout(send, 1500);
       }
+    },
+  });
+
+  return new Response(body, {
+    headers: { "content-type": "text/event-stream" },
+  });
+}
