@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Live Logs</title>
+<style>
+  body {
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: monospace;
+    padding: 20px;
+  }
+  h2 {
+    color: #58a6ff;
+    margin-bottom: 15px;
+  }
+  .log {
+    padding: 6px 10px;
+    border-left: 4px solid #30363d;
+    margin-bottom: 6px;
+    background: #161b22;
+  }
+  .allow { border-color: #3fb950; }
+  .block { border-color: #f85149; }
+  .time { color: #8b949e; margin-right: 10px; }
+  .host { color: #58a6ff; }
+  .action-block { color: #f85149; font-weight: bold; }
+  .action-allow { color: #3fb950; font-weight: bold; }
+</style>
+</head>
+<body>
+<h2>Realtime DNS Logs</h2>
+<div id="logs">Loading...</div>
+
+<script>
+async function loadLogs() {
+  try {
+    const res = await fetch("/logs/json");
+    const items = await res.json();
+    const box = document.getElementById("logs");
+    box.innerHTML = "";
+
+    items.forEach(l => {
+      const t = new Date(l.time).toLocaleTimeString();
+      const div = document.createElement("div");
+      div.className = "log " + (l.action === "BLOCK" ? "block" : "allow");
+      div.innerHTML = `
+        <span class="time">${t}</span>
+        <span class="action-${l.action.toLowerCase()}">${l.action}</span>
+        &nbsp;&nbsp;
+        <span class="host">${l.hostname}</span>
+        &nbsp;&nbsp;
+        <span>(${l.type})</span>
+        &nbsp;&nbsp;
+        <span>— ${l.client}</span>
+      `;
+      box.appendChild(div);
+    });
+
+    if (items.length === 0) {
+      box.innerHTML = "<i>No logs yet...</i>";
+    }
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+setInterval(loadLogs, 1500);
+loadLogs();
+</script>
+</body>
+                           </html>
