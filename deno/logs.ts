@@ -37,28 +37,26 @@ export function serveLogsPage(): Response {
 export function serveLogsStream(): Response {
   const body = new ReadableStream({
     start(controller) {
-      let closed = false;
-
       const interval = setInterval(() => {
         try {
-          if (closed) return;
           controller.enqueue(`data: ${logs.join("\n")}\n\n`);
-        } catch {
-          // client disconnect → stop enqueue
-          closed = true;
+        } catch (_e) {
+          // client closed → stop sending
           clearInterval(interval);
         }
       }, 1500);
-
-      // Khi client đóng kết nối
-      controller.signal.addEventListener("abort", () => {
-        closed = true;
-        clearInterval(interval);
-      });
     },
+    cancel() {
+      // Called when client closes connection
+      // No need to do anything else
+    }
   });
 
   return new Response(body, {
-    headers: { "content-type": "text/event-stream" },
+    headers: {
+      "content-type": "text/event-stream",
+      "cache-control": "no-cache",
+      "connection": "keep-alive",
+    },
   });
-}
+  }
