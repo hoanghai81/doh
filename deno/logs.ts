@@ -3,7 +3,10 @@ const LIMIT = 200;
 
 export function addLog(host: string, status: "allow" | "block" | "unknown") {
   logs.push({
-    time: new Date().toISOString(),
+    time: new Date().toLocaleString("en-GB", {
+  timeZone: "Asia/Ho_Chi_Minh",
+  hour12: false
+}),
     host,
     status,
   });
