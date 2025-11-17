@@ -17256,6 +17256,7 @@ api-meta.mercelsantos.com.br
 api-metric.gosweb.gosuslugi.ru
 api-mg2.db-ip.com
 api-notify.markarch.com
+api-pf.nw18.com
 api-public.addthis.com
 api-public.roland.com
 api-rewarded-video.fyber.com
