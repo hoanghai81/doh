@@ -35,6 +35,7 @@ ad.dyntracker.de
 adclick.g.doubleclick.net
 adelaidebank.com.au
 adelfibanking.com
+ads-cdn.fptplay.net
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -301,9 +302,11 @@ alfabank.kz
 alfabank.ru
 alfaportal.ru
 alfransi.com.sa
+alibabachengdun.com
 alinma.com
 aliorbank.pl
 alipay.com
+aliyun.com
 allegacy.org
 allgaeuer-volksbank.de
 allianceonline.com.my
@@ -320,6 +323,7 @@ alterna.ca
 altinn.no
 alxinger-bank.de
 amazon-adsystem.com
+amazon.com
 ambank.amonline.com.my
 ambank.com.my
 amedigital.com
@@ -328,9 +332,12 @@ americanexpress.com
 amp.com.au
 amrahbank.az
 amundi-tc.com
+analytics.google.com
 analytics.twitter.com
 andebu-sparebank.no
 androidpay-users-pa.googleapis.com
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 anrdoezrs.net
 anz.co.nz
 anz.com
@@ -340,10 +347,15 @@ apeksbank.com.ua
 apexsmrt.b2clogin.com
 api.oplata.com
 api.tech26.de
+api3-onplay.gviet.vn
 apigw.tosspayments.com
+apigwon-cdn.gviet.vn
+apigwon.gviet.vn
 apiservices.krxd.net
 apmebf.com
 apobank.de
+app-analytics-services.com
+app-measurement.com
 app.aave.com
 app.adjust.com
 app.dharma.io
@@ -351,6 +363,7 @@ app.getresponse.com
 app.link
 app2.salesmanago.pl
 app3.takasbank.web.tr
+appsflyer.com
 apsiyon.com
 aquacard.co.uk
 arabbank.com.lb
@@ -722,6 +735,7 @@ caixa-enginyers.com
 caixa.gov.br
 caixaebankingonline.cgd.pt
 cajamar.es
+camo.voz.tech
 campaign.adobe.com
 campuscu.com
 canarabank.in
@@ -762,6 +776,8 @@ ccb.ru
 ccbank.ru
 ccservicing.com
 cdm24.pl
+cdn.jsdelivr.net
+cdn.optimizely.com
 ceconline.ro
 celsius.network
 centrifuge.io
@@ -874,6 +890,7 @@ clk.boulanger.com
 clk.tradedoubler.com
 clkuk.tradedoubler.com
 cloud.fsiblbd.com
+cloudflare.com
 cmbank.ru
 cmbchina.com
 cmr.cl
@@ -913,6 +930,7 @@ cotabank.com.tw
 county2.riverbank.co.ke
 coventrybuildingsociety.co.uk
 cp.bluesnap.com
+cphub.net
 credicard.com.br
 credit-agricole.fr
 credit-suisse.com
@@ -1034,6 +1052,7 @@ dk-go.kelkoogroup.net
 dkb.de
 dkm.de
 docfcu.org
+dockernb.com
 donau-iller-bank.de
 donner-reuschel.de
 dovoba.de
@@ -1073,6 +1092,7 @@ e25.pl
 ea.galerieslafayette.com
 eantrag.ibb.de
 eastwestbanker.com
+easy4ipcloud.com
 easycredit.de
 easypay.axisbank.co.in
 easypay.ua
@@ -1220,6 +1240,7 @@ fineco.it
 finecobank.com
 fintro.be
 fio.cz
+firebaseio.com
 firstbank.com.tw
 firstbankcard.com
 firstcard.se
@@ -1277,6 +1298,7 @@ george.bcr.ro
 george.erstebank.hr
 getlogin.rosbank.ru
 getpenta.com
+gg.gg
 gibank.ru
 gildeskaal-sparebank.no
 global.moneygram.com
@@ -1296,11 +1318,15 @@ go.skimresources.com
 go2jump.org
 gobank-online.de
 goldenpay.az
+google-analytics.com
+googleapis.com
+googletagmanager.com
 goonline.bnpparibas.pl
 gopjn.com
 gorod23.ru
 gov.uk
 gr-go.kelkoogroup.net
+grab.com
 grafschafter-volksbank.de
 granitbank.hu
 greenmoney.ru
@@ -1318,6 +1344,7 @@ guarda.co
 guce.advertising.com
 gunaybank.com
 gutapay.ru
+gviet.vn
 gws.sauberbank.com
 hafnerbank.de
 hagnauer-volksbank.de
@@ -1360,6 +1387,9 @@ hemnesparebank.no
 hermsdorfer-kreuz.de
 herner-sparkasse.de
 hesab.az
+heytapdl.com
+heytapmobi.com
+heytapmobile.com
 hitbtc.com
 hjartdalbanken.no
 hjelmeland-sparebank.no
@@ -1663,6 +1693,7 @@ ibankr.ricbank.com
 ibankretail.nbg.gr
 ibankrez.kremlinbank.ru
 ibar.az
+ibb.co
 ibc.gib.ru
 ibc.orgbank.ru
 ibc.roscap.com
@@ -1713,8 +1744,11 @@ ikb.uci-bank.com
 ikib.ru
 ilbank.gov.tr
 image.email.microsoftemail.com
+imasdk.googleapis.com
 imbanking.by
 imexnet.imexbanka.hr
+imgur.com
+imnks.com
 imoneybank.ru
 in-bank.ru
 in.agri-bank.com
@@ -1947,6 +1981,7 @@ lansforsakringar.se
 larvikbanken.no
 leaseplanbank.de
 leboutique.com
+leechers-paradise.org
 legalandgeneral.com
 leipziger-volksbank.de
 leomoney.com
@@ -2428,6 +2463,7 @@ open.ru
 open.spotify.com
 openbank.es
 openbank.ru
+openwebtorrent.com
 operbank.hu
 oplata.beeline.ru
 oplata.lifecell.com.ua
@@ -2463,6 +2499,7 @@ p2p.mdm.ru
 p2y.com.ua
 pagbrasil.com
 pagead.l.doubleclick.net
+pagead2.googlesyndication.com
 pagseguro.uol.com.br
 palmettohealthcu.org
 papara.com
@@ -2647,6 +2684,7 @@ psd-westfalen-lippe.de
 psdbank-ht.de
 pt-go.kelkoogroup.net
 pttbank.ptt.gov.tr
+pub.3gppnetwork.org
 pvu.nets.no
 pxpayplus.com
 qantas.com
@@ -3194,6 +3232,9 @@ shinhan.com
 shinhan.de
 shinhan.kz
 shinseibank.com
+shopee.com
+shopee.vn
+shopeemobile.com
 shpd.motivtelecom.ru
 siab.ru
 sibank.ru
@@ -3624,6 +3665,7 @@ syndicatebank.in
 syndication.exosrv.com
 syndication.realsrv.com
 syndonline.in
+synocommunity.com
 system.aliorbank.pl
 t-mobilebankowe.pl
 t.dripemail2.com
@@ -3641,6 +3683,7 @@ taishinbank.com.tw
 takarekbank.hu
 takasbank.com.tr
 tangerine.ca
+taobao.com
 target.clickfunnels.com
 target.georiot.com
 targobank.de
@@ -3674,6 +3717,7 @@ terminal.akado.ru
 terminal.ecommpay.com
 terminal.ucs.su
 tescobank.com
+textuploader.com
 th.bibplus.uobgroup.com
 thanachartbank.co.th
 the-home-depot-ca.pxf.io
@@ -3705,6 +3749,7 @@ track.seadform.net
 track.shoparize.com
 track.webgains.com
 trackcmp.net
+tracker.dler.org
 tracker.marinsm.com
 tracking.publicidees.com
 tracking.s24.com
@@ -3954,7 +3999,9 @@ virtualbanking.mcb.com.lk
 viseca.ch
 visecaone.ch
 vivuso.ru
+vlstream.net
 vlvb.de
+vnecdn.net
 voba-aschaffenburg.de
 voba-aw.de
 voba-bigge-lenne.de
