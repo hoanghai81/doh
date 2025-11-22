@@ -1,6 +1,6 @@
 import { ensureBlocklistsLoaded, isBlocked } from "./blocklist.ts";
 
-const UPSTREAM_DOH = "https://1.1.1.1/dns-query";
+const UPSTREAM_DOH = "https://dns.nextdns.io";
 
 export async function handleDnsJson(request: Request) {
   await ensureBlocklistsLoaded();
