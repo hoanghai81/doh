@@ -7054,6 +7054,7 @@ aa.cbsi.com
 aa.cbsnews.com
 aa.cbssports.com
 aa.cnet.com
+aa.com
 aa.comicbook.com
 aa.db-finanzberatung.de
 aa.deutsche-bank.de
@@ -15918,6 +15919,7 @@ analytics.papi.nl
 analytics.parfinity.com
 analytics.partcommunity.com
 analytics.pasquato.com
+analytics.passes.com
 analytics.patriot-defender.com
 analytics.pcnext.shop
 analytics.pelicans.nba.com
