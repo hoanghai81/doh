@@ -1,8 +1,8 @@
 import { ensureBlocklistsLoaded, isBlocked } from "./blocklist.ts";
 
 // Upstream ưu tiên
-const PRIMARY_DOH = "https://dns.nextdns.io";              // NextDNS
-const SECONDARY_DOH = "https://1.1.1.1/dns-query";         // Cloudflare
+const PRIMARY_DOH = "https://1.1.1.1/dns-query";              // NextDNS
+const SECONDARY_DOH = "https://dns.google/dns-query";         // Cloudflare
 
 async function fetchWithFallback(url1: string, url2: string, options: RequestInit) {
   try {
