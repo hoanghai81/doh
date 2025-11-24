@@ -1,6 +1,21 @@
 import { ensureBlocklistsLoaded, isBlocked } from "./blocklist.ts";
 
-const UPSTREAM_DOH = "https://1.1.1.1/dns-query";
+// Upstream ưu tiên
+const PRIMARY_DOH = "https://dns.nextdns.io";              // NextDNS
+const SECONDARY_DOH = "https://1.1.1.1/dns-query";         // Cloudflare
+
+async function fetchWithFallback(url1: string, url2: string, options: RequestInit) {
+  try {
+    const r1 = await fetch(url1, options);
+    if (r1.ok) return r1;
+    console.warn("Primary upstream failed, status:", r1.status);
+  } catch (e) {
+    console.warn("Primary upstream error:", e);
+  }
+
+  // fallback
+  return await fetch(url2, options);
+}
 
 export async function handleDnsJson(request: Request) {
   await ensureBlocklistsLoaded();
@@ -10,10 +25,14 @@ export async function handleDnsJson(request: Request) {
   const type = url.searchParams.get("type") ?? "A";
 
   if (!name) {
-    return { response: Response.json({ error: "missing name" }, { status: 400 }), qName: null };
+    return {
+      response: Response.json({ error: "missing name" }, { status: 400 }),
+      qName: null,
+    };
   }
 
   const lower = name.toLowerCase();
+
   if (isBlocked(lower)) {
     return {
       response: Response.json({
@@ -25,10 +44,15 @@ export async function handleDnsJson(request: Request) {
     };
   }
 
-  const upstream = `${UPSTREAM_DOH}?name=${encodeURIComponent(name)}&type=${type}`;
-  const upstreamResp = await fetch(upstream, {
-    headers: { "accept": "application/dns-json" },
-  });
+  // Build URL cho 2 upstream
+  const urlPrimary = `${PRIMARY_DOH}?name=${encodeURIComponent(name)}&type=${type}`;
+  const urlSecondary = `${SECONDARY_DOH}?name=${encodeURIComponent(name)}&type=${type}`;
+
+  const upstreamResp = await fetchWithFallback(
+    urlPrimary,
+    urlSecondary,
+    { headers: { "accept": "application/dns-json" } }
+  );
 
   return {
     response: new Response(await upstreamResp.text(), {
@@ -54,11 +78,15 @@ export async function handleDnsWireformat(request: Request) {
     };
   }
 
-  const upstreamResp = await fetch(UPSTREAM_DOH, {
-    method: "POST",
-    headers: { "content-type": "application/dns-message" },
-    body: buf,
-  });
+  const upstreamResp = await fetchWithFallback(
+    PRIMARY_DOH,
+    SECONDARY_DOH,
+    {
+      method: "POST",
+      headers: { "content-type": "application/dns-message" },
+      body: buf,
+    }
+  );
 
   return {
     response: new Response(await upstreamResp.arrayBuffer(), {
@@ -68,7 +96,8 @@ export async function handleDnsWireformat(request: Request) {
   };
 }
 
-// Đoạn dưới vẫn giữ nguyên
+// ==== Giữ nguyên bên dưới ====
+
 function extractNameFromWireformat(data: Uint8Array): string | null {
   try {
     let pos = 12;
@@ -93,4 +122,4 @@ function buildNXDomainResponse(query: Uint8Array): Uint8Array {
   resp[6] = 0;
   resp[7] = 0;
   return resp;
-      }
+    }
