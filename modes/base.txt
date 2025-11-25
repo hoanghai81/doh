@@ -55589,6 +55589,7 @@ futurebrand.actonservice.com
 futurecdn.net
 futurehybrid.tech
 futureocto.com
+futureparty.com
 futureplc.com
 futuresitemy.help
 futureup.ru
@@ -124150,6 +124151,7 @@ socketio-staging.taplytics.com
 socketio.taplytics.com
 socketviking.net
 sockjs-goguardian.pusher.com
+sockr.birdie.so
 socrates-1.adtarget.me
 socrates-6-1.adtarget.me
 socs.hagerty.com
