@@ -90256,6 +90256,7 @@ monitor-tools.cn.miaozhen.com
 monitor.ad4game.com
 monitor.adcaffe.com
 monitor.agenedia.com
+monitor.azure.com
 monitor.channel4.com
 monitor.ebay.com
 monitor.fraudblocker.com
@@ -97289,6 +97290,7 @@ onlineshop.ricoh.pl
 onlineshop666.com
 onlineshop888.com
 onlineshop999.com
+onlinestarten.net
 onlinesucces.nl
 onlinetiki.com
 onlinetopchoice.com
