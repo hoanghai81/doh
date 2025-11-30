@@ -36126,6 +36126,7 @@ crossboardmobile.com
 crossecopepod.help
 crossees.com
 crossengage.io
+crosset.onward.co.jp
 crosspixel.net
 crosspreferrite.com
 crosspromo.voodoo.io
@@ -42252,6 +42253,7 @@ datacoral.com
 datacoral.io
 datacygnal.io
 datado.me
+datadog-logs.js
 datadog-service.mvfglobal.com
 datadoghq-browser-agent.com
 datadoghq.com
@@ -70056,6 +70058,7 @@ insiderintelligence.com
 insiderstore.com.br
 insides.honic.eu
 insight-analytics.js
+insight-x.tech
 insight.adop.cc
 insight.adsrvr.org
 insight.ants.vn
