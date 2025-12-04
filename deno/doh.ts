@@ -1,9 +1,8 @@
 import { ensureBlocklistsLoaded, isBlocked } from "./blocklist.ts";
-import { getCache, setCache } from "./cache.ts";
 
 // Upstream ưu tiên
-const PRIMARY_DOH = "https://1.1.1.1/dns-query";
-const SECONDARY_DOH = "https://dns.google/dns-query";
+const PRIMARY_DOH = "https://1.1.1.1/dns-query";              // NextDNS
+const SECONDARY_DOH = "https://dns.google/dns-query";         // Cloudflare
 
 async function fetchWithFallback(url1: string, url2: string, options: RequestInit) {
   try {
@@ -14,6 +13,7 @@ async function fetchWithFallback(url1: string, url2: string, options: RequestIni
     console.warn("Primary upstream error:", e);
   }
 
+  // fallback
   return await fetch(url2, options);
 }
 
@@ -33,17 +33,6 @@ export async function handleDnsJson(request: Request) {
 
   const lower = name.toLowerCase();
 
-  // ==== CACHE CHECK ====
-  const cacheHit = await getCache(lower, type);
-  if (cacheHit) {
-    return {
-      response: new Response(cacheHit.response, {
-        headers: { "content-type": "application/dns-json" },
-      }),
-      qName: lower,
-    };
-  }
-
   if (isBlocked(lower)) {
     return {
       response: Response.json({
@@ -55,7 +44,7 @@ export async function handleDnsJson(request: Request) {
     };
   }
 
-  // Build upstream URLs
+  // Build URL cho 2 upstream
   const urlPrimary = `${PRIMARY_DOH}?name=${encodeURIComponent(name)}&type=${type}`;
   const urlSecondary = `${SECONDARY_DOH}?name=${encodeURIComponent(name)}&type=${type}`;
 
@@ -64,9 +53,6 @@ export async function handleDnsJson(request: Request) {
     urlSecondary,
     { headers: { "accept": "application/dns-json" } }
   );
-
-  // ==== SAVE CACHE ====
-  await setCache(lower, type, upstreamResp.clone(), false);
 
   return {
     response: new Response(await upstreamResp.text(), {
@@ -81,20 +67,6 @@ export async function handleDnsWireformat(request: Request) {
 
   const buf = new Uint8Array(await request.arrayBuffer());
   const qName = extractNameFromWireformat(buf);
-
-  // ==== CACHE CHECK ====
-  if (qName) {
-    const cacheHit = await getCache(qName, "wire");
-    if (cacheHit) {
-      const bytes = Uint8Array.from(atob(cacheHit.response), c => c.charCodeAt(0));
-      return {
-        response: new Response(bytes, {
-          headers: { "content-type": "application/dns-message" },
-        }),
-        qName,
-      };
-    }
-  }
 
   if (qName && isBlocked(qName)) {
     const nxdomain = buildNXDomainResponse(buf);
@@ -115,9 +87,6 @@ export async function handleDnsWireformat(request: Request) {
       body: buf,
     }
   );
-
-  // ==== SAVE CACHE ====
-  if (qName) await setCache(qName, "wire", upstreamResp.clone(), true);
 
   return {
     response: new Response(await upstreamResp.arrayBuffer(), {
