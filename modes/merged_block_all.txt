@@ -127490,6 +127490,7 @@ sp.notifysonic.com
 sp.otm-r.com
 sp.pal-item.com
 sp.pamklein.com
+sp.pcid.ca
 sp.pcoptimum.ca
 sp.pnj.com
 sp.popcash.net
