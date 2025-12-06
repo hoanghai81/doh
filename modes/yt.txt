@@ -34709,6 +34709,7 @@ cookie.gif
 cookie.havasedge.com
 cookie.html
 cookie.myamerigas.com
+cookie.php
 cookie.sync.usonar.jp
 cookie_ga.js
 cookie_js.php
@@ -116303,6 +116304,7 @@ securetracking.huntington.com
 securewebhelp.govmint.com
 security-suggestion.com
 security-u.com
+security.giokko.ru
 securitycheckonline.com
 securityins.actonservice.com
 securityintelligence.verint.com
