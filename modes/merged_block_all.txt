@@ -7344,6 +7344,7 @@ ab.betterbutter.in
 ab.blogs.es
 ab.cnbanbao.com
 ab.cumhot.org
+ab.dns-finder.com
 ab.fanatical.com
 ab.fapnado.xxx
 ab.fastighetsvarlden.se
@@ -104792,6 +104793,7 @@ ps-eu.amazon-adsystem.com
 ps-jp.amazon-adsystem.com
 ps-us.amazon-adsystem.com
 ps.alcmpn.com
+ps.ex.co
 ps.eyeota.net
 ps.innity.com
 ps.pmu.fr
