@@ -15172,6 +15172,7 @@ analytics-cf.bigcrunch.com
 analytics-client.min.js
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
+analytics-collect.karakuri.ai
 analytics-conomi.line.me
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-data-collector.js
@@ -26161,6 +26162,7 @@ bookmakers.click
 bookmate.com
 bookmench.help
 bookmsg.com
+bookoff.co.jp
 bookoffonline.co.jp
 bookofsex.com
 bookpostponemoreover.com
@@ -137029,6 +137031,7 @@ tafimedia.com
 tafmaster.com
 tafrebadus.com
 tag-ams.1rx.io
+tag-analyze.js
 tag-cdn.aiactiv.io
 tag-cdn.aicactus.io
 tag-cdn.juicer.cc
