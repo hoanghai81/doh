@@ -37016,6 +37016,7 @@ curlsbatter.com
 curlycannon.com
 curlyhomes.com
 curoax.com
+curos.ca
 currackretros.rest
 currantice.shop
 currency.prebid.org
@@ -91960,6 +91961,7 @@ ms-stage.gumgum.com
 ms-trackingapi.phenompeople.com
 ms.adup-tech.com
 ms.analytics-web-3.min.js
+ms.analytics-web-4.min.js
 ms.applovin.com
 ms.applvn.com
 ms.cmcm.com
