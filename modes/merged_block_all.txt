@@ -27958,6 +27958,7 @@ buzzfeed.amp.permutive.com
 buzzfeed.at
 buzzfeed.com
 buzzfeed.de
+buzzfry.com
 buzzing-show.com
 buzzing-side.pro
 buzzinggod.pro
@@ -30352,6 +30353,7 @@ cdn.logly.co.jp
 cdn.logrocket.com
 cdn.logrocket.io
 cdn.logsnag.com
+cdn.lr-hv-in.com
 cdn.lr-in-prod.com
 cdn.lr-in.com
 cdn.lr-ingest.io
@@ -34577,6 +34579,7 @@ config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
 config2.mparticle.com
 configchain.com
+configcontrol.com
 configs.php
 configuration-stat.js
 configuration.js
