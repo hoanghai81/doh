@@ -28317,6 +28317,7 @@ c.gif
 c.go-mpulse.net
 c.gq.com
 c.grimuar.ru
+c.groovehq.com
 c.gumgum.com
 c.hit.ua
 c.holmesmind.com
@@ -82128,6 +82129,7 @@ log.yougameover.com
 log.ys7.com
 log.zalo.video
 log.zamba.vn
+log.zcool.com.cn
 log.zdnet.co.kr
 log.zepeto.io
 log.zingmp3.vn
@@ -164331,7 +164333,6 @@ zcnmjb.icu
 zcode11.me
 zcode17.com
 zconaenvbcslb.space
-zcool.com.cn
 zcoptry.com
 zcorolydmbaha.space
 zcoup.com
