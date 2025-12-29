@@ -36894,6 +36894,7 @@ creatives.x2lt.com
 creativesumo.com
 creativetelephone.pro
 creatopy-adtag-production.b-cdn.net
+creator-spring.com
 creator.zmags.com
 creatorcherry.com
 creatorpassenger.com
@@ -105077,6 +105078,7 @@ pixel.tuko.co.ke
 pixel.veritone-ce.com
 pixel.videohub.tv
 pixel.vidoomy.com
+pixel.visitiq.io
 pixel.vreview.tv
 pixel.watch
 pixel.web.roku.com
