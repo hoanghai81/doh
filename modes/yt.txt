@@ -91385,6 +91385,7 @@ metrics.monclick.it
 metrics.moneta.cz
 metrics.moodys.com
 metrics.moosejaw.com
+metrics.morethings.digital
 metrics.morganshotelgroup.com
 metrics.morganstanley.com
 metrics.morningadvertiser.co.uk
@@ -140540,6 +140541,7 @@ t.itsehoitoapteekki.fi
 t.iuhoosiers.com
 t.iwara.tv
 t.janieandjack.com
+t.jasper.ai
 t.jaxstatesports.com
 t.jetrck.com
 t.jibeno.xyz
@@ -154924,6 +154926,7 @@ use-cr.svr-algorix.com
 use-tor.adsrvr.org
 use-trk.monetune.com
 use.fvr.to
+use.hetzner.com
 use.lunos.app
 useads.com
 useast-beacon.deepintent.com
