@@ -14447,6 +14447,7 @@ alitems.co
 alitems.site
 alitersaltary.cfd
 alitui.weibo.com
+alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
 alive-airport.com
 aliveachiever.com
 aliveblue-ss.checkoutera.com
@@ -153952,6 +153953,7 @@ videocdn.adspeed.net
 videocdn.xyz
 videocdnmetrika.com
 videocdnshop.com
+videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 videoegg.com
 videoevents.outbrain.com
 videofan.ru
@@ -155195,6 +155197,7 @@ vocrojjwugeno.website
 vocuyawjas.net
 vod-cash.com
 vod-mplayer.sooplive.co.kr
+vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
 vod.adspruce.com
 vodafone-direkt.de
 vodafone.it
