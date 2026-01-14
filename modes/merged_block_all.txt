@@ -30502,6 +30502,7 @@ cdn.qc24h.com
 cdn.qgr.ph
 cdn.raekdata.com
 cdn.ravm.tv
+cdn.rawgit.com
 cdn.reaktion.se
 cdn.refpa.top
 cdn.relaido.jp
@@ -45679,6 +45680,7 @@ dmakmaah.com
 dmanalytics1.com
 dmarkconsulting.actonservice.com
 dmatzeelpqsqr.space
+dmauro.github.io
 dmavtliwh.global
 dmax.de
 dmbfiumbqqimg.space
