@@ -18595,6 +18595,7 @@ api.tsc.ca
 api.tudobonus.com.br
 api.tv.de
 api.tw06.xlmc.sec.miui.com
+api.twitter.com
 api.tynt.com
 api.uaueducacao.com
 api.uca.cloud.unity3d.com
@@ -111237,6 +111238,7 @@ referredrender.com
 referredwings.com
 referrer.disqus.com
 referrer.js
+referrer.json
 referrer.php
 referrer.website
 referrer_ershouche_m_now.js
@@ -121032,6 +121034,7 @@ shared.jodel.com
 shared.learnosity.com
 sharedev.passportpower.app
 sharedmediumshe.com
+sharedswap.com
 sharefb.cnnd.vn
 shareholder.com
 shareit.com
@@ -121247,6 +121250,7 @@ shipwreckclassmate.com
 shirahama.im-apps.net
 shirdaizoongo.net
 shirtsamends.help
+shirtseasons.com
 shirtsidewalk.com
 shisanmaozser.com
 shishtoplikeureas.cyou
