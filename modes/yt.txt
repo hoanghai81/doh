@@ -15458,6 +15458,7 @@ analytics.analytics
 analytics.analytics-egain.com
 analytics.andisearch.com
 analytics.andrewsmith.com.au
+analytics.animexx.de
 analytics.anthill.vn
 analytics.any.do
 analytics.anylight.app
@@ -32318,6 +32319,7 @@ clattybelton.cfd
 claude.ai
 claudfront.net
 clawersalcine.qpon
+claydar.com
 clayeyscutel.cyou
 claynelsonlifebalance.actonservice.com
 clb.vin
@@ -51405,6 +51407,7 @@ et.w.inmobi.com
 et.xenbyte.com
 et1.eulerian.io
 et2.w.inmobi.cn
+eta.animenewsnetwork.com
 etagumlbvhmuk.online
 etahub.com
 etailtastan.net
@@ -102626,6 +102629,7 @@ pbcs.decider.com
 pbcs.nypost.com
 pbcs.pagesix.com
 pbcs.realtor.com
+pbd.yahoo.com
 pbecrm.aquanet.ru
 pbepj.gkelite.com
 pbestrdinkbff.online
