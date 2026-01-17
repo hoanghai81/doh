@@ -15330,6 +15330,7 @@ analytics-event-adapter.js
 analytics-event.js
 analytics-events.inshorts.com
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud.medallia.com
 analytics-fe.digital-cloud.medallia.eu
 analytics-gateway.delta.dp.lightricks.com
 analytics-gjc-min.js
@@ -21195,6 +21196,7 @@ assets.triplelift.com
 assets.ubembed.com
 assets.valverde.ch
 assets.vlitag.com
+assets.yasno.live
 assets.yumpu.com
 assets.zubitracker.io
 assets1.aainsurance.co.nz
