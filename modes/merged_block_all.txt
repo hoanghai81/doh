@@ -19838,6 +19838,7 @@ app.talksport.com
 app.task.io
 app.teachfx.com
 app.tech.pentontech.com
+app.termly.io
 app.test.elly.com
 app.texaslonghorns.com
 app.texasperformingarts.org
@@ -92950,6 +92951,7 @@ mp.4dex.io
 mp.cwtv.com
 mp.imgur.com
 mp.pitchero.com
+mp.sintra.ai
 mp.subservis.com
 mp.teads.tv
 mp.theepochtimes.com
