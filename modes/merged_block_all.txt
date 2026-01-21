@@ -10504,6 +10504,8 @@ adoptim.com
 adoptim.fs.ak-is2.net
 adoptimize.info
 adoptum.net
+adora-cdn.com
+adora-start.js
 adorableanger.com
 adorableattention.com
 adorablekind.pro
@@ -18943,6 +18945,7 @@ api2.clubedeliveryads.com.br
 api2.drmontanha.com.br
 api2.drramoncolombo.com
 api2.drricardofonseca.com
+api2.ma.ru
 api2.mediaforge.com
 api2.midnance.com
 api2.oraulmartins.com.br
@@ -31206,7 +31209,6 @@ cdn.qc24h.com
 cdn.qgr.ph
 cdn.raekdata.com
 cdn.ravm.tv
-cdn.rawgit.com
 cdn.reaktion.se
 cdn.refpa.top
 cdn.relaido.jp
@@ -35003,6 +35005,7 @@ collector.szlcsc.com
 collector.t-idr.com
 collector.taoxh.life
 collector.tescocompare.com
+collector.theconversation.com
 collector.theguardianlegalnetwork.com
 collector.trendmd.com
 collector.tripactions.com
@@ -37213,6 +37216,7 @@ cr-p3.ladsp.jp
 cr-p31.ladsp.jp
 cr-p35.ladsp.jp
 cr-pall.ladsp.com
+cr-relay.com
 cr.adsappier.com
 cr.frontend.weborama.fr
 cr00.biz
@@ -44325,6 +44329,7 @@ datanoticias.prisasd.com
 dataofpages.com
 datapacstereos.shop
 dataperforma.com
+datapulse.app
 datarangers-event.myrightone.com
 datarating.com
 dataroid.com
@@ -47451,7 +47456,6 @@ dmakmaah.com
 dmanalytics1.com
 dmarkconsulting.actonservice.com
 dmatzeelpqsqr.space
-dmauro.github.io
 dmavtliwh.global
 dmax.de
 dmbfiumbqqimg.space
@@ -60394,6 +60398,7 @@ gcobf.hillcountrychocolate.com
 gcoiys.cutsclothing.com
 gcount.pl
 gcowhi.thesalarycalculator.co.uk
+gcp.fasthorse.workers.dev
 gcpaakjrmtagr.space
 gcpafttmstljb.website
 gcpgjk.tiendamabe.com.co
@@ -61715,6 +61720,7 @@ github-scanner.com
 github.com
 github.dev
 github.gpuzelenograd.cloudns.be
+github.io
 githuhey.com
 gitlab.ad-stir.com
 gitlab.connatix.com
