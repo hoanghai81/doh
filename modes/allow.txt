@@ -1053,6 +1053,7 @@ discover.com
 dk-go.kelkoogroup.net
 dkb.de
 dkm.de
+dnb.no
 docfcu.org
 dockernb.com
 donau-iller-bank.de
@@ -2260,6 +2261,7 @@ nokss.ru
 nonghyup.com
 nordea.com
 nordea.fi
+nordea.no
 nordea.ru
 nordea.se
 nordeanetbank.dk
@@ -2457,6 +2459,7 @@ onlinebanking.pnc.com
 onlinebanking.rhbgroup.com
 onlinebanking.usbank.com
 onlinesbi.sbi
+onlinesbi.sbi.bank.in
 onlinetsb.kz
 onstmettinger-bank.de
 op.fi
