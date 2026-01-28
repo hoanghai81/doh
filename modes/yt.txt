@@ -25366,6 +25366,7 @@ bid.contextweb.com
 bid.dr.socdm.com
 bid.g.doubleclick.net
 bid.glass
+bid.js
 bid.onetag-sys.com
 bid.openx.net
 bid.pubmatic.com
@@ -31302,6 +31303,7 @@ cdn.sy-d.io
 cdn.taboola.com
 cdn.tagcommander.com
 cdn.taplytics.com
+cdn.tds.bid
 cdn.teads.tv
 cdn.teleportapi.com
 cdn.tenmax.io
@@ -113338,6 +113340,7 @@ pmegdobhuwqwz.online
 pmelon.com
 pmetrics.getclicky.com
 pmf73er72ez1hlfb25hzn.cfd
+pmfastclick.min.js
 pmffi48z41x4f3bx3kobtfv7g.cfd
 pmfmtnykkgpsa.website
 pmfqvgxsywccw.space
