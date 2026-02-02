@@ -30478,6 +30478,7 @@ cdn-0.d41.co
 cdn-3.convertexperiments.com
 cdn-4k-webp.site
 cdn-a.amazon-adsystem.com
+cdn-a.raptor.digital
 cdn-a.yieldlove.com
 cdn-ad.wtzw.com
 cdn-adn-https.mtgglobals.com
@@ -36060,6 +36061,7 @@ cookies.wpcarey.com
 cookiescript.info
 cookiestorage.html
 cookiestorybook.com
+cookiesync-pixel.js
 cookiesync.mparticle.com
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
@@ -75355,6 +75357,7 @@ introskodakry.help
 intrudefatherinlaw.com
 intrudeimpolitetortoise.com
 intrustedzone.site
+intuit.com
 intuitcdn.net
 intuitionlastly.com
 intuitvisitorid.api.intuit.com
@@ -90789,6 +90792,7 @@ m.bookis.com
 m.brain.ai
 m.bumrungrad1378.com
 m.carte-gr.total.fr
+m.castle.io
 m.cityads.com
 m.clear.link
 m.clevernet.vn
