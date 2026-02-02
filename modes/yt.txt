@@ -16565,6 +16565,7 @@ analytics.monetha.io
 analytics.moneycat.vn
 analytics.monobloc.de
 analytics.mopub.com
+analytics.morphe.software
 analytics.motherhood.se
 analytics.motoemotostore.it
 analytics.mouthshut.com
@@ -18279,6 +18280,7 @@ api.collect.data.intl.miui.com
 api.comboplay.online
 api.compramais.com.br
 api.compramosagora.pt
+api.config-security.com
 api.constructionconnectionusa.com
 api.construtoradinamica.com.br
 api.content.ad
@@ -18293,6 +18295,7 @@ api.crashlytics.com
 api.creditfinder.app
 api.criancasmodoturbo.com
 api.criteo.com
+api.croct.io
 api.curso.cenariobaloes.com.br
 api.cursodemedicamentos.com.br
 api.cursosminhasplantas.com.br
@@ -96336,6 +96339,7 @@ member.javtvnow.xyz
 member.oewa.at
 member.usenix.org
 membergarenaviet.com
+membernook.com
 memberr-garenaa.com
 memberrship-ff-garena.com
 members.applifier.com
@@ -100684,6 +100688,7 @@ motherwellmag.com
 motificfungate.cyou
 motika.com.mk
 motion.kollmorgen.com
+motionarray.net
 motionflowers.com
 motionless-exit.pro
 motionlessbelief.com
