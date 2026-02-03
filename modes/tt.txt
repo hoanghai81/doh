@@ -1097,6 +1097,7 @@
 2tlc698ma.de
 2tq7pgs0f.de
 2track.info
+2trk.info
 2ts55ek00.de
 2tty.overstappen.nl
 2u1h56851n.top
@@ -8352,6 +8353,7 @@ acdn.adnxs.com
 acdn.xapads.com
 acdn01.vidox.net
 acdojsqocgvoj.online
+acds-events.adobe.io
 ace-adserver.com
 ace.naver.com
 aceadsys.net
@@ -31312,7 +31314,6 @@ cdn.trafficfactory.biz
 cdn.trafficstars.com
 cdn.traffmovie.com
 cdn.trakkr.ai
-cdn.transifex.com
 cdn.tremorhub.com
 cdn.truepush.com
 cdn.truffle.bid
@@ -85826,12 +85827,12 @@ live.comunicaciones.jetstereo.com
 live.cryptovot.com
 live.cxo.name
 live.demand.supply
+live.exchangesolutions.com
 live.funnyvot.com
 live.gamesvot.com
 live.griiip.com
 live.healthvot.com
 live.hyprmx.com
-live.js
 live.meghentai.live
 live.mrf.io
 live.newsvot.com
@@ -91165,6 +91166,7 @@ lozqf.reef.com
 lp-eq.mitsuichemicals.com
 lp-preview.net
 lp-subscriptions.ck.circlek.com
+lp.1.js
 lp.5era.com
 lp.adp.com
 lp.amazinglifevibes.club
@@ -115092,6 +115094,7 @@ precipitationsphererobots.com
 precisear.com
 precisionclick.com
 precisioncounter.com
+preciso.net
 precmd.com
 preconnect.gif
 precursortrimrequest.com
@@ -116556,6 +116559,7 @@ public-data-api.miyoushe.com
 public-gcs.subiz-cdn.com
 public-trace-http-intake.logs.datadoghq.com
 public-trace-http-intake.logs.datadoghq.eu
+public.9gtb.com
 public.cobrowse.oraclecloud.com
 public.fbot.me
 public.js
@@ -127172,6 +127176,7 @@ scripts.kissmetrics.com
 scripts.makeinfluence.com
 scripts.mediamathrdrt.com
 scripts.opti-digital.com
+scripts.postie.com
 scripts.prdredir.com
 scripts.psyma.com
 scripts.simpleanalyticscdn.com
