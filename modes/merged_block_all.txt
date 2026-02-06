@@ -18388,6 +18388,7 @@ api.gif.duapps.com
 api.gimbal.com
 api.gipinheirosc.com
 api.giraofertas.com.br
+api.gist.ai
 api.glance.inmobi.com
 api.gleap.io
 api.glooum.com
