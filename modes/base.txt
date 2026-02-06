@@ -9193,6 +9193,7 @@ ad.terra.com.mx
 ad.theatre.co.jp
 ad.theatreacademy.jp
 ad.themedianw.com
+ad.tiktokv.us
 ad.tjtune.com
 ad.topwar.ru
 ad.tpmn.co.kr
@@ -10883,6 +10884,7 @@ ads-dot-fbc-web-2018.uc.r.appspot.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-game-configuration.unityads.unity3d.com
 ads-gdl.imovideo.ru
+ads-ie.tiktokw.eu
 ads-image.production-public.tubi.io
 ads-img-al.xhscdn.com
 ads-img.mozilla.org
@@ -10920,6 +10922,7 @@ ads-tm-glb.click
 ads-tracking.beop.io
 ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
+ads-ttp2.tiktokw.eu
 ads-twitter.com
 ads-union.jd.com
 ads-us.adtarget.me
@@ -11475,6 +11478,7 @@ ads.thvli.vn
 ads.tiki.vn
 ads.tikpage.com
 ads.tiktok.com
+ads.tiktokw.us
 ads.tmcs.net
 ads.topsex.cc
 ads.townhall.com
@@ -15254,6 +15258,7 @@ amgkqcsqjojjfn.xyz
 amgladthereisosome.org
 amgs5.com
 amhen.com
+amhrzucur.com
 ami.coppermakersquare.com
 amiabledelinquent.com
 amichi.info
@@ -15632,6 +15637,7 @@ analytics-helper.com
 analytics-helper.js
 analytics-http.mintegral.net
 analytics-hub.3plearning.com
+analytics-ie.tiktokw.eu
 analytics-ingestion-production.tubitv.com
 analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 analytics-ingestion.pbpms.de
@@ -15682,6 +15688,7 @@ analytics-track.machbird.com
 analytics-tracker.thescore.com
 analytics-tracking.js
 analytics-tracking.meetup.com
+analytics-ttp2.tiktokw.eu
 analytics-v2.wetransfer.com
 analytics-wcms.joins.net
 analytics-webhook.doximity.com
@@ -16919,6 +16926,7 @@ analytics.ticketmaster.com
 analytics.tiendaenoferta.com
 analytics.tiki.vn
 analytics.tiktok.com
+analytics.tiktokw.us
 analytics.timbertrove.com
 analytics.tio.ch
 analytics.tmonews.com
@@ -22173,7 +22181,10 @@ auto-ads6.site
 auto-bannertausch.de
 auto-deploy.pages.dev
 auto-load-balancer.advividnetwork.com
+auto-load-balancer.likr.com.tw
+auto-load-balancer.likr.tw
 auto-ping.com
+auto-satellite.advividnetwork.com
 auto.ru
 auto.yandex
 autoadrounoor.net
@@ -28418,6 +28429,7 @@ bushsurprising.com
 busierflutier.qpon
 busilycarnival.com
 business-api.tiktok.com
+business-api.tiktokw.us
 business-cards.americanexpress.com
 business-decision.actonservice.com
 business-pages.edfenergy.com
@@ -45065,6 +45077,7 @@ dd.g2.com
 dd.garena.com
 dd.leboncoin.fr
 dd.nytimes.com
+dd.qa.moneygram.com.first-party-js.datadome.co
 dd.reuters.com
 dd.scanscout.com
 dd.seloger-bureaux-commerces.com
@@ -65119,6 +65132,7 @@ gt.js
 gt.mojamana.sk
 gt.mojemana.cz
 gt.startvplay.com
+gt.unbrownunflat.com
 gt.werkkleding.nl
 gt.wingmancondoms.com
 gt.yy.com
@@ -95941,6 +95955,7 @@ mcqtoqhynn.xyz
 mcrai.helvetia.cz
 mcredit.vaynhanh-bankcredits.com
 mcs-ie.tiktokw.eu
+mcs-ie2.tiktokw.eu
 mcs-sg.tiktok.com
 mcs-va-useast2a.tiktokv.com
 mcs-va.capcutapi.com
@@ -100831,6 +100846,7 @@ moneyeasily-tx.top
 moneyexpert.com
 moneyfree.co
 moneygram-nhantien23quoctwe.weebly.com
+moneygram.com
 moneygram24hh.weebly.com
 moneyhay.net
 moneyloan-vn.com
@@ -101674,6 +101690,7 @@ mssdk-sg.byteoversea.com
 mssdk-va.byteoversea.com
 mssdk.bytedance.com
 mssdk.capcutapi.us
+mssdk.tiktokw.eu
 mssdk.tiktokw.us
 mssdk16-normal-us-ttp.capcutapi.us
 mssfv.aspinaloflondon.com
@@ -109867,6 +109884,7 @@ overduedistrust.com
 overfedwogul.shop
 overfxdyqgwvr.space
 overgoddiary.qpon
+overgreedyminddegree.com
 overhiescudder.qpon
 overjoyedstore.pro
 overjoyedtempfig.com
@@ -181043,6 +181061,7 @@ xoymkdgsafcdh.site
 xp.allianz.de
 xp.apple.com
 xp.audience.io
+xp.retinichawks.cyou
 xp2023-pix.s3.amazonaws.com
 xp6wsv4c.xyz
 xpaqbedamuofy.site
