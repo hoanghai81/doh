@@ -21427,6 +21427,7 @@ assets.taboola.com
 assets.taghtia.com
 assets.tapad.com
 assets.tapjoy.com
+assets.targetimg1.com
 assets.telefonanlage-shop.de
 assets.trendii.com
 assets.triplelift.com
@@ -23203,6 +23204,7 @@ b3.districtm.ca
 b3.mookie1.com
 b347.pottsmerc.com
 b35fc2842a.com
+b3918e4e0wbf3ac3cepc5707306mb02b36c6m.js
 b3beca4e4a.com
 b3c733588e.36dc612c23.com
 b3mxnuvcer.com
@@ -23246,6 +23248,7 @@ b73c.pandasuite.io
 b78b08af88.dd795a9d50.com
 b79329w3t34xyuj633.cfd
 b79e4u3hz7.com
+b7cecd0b6w90c54c6cpe92089d5m57a67346m.js
 b7dff0913b.com
 b7ijghyla1.com
 b7sw62.pingshu8.xyz
@@ -58175,6 +58178,7 @@ flyingadvert.com
 flyingfish.whoisrepresented.org
 flyingpt.com
 flyingsquirellsmooch.com
+flyingtiger.com
 flylikeaguy.com
 flymob.com
 flymyads.com
@@ -63089,6 +63093,7 @@ go.4cinsights.com
 go.4sq.com
 go.abcam.com
 go.abqisotopes.com
+go.absolventa.de
 go.accredible.com
 go.accumaxglobal.com.au
 go.acelisconnectedhealth.com
@@ -63141,6 +63146,7 @@ go.azets.dk
 go.azets.fi
 go.azets.no
 go.azets.se
+go.azubi.de
 go.backtest.io
 go.bandits.com
 go.batsbaseball.com
@@ -99264,6 +99270,7 @@ metricswave.com
 metricswpsh.com
 metricus.artlebedev.ru
 metrigo.zalan.do
+metrik.freitag.de
 metrika-informer.com
 metrika.js
 metrika.kontur.ru
@@ -109886,6 +109893,7 @@ outdoorsoil.com
 outdoorthingy.com
 outelectrodean.com
 outenoxalite.help
+outfitters.com.pk
 outflueascella.click
 outfunnel.com
 outgateprat.com
@@ -111825,6 +111833,7 @@ partnerzy.styrcon.pl
 partnerzyapi.ceneo.pl
 partplanes.com
 partridgevowel.com
+partsgeek.com
 partsroll.xyz
 partsroll1.xyz
 party-vqgdyvoycc.now.sh
@@ -134121,6 +134130,7 @@ shop.khoj.city
 shop.lavvvs.dk
 shop.lids.ca
 shop.mariolucagiusti.ae
+shop.mattel.com
 shop.moi-et-marie.com
 shop.myaeon2go.com
 shop.myrobd.com
@@ -144679,6 +144689,7 @@ sst.carmenamsterdam.com
 sst.carousel.be
 sst.carpenterofnature.com
 sst.carrefour.tn
+sst.carwow
 sst.carwow.co.uk
 sst.carwow.de
 sst.carwow.es
@@ -146974,6 +146985,7 @@ sswmetrics.sabre.com
 sswqcyqhqefrb.site
 sswqlvslgiium.space
 sswsadybmidze.online
+ssx.mod.js
 ssy7.destinia.com.ua
 st-5cva8vttppvjafpc7jvj.kodik.biz
 st-a-id.anthill.vn
@@ -152664,6 +152676,7 @@ stylish-knife.com
 stylishbranch.pro
 stylishbuds.com
 stylitics.com
+stylo.pk
 stylusanswer.help
 styria-digital.com
 styriansaurelsbasso.cfd
@@ -153532,6 +153545,7 @@ svyksa.info
 svzkhal2zh.com
 svzshmeczqudx.site
 sw.broadcom.com
+sw.js
 sw.sherwoodkids.com
 sw.singadmsw.com
 sw.singlsw.com
@@ -178253,6 +178267,7 @@ www.200summit.com
 www.22-trk-srv.com
 www.24-visionaryenterprise.com
 www.2leep.com
+www.32degrees.com
 www.33-trk-srv.com
 www.33across.com
 www.33infra-strat.com
