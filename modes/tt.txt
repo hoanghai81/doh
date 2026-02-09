@@ -8674,6 +8674,7 @@ activated.co.il
 activated.digital
 activatesparrow.com
 activation.depop.com
+activation.js
 activation.labcorp.com
 activation.thunderinsider.com
 activationskey.org
@@ -31795,6 +31796,7 @@ cdp.cloud.unity3d.com
 cdp.cococx.com
 cdp.getswisscard.ch
 cdp.miles-and-more-cards.ch
+cdp.sph.com.sg
 cdp.swisscard.ch
 cdp.vemt.com
 cdp.vercel.com
