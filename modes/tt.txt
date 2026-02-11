@@ -21486,7 +21486,6 @@ assets.taboola.com
 assets.taghtia.com
 assets.tapad.com
 assets.tapjoy.com
-assets.targetimg1.com
 assets.telefonanlage-shop.de
 assets.trendii.com
 assets.triplelift.com
@@ -127803,6 +127802,7 @@ sanduon.com
 sandwichconscientiousroadside.com
 sandwichesbecomesorganism.com
 sandydrunk.com
+sandypocket.com
 sandythought.pro
 saneeloisehat.com
 sanestruggle.com
@@ -147691,7 +147691,6 @@ sswmetrics.sabre.com
 sswqcyqhqefrb.site
 sswqlvslgiium.space
 sswsadybmidze.online
-ssx.mod.js
 ssy7.destinia.com.ua
 st-5cva8vttppvjafpc7jvj.kodik.biz
 st-a-id.anthill.vn
@@ -176038,6 +176037,7 @@ weather.ca
 weather.com
 weather.com.cn
 weather.gov
+weatherbytes.net
 weatherchannel.com.au
 weathermimish.qpon
 weatherplllatform.com
