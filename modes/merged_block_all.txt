@@ -36717,6 +36717,7 @@ conduit-banners.com
 conduit-beacon-usw2.mtvnservices.com
 conduit-beacon.mtvnservices.com
 conduit-services.com
+conduit.redfast.com
 conduitcrumpy.cfd
 conduze.com
 conedreworks.cyou
@@ -49634,6 +49635,7 @@ doppiocdn.org
 doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
 doppler-client-events.cbsivideo.com
+doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
 doppler.hulu.com
 doppler.streetinteractive.com
@@ -53802,6 +53804,7 @@ emails.travelchannel.com
 emails.verishop.com
 emails.watchown.tv
 emailsnow.info
+emailtrack.offers-exchange.com
 emamz.sunstrucktm.com
 emancytal.com
 emanentungodly.qpon
