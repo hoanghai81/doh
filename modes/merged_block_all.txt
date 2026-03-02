@@ -32237,6 +32237,7 @@ cdn.inspectlet.com
 cdn.instant.one
 cdn.instapagemetrics.com
 cdn.insurads.com
+cdn.intellimize.co
 cdn.iople.com
 cdn.iqzone.com
 cdn.islandmob.com
@@ -162238,6 +162239,7 @@ talkingdata.com
 talkingpointsmemo.com
 talkscreativity.com
 talkshoodle.shop
+talkspace.com
 talktalk.co.uk
 talkto.comreal.com
 tall-difficulty.pro
