@@ -12742,6 +12742,7 @@ adx-f.ads.heytapmobi.com
 adx-f.ads.heytapmobile.com
 adx-fk-req.mosspf.cn
 adx-fk-req.mosspf.net
+adx-fk-req.mossru.com
 adx-fk-req.mossturbo.com
 adx-fk.mosspf.net
 adx-id.ads.heytapmobi.com
@@ -12760,9 +12761,11 @@ adx-os.bridgeoos.com
 adx-os.toponadss.com
 adx-ph.ads.heytapmobile.com
 adx-rf-request.mosspf.net
+adx-rf-request.mossru.com
 adx-rf-request.mossturbo.com
 adx-rf.mosspf.net
 adx-sg-req.bridgeoos.com
+adx-sg-req.mossfast.com
 adx-sg-req.mosspf.cn
 adx-sg-req.mosspf.com
 adx-sg-req.mossturbo.com
@@ -12780,6 +12783,7 @@ adx-tw.ads.heytapmobile.com
 adx-vg-req.mosspf.cn
 adx-vg-req.mosspf.com
 adx-vg-req.mosspf.net
+adx-vg-req.mossru.com
 adx-vg-req.mossturbo.com
 adx-vg-req.toponadss.com
 adx-vg.mosspf.net
@@ -12810,9 +12814,11 @@ adx.mala.cn
 adx.mediago.io
 adx.mediaz.asia
 adx.mocoplex.com
+adx.mossfast.com
 adx.mosspf.cn
 adx.mosspf.com
 adx.mosspf.net
+adx.mossru.com
 adx.mossturbo.com
 adx.opera.com
 adx.otm-r.com
@@ -18987,9 +18993,11 @@ api.monedata.io
 api.moneyoyo.org
 api.moodlr.co
 api.moonanime.art
+api.mossfast.com
 api.mosspf.cn
 api.mosspf.com
 api.mosspf.net
+api.mossru.com
 api.mossturbo.com
 api.movimentochargebacklegal.com.br
 api.mulherbrilhante.com.br
@@ -42106,9 +42114,11 @@ da.inmobi.com
 da.juno-brautmoden.de
 da.maif.fr
 da.mgtv.com
+da.mossfast.com
 da.mosspf.cn
 da.mosspf.com
 da.mosspf.net
+da.mossru.com
 da.mossturbo.com
 da.netease.com
 da.niedermaier-tueren.de
@@ -169148,6 +169158,7 @@ tjzvl.myracleskin.com
 tjzvuo.youcom.com.br
 tk-sg.anythinktech.com
 tk-sg.bridgeoos.com
+tk-sg.mossfast.com
 tk-sg.mosspf.cn
 tk-sg.mosspf.com
 tk-sg.mosspf.net
@@ -169306,9 +169317,11 @@ tk.maison123.com
 tk.manouvellevoiture.com
 tk.meinprospekt.de
 tk.modco.in
+tk.mossfast.com
 tk.mosspf.cn
 tk.mosspf.com
 tk.mosspf.net
+tk.mossru.com
 tk.mossturbo.com
 tk.moveyourfit.com
 tk.msccruises.com
@@ -169367,8 +169380,10 @@ tkbo.com
 tkcatrun.aotter.net
 tkcatwalk.aotter.net
 tkda.hookspf.com
+tkda.mossfast.com
 tkda.mosspf.com
 tkda.mosspf.net
+tkda.mossru.com
 tkda.mossturbo.com
 tkdjrsee.icu
 tkekwv.gracegift.com.tw
@@ -189949,7 +189964,6 @@ www.moneymakercdn.com
 www.montacarichi.it
 www.mopub.com
 www.mosspf.cn
-www.mossturbo.com
 www.mouseflow.com
 www.mouser
 www.mousestats.com
