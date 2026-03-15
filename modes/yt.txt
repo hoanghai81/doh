@@ -148680,6 +148680,7 @@ sms.ultimate-success-emea.test.ajo.adobe.com
 sms.uphabit.com
 sms.workshop.adobesandbox.com
 sms.yashir.5555555.co.il
+sms_aff_clicktrack-deciem.js
 smsafelink.com
 smsaffari.it
 smsapiens.com
@@ -160616,6 +160617,7 @@ static.mopo.jp
 static.mvot.vn
 static.myadcampaigns.com
 static.myfinance.com
+static.myshlf.us
 static.n0v2cdn.com
 static.nanda.vn
 static.narrativ.com
