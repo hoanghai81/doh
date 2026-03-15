@@ -51177,6 +51177,7 @@ dsp5stero.com
 dspapi.bidtellect.com
 dsparking.com
 dspcluster.adfarm1.adition.com
+dspgate.ru
 dspil.jcp.com
 dspixel.js
 dspk.kindredplc.com
@@ -64188,6 +64189,7 @@ geniusdexchange.com
 geniuslinkcdn.com
 geniusonclick.com
 geniusoutset.com
+geniusplus.ai
 genmonet.com
 genova.gas-up.it
 genregluten.qpon
@@ -67821,6 +67823,7 @@ grofag.hollandandbarrett.ie
 groggedrotl.com
 groinenamel.com
 groinfont.com
+grokipedia.com
 groleegni.net
 gromamacros.cfd
 grookilteepsou.net
@@ -107764,6 +107767,7 @@ musangdeposit.qpon
 musclesaskewfeeding.com
 muscosesoftly.cyou
 musdfsobpobkm.space
+musescore.com
 museter.com
 museumoff.com
 musfnoaykzyab.site
@@ -108090,6 +108094,7 @@ my.artfiles.online
 my.bagcarry.store
 my.bake-club.com
 my.bayezidprintingpress.com
+my.beeline.ru
 my.blueprint-health.com
 my.brahmatellsstore.com
 my.bruker.com
@@ -126655,6 +126660,7 @@ r.rnc
 r.rover.com
 r.sax.sina.com.cn
 r.scraperib.com
+r.sdiapi.net
 r.sib2.gardrops.com
 r.silvertrck.com
 r.skimresources.com
@@ -131727,6 +131733,7 @@ rucstpoymfnpp.site
 rudaw.net
 rudder-analytics.js
 rudder-analytics.min.js
+rudder-server-prd.arena.im
 rudder-tracking.rudderstack.com
 rudderlabs.com
 ruddy-bite.pro
@@ -135621,6 +135628,7 @@ secure.constellation.iqvia.com
 secure.copy9loom.com
 secure.coup7cold.com
 secure.coventrybuildingsociety.co.uk
+secure.cricket365.com
 secure.cuba7tilt.com
 secure.curl7bike.com
 secure.dana8herb.com
@@ -135665,6 +135673,7 @@ secure.firstimpression.io
 secure.flashtalking.com
 secure.flow8free.com
 secure.food9wave.com
+secure.football365.com
 secure.fortinet.com
 secure.frog9alea.com
 secure.game9time.com
@@ -135677,6 +135686,7 @@ secure.gaza2lote.com
 secure.gift2pair.com
 secure.give2hill.com
 secure.glue1lazy.com
+secure.golf365.com
 secure.golp4elik.com
 secure.grow1maid.com
 secure.haag0some.com
@@ -135767,6 +135777,7 @@ secure.loki8lave.com
 secure.loom3otto.com
 secure.lope4refl.com
 secure.lote1otto.com
+secure.loverugbyleague.com
 secure.mack7oyes.com
 secure.main5poem.com
 secure.make6pain.com
@@ -135825,6 +135836,9 @@ secure.peep1alea.com
 secure.perceptionastute7.com
 secure.perceptive-innovation-ingenuity.com
 secure.perk0mean.com
+secure.planetf1.com
+secure.planetfootball.com
+secure.planetrugby.com
 secure.plug1luge.com
 secure.plug4norm.com
 secure.poor5zero.com
@@ -135891,6 +135905,8 @@ secure.sw.broadcom.com
 secure.swat8toot.com
 secure.tank3pull.com
 secure.team8save.com
+secure.teamtalk.com
+secure.tennis365.com
 secure.tent0mown.com
 secure.text6film.com
 secure.thepersonal.com
@@ -136308,6 +136324,8 @@ selaris.com
 seldos.com.tr
 select.brealtime.com
 selectad.com
+selectika-pixel.min.js
+selectika.com
 selectiondeceivingthreatened.com
 selectivesummer.com
 selectjeeps.acutx.org
@@ -136605,6 +136623,7 @@ sentry.footballiapp.com
 sentry.ftshp.xyz
 sentry.hamravesh.com
 sentry.io
+sentry.js
 sentry.malltina.com
 sentry.mci.dev
 sentry.mediacdn.vn
@@ -166020,6 +166039,7 @@ tag.foreverfierce.com
 tag.franquiahomeangels.com.br
 tag.gammaplatform.com
 tag.geeker.co
+tag.gendiscover.com
 tag.getamigo.io
 tag.gif
 tag.goldenbees.fr
