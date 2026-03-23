@@ -24483,6 +24483,7 @@ banner.abbyy.com
 banner.aismo.ru
 banner.ambercoastcasino.com
 banner.appsflyer.com
+banner.appsflyersdk.com
 banner.aqua.hu
 banner.ateam-ad.jp
 banner.bet365partners.com
@@ -63307,6 +63308,7 @@ fuzzyerror.com
 fvahbwnlcqvaf.site
 fvainjetmzyqi.online
 fvalid.appsflyer.com
+fvalid.appsflyersdk.com
 fvaslplblqgzc.online
 fvawdzlobdrrv.online
 fvbaffiliate.com
@@ -68507,6 +68509,7 @@ grofag.hollandandbarrett.ie
 groggedrotl.com
 groinenamel.com
 groinfont.com
+grok.com
 grokipedia.com
 groleegni.net
 gromamacros.cfd
@@ -115569,6 +115572,7 @@ oneijnarbxrvk.space
 onelead.ru
 onelink.appsflyer.com
 onelink.taptalk.io
+onelinksmartscript.appsflyersdk.com
 onem.marketing.onemarketinguxp.com
 onemboaran.com
 onemediawork.com
@@ -115926,6 +115930,7 @@ oozedbaobab.cyou
 oozgka.immoscout24.ch
 ooziyinsrvxki.online
 op-mobile.opera.com
+op.dragonfru.it
 op.js
 op00.biz
 op01.biz
@@ -187890,6 +187895,7 @@ w9uwz5966.com
 wa.airexperience.dk
 wa.and.co.uk
 wa.appsflyer.com
+wa.appsflyersdk.com
 wa.baltimoreravens.com
 wa.bdoaustralia.bdo.com.au
 wa.bol.com
@@ -189221,6 +189227,7 @@ websanalytic.com
 websc.org
 websdk.admiral.com
 websdk.appsflyer.com
+websdk.appsflyersdk.com
 websdk.makro.es
 websdk.metro.fr
 websdk.metro.ro
