@@ -3,7 +3,8 @@
 
 const BLOCKLIST_URLS = [
 
-
+"https://a.rawtv.top/youtube-blocker",
+"https://a.rawtv.top/tiktok-blocker",
   
   "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains",
   "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts",
