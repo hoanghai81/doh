@@ -184676,6 +184676,7 @@ visitor-service.sixpad.jp
 visitor-speed.com
 visitor-stats.de
 visitor-track.com
+visitor-type.js
 visitor-uk.fiftyt.com
 visitor.arabiancentres.com
 visitor.aspx
