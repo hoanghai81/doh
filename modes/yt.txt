@@ -24021,6 +24021,7 @@ beacon.vertebrae-axis.com
 beacon.walmart.ca
 beacon.walmart.com
 beacon.watch.impress.co.jp
+beacon.webpresence.work
 beacon.wikia-services.com
 beacon.wingwin.eu
 beacon.www.theguardian.com
@@ -121289,6 +121290,7 @@ pocitadlo.cz
 pocitadlo.sk
 pocketads.pl
 pocketfaucet.com
+pocketguard.com
 pocketnudisms.cyou
 pocketshighlyinquired.com
 pockierstibine.qpon
@@ -135644,6 +135646,7 @@ script.novanet.vn
 script.oops.tattoo
 script.opentracker.net
 script.outbound-links.js
+script.outbound-links.pageview-props.revenue.js
 script.pageview
 script.php
 script.proadscdn.com
@@ -189972,6 +189975,7 @@ wikihow.com
 wikimonde.com
 wikipedia.de
 wikipedia.org
+wikiquotations.com
 wikiwhatwhere.com
 wikpuncars.com
 wildcard.aniview.com.edgekey.net
