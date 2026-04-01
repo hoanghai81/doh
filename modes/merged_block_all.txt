@@ -37182,6 +37182,7 @@ cragtrack.marinacorrea.com.br
 craharice.com
 craikki.shop
 crail.appianproperty.co.uk
+craiovaforum.ro
 craiseyscholia.qpon
 crajeon.com
 crakbanner.com
@@ -111718,9 +111719,11 @@ nicolive.cdn.nimg.jp
 nicoltimor.cyou
 nicovideo.jp
 nictatemonarda.cyou
+nid.barrons.com
 nid.mansionglobal.com
 nid.thesun.co.uk
 nid.thetimes.com
+nid_sp.js
 nidakcdk.com
 nidays.austria.ni.com
 nidays.suisse.ni.com
@@ -119694,6 +119697,7 @@ pbasitetracker.min.js
 pbbl.co
 pbbleacqhqyexue.com
 pbc.automatad.com
+pbc.barrons.com
 pbc.getpublica.com
 pbc.nypost.com
 pbc.programbrokerage.com
@@ -169596,6 +169600,7 @@ tags.azattyq.org
 tags.azatutyun.am
 tags.babybunting.co.nz
 tags.babybunting.com.au
+tags.barrons.com
 tags.benarnews.org
 tags.bestcheck.de
 tags.bestow.com
