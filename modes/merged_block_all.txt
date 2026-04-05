@@ -30677,6 +30677,7 @@ cdn.doublemax.net
 cdn.doubleverify.com
 cdn.dsmstats.com
 cdn.dsspn.com
+cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.easyads28.mobi
 cdn.eksiup.com
 cdn.empower.net
@@ -40301,6 +40302,7 @@ d2o51l6pktevii.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2o8i1jpfoso49.cloudfront.net
+d2o9p5vky89u4e.cloudfront.net
 d2oa97wrxvxm7y.cloudfront.net
 d2ob4whwpjvvpa.cloudfront.net
 d2ob6t3bgjo11t.cloudfront.net
