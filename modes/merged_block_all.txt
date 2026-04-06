@@ -31613,6 +31613,7 @@ cfa.2mdnsys.com
 cfa.fidelity.com
 cfa.js
 cfaexam.quantresear.ch
+cfapi.upstackdata.io
 cfarvjcutttkn.website
 cfb.8it.me
 cfbjod.zooeretz.co.il
@@ -134968,6 +134969,7 @@ sandbox.ssl2.duapps.com
 sandbox.stickyadstv.com
 sandboxbid.com
 sandboxdownload.dnv.com
+sandboxed_ad_vendor_iframe.html
 sandboxregister.dnv.com
 sandboxsectrk.dnv.com
 sandboxsectrk.veracity.com
@@ -190786,6 +190788,7 @@ weytnksofbrsj.site
 wezbvq.heine-shop.nl
 wezfkkvkhjmha.space
 wezgysnbvdvqi.space
+wf-box.net
 wf.typesquare.com
 wfaqctsjoryiu.website
 wfbcfadgivxqd.space
