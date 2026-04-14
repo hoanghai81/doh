@@ -100626,7 +100626,6 @@ metricas.wbeduca.com.br
 metricas.zionerp.com.br
 metricfast.com
 metricode.com
-metricool.com
 metricool.js
 metricreceiver.cellrebel.com
 metrics-a.wbx2.com
