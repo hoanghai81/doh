@@ -44464,6 +44464,7 @@ datadome.co
 datadome.garena.com.first-party-js.datadome.co
 datadome.maisonsdumonde.com
 datadome.monster.com.first-party-js.datadome.co
+datadome00.id.me
 datadrivens.protocolopumpgluteos.com.br
 datadsk.com
 datafa.st
@@ -162965,6 +162966,7 @@ statistik.sunnesommarland.se
 statistik.svenskaakademien.se
 statistika.lv
 statistx.com
+statlytic.net
 statm.the-adult-company.com
 statman.sesong.info
 statohmgrommet.help
