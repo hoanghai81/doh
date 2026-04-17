@@ -132681,6 +132681,7 @@ rum-static.pingdom.net
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
+rum.battle.net
 rum.browser-intake-datadoghq.com
 rum.browser-intake-datadoghq.eu
 rum.browser-intake-ddog-gov.com
