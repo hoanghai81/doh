@@ -25404,6 +25404,7 @@ bi.pst.tech
 bi.vhost.vn
 bi.yeshen.com
 bi205u0cx.com
+bi_medscape.js
 bia.brightinfo.com
 biafagqhzedhn.space
 biallo1.de
@@ -25579,6 +25580,7 @@ bigday.ru
 bigelowcleaning.com
 bigfishapparel.com
 biggedchocard.com
+biggerbling.com
 biggerbreakerfind.com
 biggerluck.com
 biggestplayer.cachefly.net
@@ -74877,6 +74879,7 @@ img.lavanetwork.net
 img.learn.abreon.com
 img.link.cabinetry.com
 img.logo.dev
+img.medscapestatic.com
 img.meet.duapps.com
 img.mobon.net
 img.mondiad.net
@@ -103259,6 +103262,7 @@ mtrcsapi.parcoibiza.com
 mtrcss.com
 mtree.com
 mtrgg.supplementwarehouse.com
+mtrics.cdc.gov
 mtrs.cooecfluor.com
 mtrs.fluor.com
 mtrs.fluorconstructors.com
@@ -105004,6 +105008,7 @@ ncqfppkwczjal.site
 ncqhgmxnpywal.website
 ncqoe.magnesium.ca
 ncqtxzmuffxiwk.cfd
+ncregister.com
 ncs.eadaily.com
 ncszswtpaguzr.online
 nct.ui-portal.de
