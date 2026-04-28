@@ -18278,6 +18278,7 @@ api.blog.zigglir.com
 api.blog.zonaforte.com
 api.blog.zuremod.com
 api.blog.zureste.com
+api.bluecore.app
 api.bluerunningshadow.com
 api.bluevechub.com
 api.boclinkads.com
@@ -110499,6 +110500,7 @@ onshorebirled.cfd
 onshowit.com
 onshucklea.com
 onsideunden.org
+onsitestats.bluecore.com
 onstraints.store
 onstunkyr.com
 onsuchasricew.com
