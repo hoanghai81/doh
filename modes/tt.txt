@@ -15855,6 +15855,7 @@ analytics-event-adapter.js
 analytics-event.js
 analytics-events.inshorts.com
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-fe.digital-cloud.medallia.eu
 analytics-gateway.delta.dp.lightricks.com
@@ -29077,6 +29078,7 @@ bzpgi.plankandbeam.com
 bzpics.com
 bzpqekgjvaqkn.website
 bzqxze.remixshop.com
+bzr.openai.com
 bzrcdn.openai.com
 bzrch.heyskipperfishing.com
 bzrpp.nakednutrition.ca
@@ -108947,7 +108949,6 @@ oahvmrbvqsuey.online
 oaiab.mykitsch.com
 oaiad.josephjoseph.com
 oainternetservices.com
-oaiq.min.js
 oaizwm.zox.la
 oajkd.youngla.com
 oajs.openx.net
