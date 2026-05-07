@@ -86942,7 +86942,6 @@ lindychat.com
 line-e.com
 line-jp.live
 line-scdn.net
-line.karte.io
 line.me
 line.my.salesforce.com
 line1-log.biligame.net
