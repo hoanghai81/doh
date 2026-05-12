@@ -361,6 +361,7 @@ app.adjust.com
 app.dharma.io
 app.getresponse.com
 app.link
+app.trading212.com
 app2.salesmanago.pl
 app3.takasbank.web.tr
 appsflyer.com
@@ -1771,6 +1772,7 @@ ing.be
 ing.com.au
 ing.de
 ing.es
+ing.lu
 ing.pl
 ingbank.com.tr
 ingbank.hu
