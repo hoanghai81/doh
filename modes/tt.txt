@@ -18514,6 +18514,7 @@ api.barbaralimapmu.com.br
 api.batch.com
 api.batterylab.duapps.com
 api.beatrizcassane.com.br
+api.begenuin.com
 api.beleggersbelangen.nl
 api.benibiju.com.br
 api.berrycamp.com.br
@@ -191638,6 +191639,7 @@ wildestgraciousunpack.com
 wildhookups.com
 wildlyzonereseptivereseptive.com
 wildmatch.com
+wildpetalfarm.com
 wildrive.com
 wildtraffic.pro
 wildwist.com
@@ -192472,6 +192474,7 @@ woofbeginner.com
 wooferdeia.com
 woofersgargets.cyou
 woofoobukugly.net
+woofweather.com
 woogoust.com
 wooguwhede.net
 wooldedapitong.qpon
