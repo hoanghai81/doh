@@ -42357,6 +42357,7 @@ dashboard.nowdialogue.com
 dashboard.xqubemedia.com
 dashboardbntest.branchcustom.xyz
 dashboardmortal.com
+dashfinet-analytics.js
 dashingdrop.com
 dashww.hotscopes.net
 dasistnews.net
@@ -57782,6 +57783,7 @@ fairiesbranch.com
 fairlink.ru
 fairlyleadingenquiry.com
 fairmonks.com
+fairprice.com.sg
 fairscrew.com
 fairu-blog.com
 fairu-blog.xyz
@@ -82868,6 +82870,7 @@ js.cdn.applicationinsights.io
 js.clickrank.ai
 js.cmoa.pro
 js.cookie.js
+js.dashfi.net
 js.datadome.co
 js.dev.brealtime.com
 js.dongojyousan.com
@@ -134609,6 +134612,7 @@ segment.js
 segment.lalr.co
 segment.prod.bidr.io
 segment.psg.nexstardigital.net
+segmentapis.com
 segmenthub.com
 segmentify.com
 segmentify.js
@@ -187777,6 +187781,7 @@ webshark.pl
 websharks.ru
 webshopping.cc
 websideserver.groupe-e.ch
+website-api.omni.fairprice.com.sg
 website-assets.sirvoy.com
 website-hit-counters.com
 website-security.geotrust.com
