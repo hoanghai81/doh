@@ -15941,6 +15941,7 @@ ampm.outbrain.com
 ampparit.com
 ampproject.org
 amprtc.media.net
+ampscamp.net
 amptrack-dailymail-co-uk.cdn.ampproject.org
 ampxchange.com
 amqa11.com
@@ -19906,6 +19907,7 @@ app.citylink.ro
 app.cityspringstheatre.com
 app.clarity.so
 app.classiccenter.com
+app.clickfunnels.com
 app.clientbook.com
 app.clientservices.avalara.com
 app.clovia.com
@@ -20861,6 +20863,7 @@ appletrelentlessfreeway.com
 applets.ebxcdn.com
 appliancecolaprofessor.com
 applicatifs.ricoh.fr
+application.js
 application.mindshine.app
 application.mybiglove.ru
 application.rasmussen.edu
@@ -33195,6 +33198,7 @@ cf.chargeflow.io
 cf.glowbackledstore.com
 cf.iadsdk.apple.com
 cf.im-apps.net
+cf.js
 cf.overblog.com
 cf.wolfclicktrack.com
 cf222.art
@@ -36210,6 +36214,7 @@ collect.med24.se
 collect.media.jio.com
 collect.meilleurtaux.com
 collect.mercell.com
+collect.min.js
 collect.mounthermonadventures.com
 collect.mtgec.jp
 collect.nature.com
@@ -122394,6 +122399,7 @@ propadsviews.com
 propagate44.top
 propagate_cookie.php
 propaleamebansyrnium.cyou
+propanefitness.com
 propay.actonservice.com
 propbn.com
 propel.yourcompanyformations.co.uk
@@ -123397,6 +123403,7 @@ pushcentric.com
 pushche.rabbit.click
 pushclk.com
 pushcrew.com
+pushcrew.js
 pushd-android-logs.s3.amazonaws.com
 pushd.netky.tech
 pushdi.com
@@ -141936,6 +141943,7 @@ shop.lorenzetti.ma
 shop.mariolucagiusti.ae
 shop.mattel.com
 shop.meenufashion.com
+shop.moen.com
 shop.moi-et-marie.com
 shop.myaeon2go.com
 shop.nirvhejal.com
@@ -163552,6 +163560,7 @@ straitsintentionsbedroom.com
 straitspiral.com
 strak.php
 strandedenragefiscal.com
+strandedgame.com
 strandedidiommembership.com
 strandedobviously.com
 strands.com
@@ -173928,6 +173937,7 @@ track.activationking.com
 track.ad.xiaomi.com
 track.adabra.com
 track.adcreatorai.pro
+track.addevent.com
 track.addview
 track.adflex.vn
 track.adflow-prod.minionplatform.com
