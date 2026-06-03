@@ -43257,6 +43257,7 @@ data.americas.coca-cola.com
 data.aniview.com
 data.anparch.com.vn
 data.apac.coca-cola.com
+data.api.canalplus.com
 data.areavip.realmadrid.es
 data.armexdef.uk
 data.armexfort.uk
@@ -45168,6 +45169,7 @@ dazhantai.com
 dazmmlkurukfj.space
 daznpfkkuujek.online
 dazu57wmpm14b.cloudfront.net
+dazzlescript.com
 dazzlingbook.com
 dazzlingdelay.com
 dazzlingnoise.pro
