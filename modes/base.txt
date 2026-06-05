@@ -10750,6 +10750,7 @@ admin.inorbitad.com
 admin.landingtrk.com
 admin.lavanetwork.net
 admin.memberspace.com
+admin.microsoft.com
 admin.net.fidorbank.uk
 admin.novanet.vn
 admin.phunusuckhoe.vn
@@ -33969,6 +33970,7 @@ client-log.box.com
 client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
+client-logs-a.wbx2.com
 client-metrics.chess.com
 client-sdk.hackle.io
 client-side-metrics.as.criteo.net
@@ -94258,6 +94260,7 @@ m2track.co
 m3.dreamdecking.co.uk
 m3.repka.online
 m32.media
+m365.cloud.microsoft
 m365log.com
 m367.michigansthumb.com
 m3cqjc3og6.com
@@ -160668,6 +160671,7 @@ substantialmutinousfrecklessfreckless.com
 substantialprecarious.com
 substation.confection.io
 substituteyonder.com
+substrate.office.com
 subtlefinger.pro
 subtlemillenniumgallop.com
 subtleretortspat.com
