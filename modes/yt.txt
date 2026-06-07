@@ -19190,6 +19190,7 @@ api.tapacerto.com.br
 api.tapjoy.com
 api.taplytics.com
 api.taps.io
+api.tblcontent.com
 api.tecbov.com.br
 api.telemetry.watchabc.go.com
 api.tendency.com.br
@@ -71216,6 +71217,7 @@ himum.trymagicbox.com
 himwmilicd.in
 hinauupshut.cyou
 hindgutembusk.shop
+hindi-fcm.js
 hindrancegate.com
 hindsight.significanceapps.com
 hindustantimes.com
@@ -105637,6 +105639,7 @@ ndtheyeiedm.info
 ndtkxygpdzcdq.website
 ndtlhvhfeokmc.website
 ndtnc.abimimojo2.com
+ndtv.in
 ndtvbcxhvmtde.site
 ndwobwuygw.com
 ndwsqexojpuka.online
