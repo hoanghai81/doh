@@ -14679,6 +14679,7 @@ aisayivi.com
 aisfokgqw.online
 aisgt.herbaloasis.com
 aisiteanalytics.com
+aiskillsnavigator.microsoft.com
 aisletowelreasoning.com
 aiso.live
 aistat.net
@@ -45810,6 +45811,7 @@ dc.reiseversicherung.de
 dc.repsol.com
 dc.repsol.es
 dc.schibsted.io
+dc.services.visualstudio.com
 dc.stenaline.co.uk
 dc.stenaline.com
 dc.stenaline.cz
