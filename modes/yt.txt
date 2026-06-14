@@ -116709,6 +116709,7 @@ ping.taplytics.com
 ping.tvmaze.com
 ping_g.jsp
 ping_hotclick.js
+ping_tpc.php
 pingback.giphy.com
 pingback.issuu.com
 pingback.sogou.com
