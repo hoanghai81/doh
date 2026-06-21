@@ -19520,6 +19520,7 @@ api.tacotax.fr
 api.taggrs.io
 api.taijistore.com.br
 api.takealot.com
+api.tally.so
 api.tapacerto.com.br
 api.tapjoy.com
 api.taplytics.com
@@ -27457,6 +27458,7 @@ boldbars.com
 boldchat.com
 boldem.cz
 boldestedifierfijian.cfd
+boldin.com
 boldinformation.pro
 boldmetrics.io
 bolfep.prospin.com.br
@@ -64355,6 +64357,7 @@ glovedmenaced.shop
 glow.glowtrackjoy.com
 glowdot.com
 glowersmktsklater.cfd
+glowing.com
 glowingmeadow.com
 glowingnews.com
 glowtoprocessors.com
@@ -93404,6 +93407,7 @@ local-media.m.ambient-platform.com
 local-shares.ri.la
 local.adsbynimbus.com
 local.computer
+local.js
 local.qinlili.bid
 local.sisteminha.com
 localaffectrecipe.com
@@ -164775,6 +164779,7 @@ tallmentally.com
 tallthirsty.com
 talltouch.com
 tally.bizanalyst.in
+tally.so
 talog-eu.rebxgame.com
 talou.familyframe.co
 talouselama.fi
