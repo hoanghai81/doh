@@ -16795,6 +16795,7 @@ analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.distributednews.com
 analytics.diversitybestpractices.com
+analytics.divulg.org
 analytics.dns-shop.ru
 analytics.dollybeauty.com
 analytics.dollymusical.com
