@@ -121645,6 +121645,7 @@ publisher-config.unityads.unity3d.com
 publisher-event.ads.prd.ie.internal.unity3d.com
 publisher-event.unityads.unity3d.com
 publisher-network.com
+publisher-services.amazon.dev
 publisher.adsparc.com
 publisher.beaverads.com
 publisher.caroda.io
