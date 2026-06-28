@@ -12465,6 +12465,7 @@ adsensecustomsearchads.com
 adsensedetective.com
 adsenseguard.com
 adserv.c.appier.net
+adserv.gif
 adserv.mako.co.il
 adserv1.mannixmarketing.com
 adserv2.suumo.jp
@@ -50767,6 +50768,7 @@ dsp-media-cdn.tenmax.io
 dsp-media.eskimi.com
 dsp-nym2.adkernel.com
 dsp-staging.adkernel.com
+dsp-track-global.zmaticoo.com
 dsp-tracking.unityads.unity3d.com
 dsp-trk.eskimi.com
 dsp-us.bumlam.com
@@ -100765,6 +100767,7 @@ mendejobnamepanama.cyou
 mendelstats.js
 mendersquats.cfd
 menfraswagmenkeglers.cfd
+mengelke.de
 mengis-linden.org
 menhichs.cfd
 mennoc.mezlan.com
