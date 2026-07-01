@@ -18916,6 +18916,7 @@ api.gustavomfaria.adv.br
 api.hakatt.com
 api.halftonelab.com
 api.hauzriviera.com
+api.headliner.link
 api.healthlife.magazine4you.site
 api.hearclearco.store
 api.helefitness.com.br
@@ -163561,6 +163562,7 @@ thepiratebay.org
 thepixelpioneer.com
 theplayadvisor.com
 thepolorvision-ss.checkoutera.com
+thepoorswiss.com
 theporn.cc
 thepowerstones.com
 theprovince.com
