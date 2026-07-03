@@ -11754,6 +11754,7 @@ ads.bigfoot.com
 ads.bing.com
 ads.bingads.microsoft.com
 ads.bittorrent.com
+ads.bizwd.net
 ads.bkitsoftware.com
 ads.blog.com
 ads.blogherads.com
@@ -27325,6 +27326,7 @@ book.shop.coloringbookofshadows.com
 bookadil.com
 bookbannershop.com
 bookbeef.com
+bookcabin.com
 bookersowse.qpon
 bookfulquidamspense.cfd
 booking.com
@@ -31155,6 +31157,7 @@ cbzhv.sageandpaije.co.uk
 cbzjerbxjdiph.online
 cbzmoo.mecalux.fr
 cbzxy.com
+cc-api-data-stage.adobe.io
 cc-api-data.adobe.io
 cc.8181zx.com
 cc.adspsp.com
@@ -37003,6 +37006,7 @@ copablecalkin.cyou
 copacet.com
 copalmwhoopee.cyou
 copiergift.com
+copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 copiousgoutswimwear.com
 copisthulwort.qpon
@@ -56172,6 +56176,7 @@ ey8u1z38v.com
 eyaganyfyivhw.online
 eybrgoggcjkyl.website
 eyc-marketing.eyc.com
+eycfdxhanqord.site
 eydvg8.com
 eye.rd.services
 eyebrowbanisterspainkiller.com
@@ -75762,6 +75767,7 @@ indolentoutcome.com
 indolentsurvey.pro
 indolinkopeks.cyou
 indolylguyerguiler.cyou
+indonesiadefense.com
 indony.xyz
 indooritalian.com
 indoorrobotsunnecessary.com
@@ -83434,6 +83440,7 @@ kwxxuqnikarny.site
 kwyoqlhshixgt.website
 kwzm.uniformix.pl
 kx.indexexchange.com
+kx.upturnsidoist.cyou
 kx4.firstsexfilm.com
 kxaazgvdumsle.site
 kxapewakwxtyy.site
@@ -163304,6 +163311,7 @@ telemetry.battle.net
 telemetry.bowflex.ca
 telemetry.bowflex.com
 telemetry.boxt.co.uk
+telemetry.business.githubcopilot.com
 telemetry.bydata
 telemetry.bydata.com
 telemetry.canva.com
@@ -163317,6 +163325,7 @@ telemetry.doitbeststore.com
 telemetry.doxo.com
 telemetry.dropbox.com
 telemetry.dzen.ru
+telemetry.enterprise.githubcopilot.com
 telemetry.eyeo.com
 telemetry.firez.one
 telemetry.gfe.nvidia.com
@@ -191650,6 +191659,7 @@ zubniivgigntj.website
 zubvdghmyhajk.website
 zubxulmxdrtxy.website
 zucany.click
+zuchhsparxodc.site
 zucks.net
 zucoagorsout.com
 zudicy.guatafac.es
