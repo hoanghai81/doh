@@ -16278,6 +16278,7 @@ analytics-event-adapter.js
 analytics-event.js
 analytics-events.inshorts.com
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud-prem.medallia.eu
 analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-fe.digital-cloud.medallia.eu
