@@ -10748,7 +10748,9 @@ adgridwork.com
 adgroups.com
 adgrx.com
 adgrx.moatads.com
+adguard-dns.io
 adguard.com
+adguardcheckout.com
 adguru.kr
 adh.byeten.com
 adh.machbari.com
@@ -188376,6 +188378,7 @@ xstat.aspx
 xstat.gazeta.bo
 xstats.evoload.io
 xstats.net
+xstats.st
 xsteethes.qpon
 xsthwvgygulfk.space
 xstts.cc
