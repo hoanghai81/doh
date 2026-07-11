@@ -8825,6 +8825,7 @@ abs-static.org
 abs.ants.vn
 abs.firstvds.ru
 abs.proxistore.com
+abs.twimg.com
 absentairport.com
 absentbors.qpon
 absentlylaserlardy.com
