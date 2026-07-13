@@ -12346,6 +12346,7 @@ ads.tso.dennisnet.co.uk
 ads.tvb.com
 ads.tvmnews.mt
 ads.tvp.pl
+ads.tvpl.vn
 ads.twdcgrid.com
 ads.twitter.com
 ads.uc.cn
@@ -25225,6 +25226,7 @@ beacon.ehow.com
 beacon.errorception.com
 beacon.examiner.com
 beacon.flow.io
+beacon.fusioncdn.com
 beacon.gif
 beacon.gtv-pub.com
 beacon.gu-web.net
@@ -25453,6 +25455,7 @@ befhphijjpvng.space
 befhzmscrrrjr.website
 befickle.foolhardywear.pro
 befirstcdn.com
+befjajh.trackhup.com
 beflearappergobbets.cyou
 beflourrealarmlover.qpon
 befoolamesace.qpon
@@ -26161,6 +26164,7 @@ biceake.qpon
 bichircofttrue.cfd
 bichyphysics.cfd
 bickerpergola.cfd
+bicolourprepossessstrong.com
 biconcave43.com
 biconiccorningsorrier.cfd
 bicp-analytics.postscript.io
@@ -32453,6 +32457,7 @@ cdn.userreport.com
 cdn.usezeno.com.br
 cdn.vaara.id
 cdn.viadata.store
+cdn.vidcrunch.com
 cdn.vidverto.io
 cdn.viewdeos.com
 cdn.viglink.com
@@ -47670,6 +47675,7 @@ dgfsajonlckrp.store
 dggaenaawxe8z.cloudfront.net
 dggazqmcpmtwc.website
 dggenduprnyi.com
+dghecae.trackhup.com
 dghfko.pauapique.com.br
 dghpj.italic.com
 dgire.koalaeco.com
@@ -99383,6 +99389,7 @@ mediaz.genieesspv.jp
 mediaz.vn
 mediazcorp.com
 mediba.jp
+medibank.com.au
 medibot.delling.care
 medical-aid.net
 medical-rights.co.il
@@ -102912,6 +102919,7 @@ mjblfp.sleekmarket.com
 mjca-yijws.global.ssl.fastly.net
 mjcfpkgfkeoni.site
 mjdoepcbogrix.store
+mjdvamevlrsxv.site
 mjdvqfoffagkp.online
 mjf3luo23yvhzmvkmvbzo.rest
 mjfazganzkdbw.space
@@ -109431,6 +109439,7 @@ nuzehescwgfmr.site
 nuzoqxlu.in
 nuzostgcylun.com
 nv-ad.24hstatic.com
+nv.fascparbate.com
 nv.inhaabit.com
 nv.neuville.io
 nv.shunnerencinal.shop
@@ -117222,6 +117231,7 @@ play.springboardplatform.com
 play.staging.underdogfantasy.com
 play.tv3.lv
 play.underdogfantasy.com
+play.vidcrunch.com
 play.waka8et.com
 play.wavelength.zone
 play1.aniview.com
@@ -132713,6 +132723,7 @@ serv.robergecosmeticos.com.br
 serv.sunnahnaturals.site
 serv.usevrimportts.com.br
 serv.venicci.co.uk
+serv.vidcrunch.com
 serv.zarbeebd.com
 serv0.com
 serv01001.xyz
@@ -135807,6 +135818,7 @@ servside.rxrprotect.com
 servsta.alezz-oud.com
 servsvietnam.com
 servt.modoro360.com
+servt.vidcrunch.com
 servtraff97.com
 servustats.com
 servw.bid
@@ -139177,6 +139189,7 @@ shydinosaurs.com
 shylibrary.com
 shyspiritual.com
 shzzzz.dftoutiao.com
+si.hikerfaquirs.com
 sia.internet.apps.samsung.com
 sialshumours.qpon
 siamturakit.shop
@@ -165894,6 +165907,7 @@ tg1.aniview.com
 tg1.modoro360.com
 tg1.playstream.media
 tg1.premiumimpression.com
+tg1.vidcrunch.com
 tgb.hsmedia.ru
 tgbfha.lily-brw.com
 tgcapgsjdizdv.website
@@ -171303,6 +171317,7 @@ trackfr.top
 trackga.js
 trackga.min.js
 trackhorizon.nnmtools.com
+trackhup.com
 tracki.click
 trackicollect.ibase.fr
 trackid.globoid.globo.com
@@ -180469,6 +180484,7 @@ vidalak.com
 vidanalytics.taboola.com
 vidazoo.com
 vidcpm.com
+vidcrunch.com
 videa.hu
 videezy.com
 video-ad-stats.googlesyndication.com
@@ -188182,6 +188198,7 @@ www.viatrisneuropathicpain.co.uk
 www.viatrisvantage.com.au
 www.vice4beek.com
 www.vick6duty.com
+www.vidcrunch.com
 www.vidoomy.com
 www.vidsrev.com
 www.vietbuzzad.com
@@ -192943,6 +192960,7 @@ zcxdhoyoncjbv.space
 zcxwmnfhcsbzm.website
 zcymvyglyjyxu.online
 zd.midbodyritz.shop
+zd.navigcutler.cyou
 zdaptrksg.com
 zdawvocofpfcr.vip
 zdbb.net
