@@ -9809,6 +9809,7 @@ ad.cgv.co.kr
 ad.choicy.org
 ad.ciokorea.com
 ad.citynews.it
+ad.cj.sina.cn
 ad.cl.doubleclick.net
 ad.cn.doubleclick.net
 ad.cooks.com
@@ -9877,6 +9878,7 @@ ad.hepsiburada.com
 ad.hoikushibank.com
 ad.houkei-shinjuku.com
 ad.hu
+ad.hunyuan.tencent.com
 ad.hutor.ru
 ad.huvle.com
 ad.hyena.cz
@@ -10945,6 +10947,7 @@ adimages.sniffies.com
 adimg.cbsi.com
 adimg.cgv.co.kr
 adimg.liba.com
+adimg.mobile.sina.cn
 adimg.net
 adimg.newdaily.co.kr
 adimg.rekmob.com
@@ -12315,6 +12318,7 @@ ads.shopstyle.com
 ads.sibernetworks.com
 ads.sift.co.uk
 ads.simpli.fi
+ads.sina.com
 ads.skargarden.se
 ads.skidspar.se
 ads.skolvarlden.se
@@ -14615,6 +14619,7 @@ agxwhz.bloomingdales.sa
 agzdvulilbauk.website
 agzx.terrassewilliamgray.com
 ah-ha.com
+ah.eyesnamda.cfd
 ah.pricegrabber.com
 aha.aalborg-hotel-apartments.dk
 aha.ihosairaala.fi
@@ -18114,6 +18119,7 @@ android-stat.acestream.net
 android-system-virus-detect.web.app
 android-tv-beacons.xumo.com
 android.bugly.qq.com
+android.bugly.tencent.com
 android.heyzap.com
 android.txtsmarter.com
 android.unid.go.com
@@ -19733,6 +19739,7 @@ api.uprealiza.com.br
 api.usebepro.com.br
 api.usebutton.com
 api.useinsider.com
+api.uve.weibo.com
 api.v4comercialengenharia.com.br
 api.valenttmoda.com.br
 api.valista.io
@@ -25370,6 +25377,7 @@ beacon.skillable.com
 beacon.sojern.com
 beacon.statful.com
 beacon.taboola.com
+beacon.tencent.com
 beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.tru.am
@@ -26709,6 +26717,7 @@ biyjqmadbjdyx.xyz
 biyrseggdidiy.site
 biz.coface.com
 biz.gexing.com
+biz.weibo.com
 biz1.kddi.com
 biz2.kddi.com
 bizcwuhi.in
@@ -27822,10 +27831,13 @@ boostingads.com
 boostlo.xyz
 boostog.net
 boostquery.com
+boot.biz.weibo.com
 boot.pbstck.com
 booteryembrase.shop
 boothmythevergreen.com
 bootingunpickedusable.com
+bootpreload.uve.weibo.com
+bootrealtime.uve.weibo.com
 bootscritp.com
 bootstrap.js
 bootstraplugin.com
@@ -28384,6 +28396,7 @@ brands.picklebutnotcucumber.com
 brandsafe.adlooxtracking.com
 brandsfive.com
 brandsmat.com
+brandvideo.biz.weibo.com
 brandy.bonniernewslifestyle.se
 brandybison.com
 brankiewringle.cyou
@@ -46150,6 +46163,7 @@ datacollect-dev.cisco.com
 datacollect.cisco.com
 datacollected.innerflourish.info
 datacollection.adelaideuni.edu.au
+datacollection.uve.weibo.com
 datacollector-dra.dt.hicloud.com
 datacollector-drru.dt.dbankcloud.ru
 datacomm.ch
@@ -60559,6 +60573,7 @@ fota5p.adups.cn
 fota5p.adups.com
 fota5s.adups.cn
 fota5s.adups.com
+fota5t.adups.cn
 fota5t.adups.com
 fotao9.com
 fotareliance.adups.com
@@ -65374,6 +65389,7 @@ go.pinoy.innovatedating.com
 go.planetnine.com
 go.playbackbone.com
 go.player2app.com
+go.playlg.com
 go.plygem.com
 go.poland.innovatedating.com
 go.polarking.com
@@ -70588,7 +70604,10 @@ guhwatazr.in
 guhyqz.hawesko.de
 guiacflooeybeman.cyou
 guibaarcosekoae.qpon
+guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
+guid.tpns.sh.tencent.com
+guid.tpns.tencent.com
 guide.gif
 guidecent.com
 guidelingerbeige.com
@@ -74151,6 +74170,10 @@ hudong.com
 hudroaches.cfd
 hue11.com
 hue2b.com
+hue2n.com
+hue4c.com
+hueads.com
+hueadsortb.com
 hueadsxml.com
 huechl.paige.com
 huedpersonsovated.cyou
@@ -76794,6 +76817,7 @@ immigrationacre.com
 imminentadvisedlylucius.com
 imminentcawplod.com
 imminentshake.com
+immizdgmacjvi.space
 immoderatebreathtaking.com
 immoderatescarsheer.com
 immoralhands.com
@@ -79440,6 +79464,7 @@ iorzh.sokolovelaw.com
 ios-pclog.3u.com
 ios.asktagapp.com
 ios.bugly.qq.com
+ios.bugly.tencent.com
 ios.pclog.3u.com
 ios.unid.go.com
 iosads22.adcolony.com
@@ -83005,6 +83030,7 @@ kaden.netoff.co.jp
 kadfaedmpjdki.space
 kadime.cc
 kadlec.psjhealth.org
+kadmimage.biz.weibo.com
 kadta.hecostix.com
 kaebyy.autouncle.se
 kaefwe.faol.it
@@ -83974,6 +84000,7 @@ kitabisa.berkah100.asia
 kitabisa.tokyobola.click
 kitamura.jp
 kitbit.net
+kitces.com
 kitchen.consumable.com
 kitchen.juicer.cc
 kitchenfu47.top
@@ -93957,6 +93984,9 @@ log.tinxe.vn
 log.tossinvest.com
 log.tosspayments.com
 log.tpns.gz2.tencent.com
+log.tpns.hk.tencent.com
+log.tpns.sgp.tencent.com
+log.tpns.sh.tencent.com
 log.tpns.tencent.com
 log.trackingio.com
 log.trend.rankify.best
@@ -95807,7 +95837,9 @@ m.happ.social
 m.hi1222.com
 m.history.com
 m.historyvault.com
+m.hue11.com
 m.hue14.com
+m.hue2b.com
 m.infolinks.com
 m.ioicommunity.com.my
 m.irl.com
@@ -105216,6 +105248,8 @@ mst.physiotherapie-mobili.de
 mst.rnd.de
 mstat.acestream.net
 mstat.mos.ru
+mstat.tpns.sh.tencent.com
+mstat.tpns.tencent.com
 mstcs.info
 mstdsmvnfdqth.space
 mstm.motorsport.com
@@ -120350,6 +120384,7 @@ psgddusxwtmgj.online
 psgkhiojxrfbi.online
 psgpllf.com
 psh.one
+pshdo.com
 pshfqddtvtngd.site
 pshppwnnubdkgm.com
 psi.lbesecapi.com
@@ -131852,9 +131887,12 @@ sdk.truepush.com
 sdk.zadn.vn
 sdk4push.com
 sdk_release.js
+sdkaction.biz.weibo.com
 sdkapi-prod.dfinery.ai
 sdkapi.dsp-api.moloco.com
+sdkapp.uve.weibo.com
 sdkc.vervegroupinc.net
+sdkclick.biz.weibo.com
 sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
@@ -131866,6 +131904,7 @@ sdkl.info
 sdklog.tvstore.opera.com
 sdkm.w.inmobi.cn
 sdkm.w.inmobi.com
+sdkmonitor.biz.weibo.com
 sdks.stats-locations.com
 sdktm.w.inmobi.cn
 sdkupgrade.insight.ucweb.com
@@ -136770,6 +136809,8 @@ sg.as.y.atwola.com
 sg.c.appier.net
 sg.carousellmotors.com
 sg.cityads.com
+sg.enwovenspences.cyou
+sg.galileotelemetry.tencent.com
 sg.handtech.travel
 sg.ikan138dc.xyz
 sg.jointaxattorneysofamerica.com
@@ -157873,7 +157914,9 @@ stat.tildacdn.com
 stat.torgen.se
 stat.torrentbar.com
 stat.tpns.gz2.tencent.com
+stat.tpns.hk.tencent.com
 stat.tpns.sgp.tencent.com
+stat.tpns.sh.tencent.com
 stat.tpns.tencent.com
 stat.turb.pw
 stat.tuv.com
@@ -158427,6 +158470,7 @@ statistic-overseas.yunxinfw.com
 statistic.ads24h.net
 statistic.audima.co
 statistic.batdongsan.com.vn
+statistic.cj.sina.cn
 statistic.elkobraas.com
 statistic.jac-systeme.de
 statistic.live.126.net
@@ -170978,6 +171022,7 @@ track.capacitaestetica.com.br
 track.capitaloneshopping.com
 track.casetology.com
 track.catalogs.com
+track.catrck.net
 track.catspros.com
 track.cbdatatracker.com
 track.cbdmuay.com
@@ -171349,6 +171394,7 @@ track.mattoscalcados.com.br
 track.maxvaluead.com
 track.mayama.com.bd
 track.mclick.mobi
+track.mddsp.info
 track.mdmaonlinecanada.net
 track.mediaintelliview.com
 track.mediclinic.ae
@@ -176490,6 +176536,7 @@ u0crsrah75fy.camberlion.com
 u0h2psmoz.com
 u1.2048sj.com
 u1.idongde.com
+u1.img.mobile.sina.cn
 u1.qyxxpd.com
 u1010.com
 u1011.com
@@ -179566,6 +179613,7 @@ uvccpk.1800petmeds.com
 uvcgh.xyonhealth.com
 uvcwj.com
 uvd9re60w.com
+uve.weibo.com
 uveitisabaffingine.cyou
 uvfckyovekkqh.space
 uvgtor.mustelashop.co.kr
@@ -184241,6 +184289,7 @@ wb7i614qen.com
 wbaetwsafkqlw.store
 wbamedia.com
 wbaolixcouqle.website
+wbapp.uve.weibo.com
 wbbooupkjgwox.site
 wbbpahhzzczsh.space
 wbcygu.wardow.com
