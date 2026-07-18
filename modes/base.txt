@@ -129139,6 +129139,7 @@ s-adserver.cxad.cxense.com
 s-adx.op-mobile.opera.com
 s-adzone.com
 s-bid.rmp.rakuten.com
+s-cdn.anthropic.com
 s-cdn.innovid.com
 s-cdn.rmp.rakuten.com
 s-clk.rmp.rakuten.com
