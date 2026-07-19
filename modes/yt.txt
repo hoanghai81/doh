@@ -8912,6 +8912,7 @@ abs-static.org
 abs.ants.vn
 abs.firstvds.ru
 abs.proxistore.com
+abs.twimg.com
 absentairport.com
 absentbors.qpon
 absentlylaserlardy.com
@@ -126977,6 +126978,7 @@ riperemote.com
 riperequest.com
 ripewhining.com
 ripewing.com
+ripples.sh
 riprapgrene.cyou
 riprapmocoanpriapus.cfd
 riprlpruktwdz.space
@@ -182297,7 +182299,6 @@ viewar.org
 viewclc.com
 viewdeos.com
 viewed.php
-viewer.json
 viewer.pandasuite.io
 viewer_context.json
 viewflood.com
