@@ -285,6 +285,8 @@ agranisme.org
 agribank.com.vn
 ahesube.anadoluhayat.com.tr
 aib.ie
+aik.halcom.rs
+aikbank.rs
 ais.snbank.ru
 akb.ch
 akbank.com
@@ -318,6 +320,7 @@ alpari.ru
 alpha.gr
 alphabank.ro
 alrayanbank.co.uk
+altabanka.rs
 altbank.com
 alterna.ca
 altinn.no
@@ -407,6 +410,7 @@ bajajfinserv.in
 baker.ebanksepah.ir
 bancaenlinea.bancoplaza.com
 bancaenlinea.bicentenariobu.com
+bancaintesa.rs
 bancaintesa.ru
 bancamia.com.co
 bancaribe.com.ve
@@ -613,6 +617,7 @@ bhf-bank.ch
 bhf-bank.com
 bhw.de
 bib.com.br
+bib.eway2pay.com
 bibessen.de
 bic.modulbank.ru
 bice.cl
@@ -2140,6 +2145,7 @@ mlp.de
 mmbank.ru
 mmtro.com
 mobibank.upb.ru
+mobibanka.rs
 mobikwik.com
 modalmais.com.br
 modhumotibankltd.com
@@ -2259,6 +2265,7 @@ nikoil.az
 nipbank.ru
 nispa.de
 nl-go.kelkoogroup.net
+nlbkb.rs
 no-go.kelkoogroup.net
 nobaeg.de
 nokss.ru
@@ -2499,6 +2506,7 @@ otkritie.rapida.ru
 otpbank.com.ua
 otpbank.hu
 otpbank.ru
+otpbanka.rs
 otpbankdirekt.hu
 otpdirekt.ro
 otpsmart.com.ua
@@ -2650,6 +2658,7 @@ post.gov.tw
 post.spmailtechno.com
 postbank.kz
 poste.it
+posted.co.rs
 postfinance.ch
 postsign.docusign.com
 pps.fuib.com
@@ -2833,6 +2842,7 @@ raiffeisenbank-wangen.de
 raiffeisenbank-weissach.de
 raiffeisenbank-westallgaeu.de
 raiffeisenbank-wyhl.de
+raiffeisenbank.rs
 raiffeisenbankersingen.de
 raiffeisenonline.ro
 raika-erbes-buedesheim.de
@@ -4466,6 +4476,7 @@ www1.royalbank.com
 www2.danskebank.ee
 www2.jugra.ru
 www4.handelsbanken.fi
+x7.rs
 xalqbank.az
 xcitybank.com.ua
 xg4ken.com
@@ -4480,6 +4491,7 @@ yarbank.ru
 ybs.co.uk
 yenibayi.passotaksit.com.tr
 yesrewardz.com
+yettelbank.rs
 youneedabudget.com
 yuantabank.com.tw
 z.tochka.com
