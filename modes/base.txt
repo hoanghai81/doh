@@ -19296,6 +19296,7 @@ api.headliner.link
 api.healthlife.magazine4you.site
 api.hearclearco.store
 api.helefitness.com.br
+api.helloextend.com
 api.herbalista.net
 api.hinutrition.com.br
 api.horizontesfinanceira.com.br
@@ -33941,6 +33942,7 @@ cholumrom.cyou
 chong-wu.net
 choose.adelaide.edu.au
 choose.nu.edu
+choosefi.com
 chooseroverlaidspecies.com
 chopacapataz.cyou
 choppedremains.com
@@ -95283,6 +95285,7 @@ loopmaze.com
 loopme.com
 loopme.me
 loopmeedge.net
+looprecycled.com
 loor38.com
 loosebelt.com
 loosecase.com
@@ -103743,6 +103746,7 @@ mibatech.com
 mibmcbm.com
 micasa.eventofaturandoalto.com
 micfagmbbtwda.website
+michaels.com
 michelinman.com
 michiganfirstcreditunion.fmservice.com
 michiganrobotflower.com
