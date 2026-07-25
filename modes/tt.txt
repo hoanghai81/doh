@@ -85105,7 +85105,6 @@ kl.klasselotteriet.dk
 klakus.com
 klangoo.com
 klarinsights.net
-klarnaservices.com
 klaushydra.com
 klaviyo.com
 klaviyo_analytics.js
@@ -89518,6 +89517,7 @@ livepromotools.com
 liverail.com
 liveramp.sync.go.sonobi.com
 liverstopped.com
+livescore.com
 livesearch-metrics.magento-ds.com
 livesegmentservice.com
 livesession.io
@@ -124997,6 +124997,7 @@ rabbit.meitustat.com
 rabbit.radicalxchange.org
 rabbit.tg.meitu.com
 rabbit.upwardhomes.net
+rabbitboots.com
 rabbitbreath.com
 rabbitcounter.com
 rabbitheedless.com
@@ -141621,6 +141622,7 @@ silent-mixture.com
 silentcredit.com
 silentinevitable.com
 silentjackal.com
+silentsingle.com
 silentvalleyhill.com
 silenuspsis.cyou
 silesiadeuces.com
@@ -146916,6 +146918,7 @@ smrtbiidv.com
 smrtbiidvv.com
 smrtlnks.com
 smrtmnk2.com
+smrtwheel.com
 smrvqincllvlp.website
 sms-cuc.e2eprod.repackage.test.ajo.adobe.com
 sms-cuc.e2eprod.repackageaus5.test.ajo.adobe.com
