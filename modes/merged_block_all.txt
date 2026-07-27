@@ -60056,6 +60056,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 find.tjmartbd.com
 findandate.com
 findbetterresults.com
+findcalculator.com
 findcommerce.com
 findcompere.com
 findcouponspromos.com
