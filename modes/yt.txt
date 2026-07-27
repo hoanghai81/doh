@@ -15888,6 +15888,7 @@ allowlisted.net
 allowoozoid.cfd
 allowsalmond.com
 allowseshehasn.com
+alloy-rap.reclameaqui.com.br
 alloy-web.zvuk.com
 alloydigital.com
 alloystart.com
@@ -112229,6 +112230,7 @@ obs.cheqzone.com
 obs.du89buildings.com
 obs.esnlocco.com
 obs.forseasky.com
+obs.greencolumnblog.com
 obs.jollyoutdoorjogger.com
 obs.system1onesource.com
 obscenesidewalk.com
@@ -161749,6 +161751,7 @@ stats.pacificdentalservices.com
 stats.palaisdesfetes.eu
 stats.pamcarter.net
 stats.pandora.com
+stats.panet.com
 stats.paperarrow.com
 stats.paramountperformance.net
 stats.parqet.com
@@ -174540,6 +174543,7 @@ tracking-api.g2.com
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking-api.passeidireto.com
+tracking-api.razor.media
 tracking-api.sub100.com.br
 tracking-app.diginetica.net
 tracking-aws-5.com
