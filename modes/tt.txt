@@ -3852,6 +3852,7 @@ a.breka.fit
 a.brilmaver.com
 a.btrem.site
 a.bxwblog.cn
+a.c-dn.net
 a.c.appier.net
 a.callawaygolf.com
 a.callawaygolfpreowned.com
@@ -17854,6 +17855,7 @@ analytics.sixtcarsales.de
 analytics.sixtmiddleeast.com
 analytics.sjf.se
 analytics.skinit.com
+analytics.skroutz.gr
 analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.sleeknote.com
@@ -18042,6 +18044,7 @@ analytics.verfacto.com
 analytics.verizon.com
 analytics.verizonwireless.com
 analytics.veryfunnyads.net
+analytics.veygo.co
 analytics.vg
 analytics.vgtimes.com
 analytics.viblo.asia
@@ -19433,6 +19436,7 @@ api.iad.appboy.com
 api.iamintercept.com
 api.ibracs.com.br
 api.idqnd.com.br
+api.ig.com
 api.igpb.com.br
 api.igrovers.com
 api.imdb.eu-west-1.prod.paets.advertising.amazon.dev
@@ -61933,6 +61937,7 @@ frail-benefit.com
 frailfruit.com
 fraiymmrjeiwf.site
 frame.deployads.com
+frame.html
 framebanana.com
 framestighterauthorize.com
 fran.pro
@@ -67009,6 +67014,7 @@ goodcar.com
 goodcontentservice.top
 goodcounter.org
 goodfon.com
+goodfoodtours.com
 goodgamesmanship.com
 goodiesreaches.cfd
 goodimpressioncrboost.com
@@ -104952,6 +104958,7 @@ mirthconfidence.com
 mirthflexiblecolumn.com
 mirthzayins.shop
 mirvso.boggi.com
+mis.ig.com
 mis.maisonsoksi.com
 misaglam.com
 misav.sbs
@@ -105402,6 +105409,7 @@ mm-api.agency
 mm-cgnews.com
 mm-sdk-analytics.api.cx.metamask.io
 mm-syringe.com
+mm-uxrv.com
 mm.actionlink.jp
 mm.americandoorsupply.com
 mm.bariaa.com
@@ -109537,6 +109545,7 @@ neulion.vo.llnwd.net
 neural.myth.dev
 neurismregrate.cfd
 neurologist19.com
+neuronal.infunnel.inconcert.cloud
 neurotrack.neurolake.io
 neustar.beacon.js
 neutralitywith103.com
@@ -112844,6 +112853,7 @@ office.com
 officecornsoftware.com
 officeklafter.com
 officerpersonalimmersed.com
+officestylist.com
 official-permit.com
 official-sensors.git
 official.coomer.com.co
@@ -174813,6 +174823,7 @@ tracking-sandbox.vodafone.co.uk
 tracking-sap.frodx.com
 tracking-script.js
 tracking-scripts.js
+tracking-sdk-javascript.min.js
 tracking-secure.csob.cz
 tracking-server-prod-1.zenmxapps.com
 tracking-service.glority.com
