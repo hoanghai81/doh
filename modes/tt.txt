@@ -22554,6 +22554,7 @@ assets.hotjar.com
 assets.ikventilasjon.no
 assets.instant.page
 assets.invitemedia.com
+assets.jimstatic.com
 assets.kochava.com
 assets.kost1.no
 assets.logrocket.com
@@ -83954,6 +83955,7 @@ js22f.net
 js2json.com
 js7k.com
 js_ibeat_ext.cms
+js_includes_ux_metrics.js
 js_log_error.js
 js_logger.php
 js_tracker.js
@@ -180463,6 +180465,7 @@ uhyqieok5u.com
 uhyuspdyothna.online
 uhzpb.koolaburra.com
 ui-api.youbora.com
+ui-core-analytics-bundle.js
 ui-eu.maxymiser.com
 ui-instrumentation-components-beacon.instrumentationbeacon.senddata
 ui-kit.showheroes.com
