@@ -18354,6 +18354,7 @@ andall.servicesql.info
 andbeyond.media
 andelect.cfd
 andersenit.dk
+andfauna.net
 andhrapanful.cfd
 andlache.com
 andlc.hoorayheroes.co.uk
@@ -25104,6 +25105,7 @@ barracuda.civicdatalibrary.org
 barracuda.verto.exchange
 barrasdockage.com
 barrelaffloofatrophy.qpon
+barrelcider.com
 barren-theory.com
 barreshasidic.cfd
 barresrelists.com
