@@ -180680,7 +180680,6 @@ uhyqieok5u.com
 uhyuspdyothna.online
 uhzpb.koolaburra.com
 ui-api.youbora.com
-ui-core-analytics-bundle.js
 ui-eu.maxymiser.com
 ui-instrumentation-components-beacon.instrumentationbeacon.senddata
 ui-kit.showheroes.com
