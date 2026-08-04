@@ -103273,6 +103273,7 @@ metricas.tufcleaning.ca
 metricas.wbeduca.com.br
 metricas.zionerp.com.br
 metricfast.com
+metricfresh.com
 metricode.com
 metricool.js
 metricreceiver.cellrebel.com
@@ -118418,6 +118419,7 @@ party.oewheelsllc.com
 party.partyhalli.fi
 party.petland.dk
 partycasino.com
+partycharge.com
 partyinglongitudekept.com
 partyjerk.com
 partypartners.com
@@ -149578,6 +149580,7 @@ snowman.odencat.com
 snowman77.com
 snowmanjo.com
 snowmentor.com
+snowpeaksoftware.com
 snowplow-pixel.tradingview.com
 snowplow-tracker.tatest.js
 snowplow-zitcha.js
