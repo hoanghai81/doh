@@ -9311,6 +9311,7 @@ account-garrena.xyz
 account.adobe.com
 account.beauty
 account.grammarly.com
+account.microsoft.com
 accountancy.bppeloqua.com
 accountantflowerrespiration.com
 accountgram.com
@@ -113525,6 +113526,7 @@ observe.metarouter.io
 observedinoffensivesupplied.com
 observer.com
 observer.ip-label.net
+observer.marketing
 observer384.fun
 observerapp.com
 observercontains.com
@@ -149907,6 +149909,7 @@ soloqmyl.tefcold.sk
 solosduetstrios.com
 solosegment.com
 solr.sas.com
+solsticeblack.com
 solucionesreales.americanexpress.es
 solucionestech.personal.com.ar
 solucx.com.br
@@ -150387,6 +150390,7 @@ sonic-prod.cbssports.cloud
 sonic-ui.highereducation.com
 sonic.fdp.api.flipkart.com
 sonicsads.com
+sonicsessions.net
 soniouacnode.shop
 soniouchopped.cyou
 sonioutwicer.qpon
