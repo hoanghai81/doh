@@ -16616,6 +16616,7 @@ ampmhcbehnapwt.com
 ampparit.com
 ampproject.org
 amprtc.media.net
+ampscamp.net
 amptrack-dailymail-co-uk.cdn.ampproject.org
 ampxchange.com
 amqa11.com
@@ -125166,6 +125167,7 @@ pulse.fluparks.at
 pulse.fluparks.ch
 pulse.flyparks.com.au
 pulse.ftools.fluege.de
+pulse.genki.world
 pulse.hetadreswebshop.nl
 pulse.impartner.com
 pulse.inmobi.com
@@ -127344,6 +127346,7 @@ queencolloquial.com
 queenjam.com
 queenrangalways.com
 queenskart.com
+queerty.com
 queestflexostatize.qpon
 queingmuggur.com
 quelea.llresearch.dev
