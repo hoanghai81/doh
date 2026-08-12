@@ -44510,6 +44510,7 @@ data.guest.princess.com
 data.guide.photobucket.com
 data.gxv.test.ajo.adobe.com
 data.habert-sa.fr
+data.hailuo.ai
 data.halcyontimber.co.uk
 data.hardrock.palladiumhotelgroup.com
 data.hashoutsoftapacptrsd.adobesandbox.com
@@ -46059,6 +46060,7 @@ dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
 dd.subito.it.first-party-js.datadome.co
+dd.thetrainline.com.first-party-js.datadome.co
 dd.toponad.com
 dd.viator.com
 dd.wizzair.com.first-party-js.datadome.co
@@ -46486,6 +46488,7 @@ dekbi.elevatedhealth.com
 dekkopinolin.com
 dekkosteedthurgi.cyou
 deknv.fifteentwenty.com
+dekra-akademie.de
 dektprgshveuj.website
 delatercaingua.cyou
 delawstooded.com
@@ -55478,6 +55481,7 @@ event.riseexpo.com
 event.scimo.io
 event.seatradecruiseevents.com
 event.seatradecruiseglobal.com
+event.sendeventtodatalake
 event.shl.com
 event.spektare.com
 event.spotxchange.com
@@ -101790,6 +101794,7 @@ misstepknock.cyou
 misstrends.com
 mistakeapartgolan.com
 mistervillas.com
+mistral.ai
 mistresscoat.com
 mistydeposit.pro
 mistyforestolqt.online
@@ -126329,6 +126334,7 @@ rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-ingress-coralogix.com
 rum-metrics.bunny.net
+rum-openway.guance.com
 rum-reporter-prod.exp.bn.nr
 rum-static.pingdom.net
 rum.aliyuncs.com
@@ -164648,6 +164654,7 @@ thetindung-online-vpb.online
 thetindung-online.com
 thetopic.co.kr
 thetrafficstat.net
+thetrainline.com
 thetrendytales.com
 thetruth.com
 thetruthaboutcars.com
