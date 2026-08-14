@@ -25179,6 +25179,7 @@ beacon.gu-web.net
 beacon.gutefrage.net
 beacon.indieclicktv.com
 beacon.itmedia.jp
+beacon.joinlede.com
 beacon.js
 beacon.klm.com
 beacon.kmi-us.com
@@ -130113,6 +130114,7 @@ scsej.beboe.com
 scsmetrics.ho-mobile.it
 scsmetrics.vodafone.it
 scsrm.homedics.co.uk
+scstats.js
 sct.sacratu.com.br
 sctcaser.cyou
 scuba.bornofwater.com
@@ -161374,6 +161376,7 @@ t.cubuffs.com
 t.d.adup-tech.com
 t.d.ants.vn
 t.d.eclick.vn
+t.dailydot.com
 t.dailymail.co.uk
 t.daisymaison.co.uk
 t.danielwellington.com
@@ -190289,6 +190292,7 @@ yellowishgather.com
 yellowjm.com
 yellowpages.com
 yellowprotection.com
+yellowscissors.com
 yelp.com
 yelpedtertii.shop
 yemmealngv.com
@@ -191819,6 +191823,7 @@ zanox.com
 zanox.js
 zantainet.com
 zantracker.com
+zanyapps.com
 zanyestablishment.pro
 zanypotential.com
 zanytower.pro
