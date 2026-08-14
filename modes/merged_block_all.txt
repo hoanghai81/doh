@@ -15645,6 +15645,7 @@ alleletez.qpon
 alleleunlatch.cyou
 alleliccoaguleeatable.qpon
 alleliteads.com
+allenai.org
 allenentasia.cfd
 allenmare.com
 allenprepareattic.com
@@ -33661,7 +33662,6 @@ citypaketet.se
 cityrobotflower.com
 citysearch.com
 citysite.net
-cityspark.com
 cityua.net
 cityzen.io
 ciuoqhntqxrjv.site
@@ -41688,7 +41688,6 @@ daily.schoolsweek.co.uk
 daily.thezebra.org
 daily.yubanet.com
 dailyc24.com
-dailycamera.com
 dailydivision.com
 dailydomino.com
 dailyexaminer.com.au
@@ -77602,6 +77601,7 @@ ingest-qa.kube-prod.vungle.com
 ingest.analytics.nation.dev
 ingest.coincodex.com
 ingest.databuckets.com
+ingest.in.signoz.cloud
 ingest.m2catalyst.com
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
@@ -117394,7 +117394,6 @@ portal.adbro.me
 portal.adthrive.com
 portal.batmobi.net
 portal.brealtime.com
-portal.cityspark.com
 portal.clickagy.com
 portal.dcgone.com
 portal.exclusivas.bancoppel.com
