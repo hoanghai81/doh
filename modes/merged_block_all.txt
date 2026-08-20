@@ -88,6 +88,7 @@
 03in08p3r1.com
 03mhpavj25.com
 03t441b8w.com
+0404.co.il
 048f3c0516.com
 049bv1hdzn.com
 050393f4ec.com
@@ -13559,6 +13560,7 @@ afe2.specificclick.net
 afe3.specificclick.net
 afecvu.bulevip.com
 afep.pivn.shop
+afeteforfood.com
 afevxr.guydemarle.com
 aff-a.advertica-cdn.com
 aff-advertiser.i-mobile.co.jp
@@ -16487,6 +16489,7 @@ analytics.arvika.se
 analytics.arz.at
 analytics.asiatech.ir
 analytics.asml.com
+analytics.asmx
 analytics.astons.com
 analytics.atara.sa
 analytics.atdmt.com
@@ -17162,6 +17165,7 @@ analytics.marketmemoir.com
 analytics.marquiz.ru
 analytics.martinandosa.com
 analytics.masat-alsaada.com
+analytics.maskyoo.net
 analytics.massivwerthaus.at
 analytics.matchbin.com
 analytics.mathfel.de
@@ -20043,6 +20047,7 @@ api.wesleygimenez.com.br
 api.west.bidtellect.com
 api.wg-aff.com
 api.whizeo.com
+api.whtvr.ai
 api.widget.zalo.me
 api.wiinvent.tv
 api.wipmania.com
@@ -24993,6 +24998,7 @@ banner.zol.ru
 banneradder.se
 bannerads.de
 banneradsday.com
+bannerave.com
 bannerbank.ru
 bannerboo.com
 bannerbook.ru
@@ -26671,6 +26677,7 @@ bhmzab.totes.com
 bhnbqz.virginaustralia.com
 bhobmdtjc.com
 bhohazozps.com
+bhol.co.il
 bhoosatriens.shop
 bhotiyarazored.cyou
 bhphotovideo.com
@@ -37011,6 +37018,7 @@ col.yaencontre.com
 colad.au.willpowders.com
 colafaultsruns.com
 colanbalkily.com
+colbass.com
 colbwxlsfenwn.website
 coldbalance.com
 coldcallpro.com
@@ -38459,6 +38467,7 @@ content-rec.com
 content-row.com
 content-settings.com
 content-square.net
+content-targeting.js
 content-website-analytics.com
 content.4teamwork.ch
 content.acc-hd.de
@@ -43886,6 +43895,7 @@ daily.schoolsweek.co.uk
 daily.thezebra.org
 daily.yubanet.com
 dailyc24.com
+dailydevstatus.com
 dailydivision.com
 dailydomino.com
 dailyexaminer.com.au
@@ -54823,6 +54833,7 @@ dxkmeispvbfsx.website
 dxkuwz.domyown.com
 dxlive.com
 dxlyladmlitox.store
+dxmcdn.com
 dxmlxefb.com
 dxoiomfjfvvub.space
 dxop.bcbsla.com
@@ -85376,6 +85387,7 @@ ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingest.metzler-electronics.com
 ingest.php
+ingest.promptwatch.com
 ingest.sentry.io
 ingest.skarb.work
 ingest.vungle.com
@@ -133650,6 +133662,7 @@ radar.josianamendes.adv.br
 radar.luanapradoadvocacia.com.br
 radar.marinhoadvmg.com.br
 radar.rodrigopradomentor.com.br
+radar.wizzo.media
 radarconsultation.com
 radarstats.com
 radbafhuhq.in
@@ -176331,6 +176344,7 @@ status.jsp
 status.langnite.pl
 statusbelucki.cfd
 statusinside.com
+statuspage.io
 statusseemly.cyou
 statustranslateaubergine.com
 statwup.huya.com
@@ -180945,6 +180959,7 @@ taginova.xyz
 tagivi.com
 tagjsirw.com
 tagjunction.com
+tagloader.js
 tagm.eduscho.at
 tagm.tchibo.de
 tagm.uneedcomms.com
