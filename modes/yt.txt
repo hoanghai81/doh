@@ -19080,7 +19080,6 @@ api.cortimax.com.br
 api.cosmetologiadobem.com.br
 api.costuraai.com.br
 api.country.is
-api.crashlytics.com
 api.creditfinder.app
 api.criancasmodoturbo.com
 api.crisleao.com
@@ -27855,6 +27854,7 @@ bluadz.com
 blubberlog.com
 bludgeentraps.com
 blue-pages.levelblue.com
+blue-ribbonmacadamizeprovide.com
 blue-rocket.actonservice.com
 blue-technology.pro
 blue.bpsdepot.co.uk
@@ -39923,7 +39923,6 @@ crashapi.growingio.com
 crashchance.com
 crasheye.cn
 crashlytics.com
-crashlyticsreports-pa.googleapis.com
 crashpandas.com
 crasischapletharmala.cyou
 cratecamera.com
@@ -49369,6 +49368,7 @@ dbvcmwmqdgcpg.online
 dbvedren.com
 dbvzgy.yomiuri-ryokou.co.jp
 dbw7j2q14is6l.cloudfront.net
+dbxexsnxxzwwo.com
 dbxkzizfgildn.site
 dby7kx9z9yzse.cloudfront.net
 dbymlmuppcxiz.site
@@ -55128,7 +55128,6 @@ e.channelexco.com
 e.cn.miaozhen.com
 e.connectad.io
 e.cquotient.com
-e.crashlytics.com
 e.customeriomail.com
 e.darpro-solutions.com
 e.datapaq.com
@@ -63372,7 +63371,6 @@ firebase-messaging-sw.js
 firebase-performance-compat.js
 firebase-performance-standalone-compat.js
 firebase-performance-standalone.js
-firebase-settings.crashlytics.com
 firebase.google.com
 firebase.googleapis.com
 firebaseinstallations.googleapis.com
@@ -85484,6 +85482,7 @@ injuredripplegentleman.com
 injusticebakery.com
 injzufavkuark.space
 inkblotst.com
+inkcoupon.com
 inkfeedmausoleum.com
 inkgdrdgypkar.website
 inkingnabby.cfd
@@ -89703,6 +89702,7 @@ juiceadv.com
 juicebarads.com
 juicebard.com
 juiceblocks.com
+juicemovement.com
 juicer.cc
 juicer.io
 juicingoasis.com
@@ -120569,6 +120569,7 @@ og-ali1.com
 og-shopee9.com
 og.alcmpn.com
 og.olgam.com
+og.tiglicsethian.com
 og.zyzjpx.cn
 og2ebeuxa.com
 og7231kq7.com
@@ -132480,6 +132481,7 @@ qncvq.hoorayheroes.com.au
 qndop.aroma360.com
 qneb.cn
 qnejf.sweetumswipes.com
+qnenxwwxzav.com
 qneshqafreref.site
 qnfhrgxttmget.site
 qnfrhwzpqtpwzu.com
@@ -135687,7 +135689,6 @@ reports-k8s.leanplum.com
 reports-tsi.tangerine.io
 reports.152media.com
 reports.ad.plus
-reports.crashlytics.com
 reports.fatchilli.media
 reports.hibu.com
 reports.keywee.co
@@ -148062,7 +148063,6 @@ settbayeta.qpon
 settdenar.qpon
 setting.rayjump.com
 settings-analytics.hotstar.com
-settings.crashlytics.com
 settings.js
 settings.luckyorange.net
 settings2021.net
@@ -158450,6 +158450,7 @@ sn.ihraam.nl
 sn.iloveselesteres.com
 sn.japaknives.com
 sn.koolrv.com
+sn.lumbarssweepup.com
 sn.moatads.com
 sn.mygreekboutique.co
 sn.novanta89.com
@@ -177737,6 +177738,7 @@ su.liveislive.be
 su.modul-air.com
 su.pr
 su.space-safari.com
+su.sulingvicaire.cyou
 su0k43kcy.com
 su1.les-suites.ca
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
@@ -182677,6 +182679,7 @@ tctde.slickhair.com
 tctepwisejwvc.site
 tctm.co
 tcufahfu.com
+tcugibodvow.in
 tcuk.team-consulting.com
 tcus.team-consulting.com
 tcv.camping-vogelsang.com
@@ -196329,7 +196332,6 @@ update.a-mo.net
 update.adflex.vn
 update.adsrvr.org
 update.ap.lijit.com
-update.crashlytics.com
 update.ib.adnxs.com
 update.indexww.com
 update.moatads.com
