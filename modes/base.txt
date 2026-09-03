@@ -16346,6 +16346,7 @@ analytics-api.sconto.cz
 analytics-api.smzdm.com
 analytics-api.statvoo.com
 analytics-api.vanceai.com
+analytics-assets.tes.com
 analytics-async-loader.js
 analytics-au.clickdimensions.com
 analytics-batch.blitz.gg
@@ -137278,6 +137279,7 @@ retrieval-bd.duote.com
 retrievemint.com
 retro.geeklife.fr
 retrocrypt.com
+retrorays.com
 retrounlim.com
 retrudewomprewires.qpon
 retruseairshedpurples.qpon
@@ -192504,6 +192506,7 @@ tracking.voordeeluitjes.nl
 tracking.voxeus.com
 tracking.vtc.vn
 tracking.vtcnew.com.vn
+tracking.vviinn.com
 tracking.wallapop.com
 tracking.walserart.at
 tracking.waltons.co.uk
@@ -197425,6 +197428,7 @@ unlawfuldamage.com
 unlawfulpattern.pro
 unlaxguttus.com
 unleash.livepix.gg
+unleash.zenchef.com
 unleashtuneafter.com
 unleavemudroom.cfd
 unledpierced.com
