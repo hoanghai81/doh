@@ -19427,6 +19427,7 @@ api.lfautomacao.com.br
 api.liaconsorcios.com.br
 api.liberostyle.com.br
 api.lifetimenumber.com
+api.lightyear.com
 api.lijit.com
 api.liloforte.com.br
 api.limbik.com
@@ -108698,6 +108699,7 @@ metd11gim.com
 meteachugood.holdmybeerconsulting.com
 metelpardon.shop
 metelyceriops.cyou
+meteoconsult.fr
 meteored.com
 meteorsolutions.com
 meteortoffee.com
