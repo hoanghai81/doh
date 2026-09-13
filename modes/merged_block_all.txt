@@ -16572,6 +16572,7 @@ analytics.bernies.com
 analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
+analytics.bhaskarsaikia.in
 analytics.bi.encuentra24.com
 analytics.biezen.nl
 analytics.bigdata.samsung.com
@@ -19434,6 +19435,7 @@ api.imperialbet.xyz
 api.imperiodacanastra.com
 api.imperiodostecidosonline.com.br
 api.impulsionaonline.com
+api.inboxburn.com
 api.indexexchange.com
 api.indoorcyclingbygabyfit.com
 api.infusis.com.br
@@ -25330,6 +25332,7 @@ bartererfaxtingling.com
 bas.boshi.tv
 basallyremetalflecker.cfd
 base-cdn.admarvel.com
+base.imdada.cn
 base.vrielingassuradeuren.nl
 baseball.yahoo.co.jp
 baseboosters.com
@@ -31207,6 +31210,7 @@ cachuadirked.top
 cacklegrievingtank.com
 caclick.baidu.com
 cactoidsuff.com
+cactus.jd.com
 cactus.joybuy.com
 cactusglobal.io
 cactusheadroomscaling.com
@@ -37809,6 +37813,7 @@ combotag.com
 combrand.v1.edgekey.net.easyjet.com
 comclick.com
 comcluster.cxense.com
+comdirect.de
 comediandesired.com
 comedosgrunter.qpon
 comedy34.com
@@ -49976,6 +49981,7 @@ dd.lendaly.com.au
 dd.nexvoxi.com
 dd.nytimes.com
 dd.qa.moneygram.com.first-party-js.datadome.co
+dd.qwant.com.first-party-js.datadome.co
 dd.reuters.com
 dd.scanscout.com
 dd.seloger-bureaux-commerces.com
@@ -62635,6 +62641,7 @@ fe-go.letv.com
 fe-init.js
 fe-shop.cc
 fe.futuroscope.com
+fe.imdada.cn
 fe.lwcvn.com
 fe1ykpaf.xyz
 fe43bd577b.06f4422159.com
@@ -78272,6 +78279,7 @@ h5log.zongheng.com
 h5lwvwj.top
 h5o61akbx.com
 h5r2dzdwqk.com
+h5speed.m.jd.com
 h5v.eu
 h5vem1jjft.com
 h5w32.hyvinvoinnin.fi
@@ -79476,6 +79484,7 @@ heretoprecut.cyou
 herihed.cfd
 herjmttufhptm.online
 hermes-api.net.mydays.de
+hermes.jd.com
 hermichermicgenerationhers.com
 hermoclarifytrips.qpon
 herniasacrook.cfd
@@ -102316,6 +102325,7 @@ log-giaoduc.epicdn.me
 log-giaoduc.zadn.vn
 log-giaoducthoidai.epicdn.me
 log-giaoducthoidai.zadn.vn
+log-h5.imdada.cn
 log-hl.snssdk.com
 log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
@@ -109333,6 +109343,7 @@ mercurousswaddlesuggest.com
 mercury-int.marketo.com
 mercury.books.com.tw
 mercury.coupang.com
+mercury.jd.com
 mercuryace.com
 mercuryilluminatedprunes.com
 merelyworld.com
@@ -126085,6 +126096,7 @@ pc-mon-v2-boot.capcutapi.com
 pc-mon.zijieapi.com
 pc-mon16-normal-us-ttp.capcutapi.us
 pc-optimum.ada.support
+pc-tk.js
 pc-util.gamersky.com
 pc.alcmpn.com
 pc.mail.firestonecompleteautocare.com
@@ -159671,6 +159683,7 @@ sofire.bdstatic.com
 sofire.terabox.app
 sofire.terabox.com
 soflopxl.com
+sofoot.com
 sofq.site
 soft-com.biz
 soft.bitesoftco.com
@@ -160761,6 +160774,7 @@ sp_v1.js
 spa-tracker.spapi.io
 spa.admissions.ucdenver.edu
 spa.arabtoons.net
+spa.js
 spa.monticellospa.it
 spa.saturniadayspa.com
 spaallied.com
@@ -196902,6 +196916,7 @@ unifiedwfo.verintsystemsinc.com
 unifilabs.actonservice.com
 unifini.de
 uniforminjury.shop
+unify.min.js
 unifyintent.com
 unifywithstatistics.net
 unildldftytap.space
@@ -197557,6 +197572,7 @@ uraliwarpagealmner.cyou
 uralweb.ru
 uraminoverger.qpon
 uramylypcuzwt.online
+uranus.jd.com
 uraresceyx.shop
 urazinekecklesflabel.qpon
 urban-signal.pro
