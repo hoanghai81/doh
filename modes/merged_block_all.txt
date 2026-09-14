@@ -3338,6 +3338,7 @@ _chartbeat.js
 _counter.php
 _da.gif
 _gtm.js
+_ingenious-script.js
 _mzblank.gif
 _nedstat.js
 _nvk_tracking.js
@@ -53976,6 +53977,7 @@ driascaromed.shop
 dribbble.com
 dribblefohns.cyou
 driddermartha.cyou
+driedwheat.com
 driedzenithslevin.cfd
 drieetjbtuoid.online
 drient.xyz
@@ -61952,6 +61954,7 @@ fabdanwrkhxhj.site
 fabio.ilydecor.com
 fabkmopsppttt.website
 fable-assets.click
+fabledglory.com
 fabledsoul.com
 fablerverdure.cfd
 fableundone.cfd
@@ -62500,6 +62503,7 @@ favusraband.com
 fawb62hh9.com
 fawgsjeeidnjp.space
 fawnoverfat.shop
+faxardent.net
 faxcoupons.com
 faxingdandler.cfd
 faxsmarter.instantinfo.com
@@ -154836,6 +154840,7 @@ smartads.tech
 smartadserver.com
 smartbn.ru
 smartbox.com
+smartbrokerplus.de
 smartcam.adt-worldwide.com
 smartcard.apps.coloros.com
 smartcare.com
