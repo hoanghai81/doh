@@ -11648,6 +11648,7 @@ ads.administrator.de
 ads.adoffice.11st.co.kr
 ads.adpone.com
 ads.adservme.com
+ads.adspro.name
 ads.adsterra.com
 ads.adstream.com.ro
 ads.adsvtm.com
@@ -18353,6 +18354,7 @@ anl.footlocker.com
 anljkaxdevkxl.website
 anlkjufvlkago.site
 anls.sloye.com
+anlxwagwa.in
 anlytics.co
 anma.anmasetups.com
 anmdr.link
@@ -26406,7 +26408,6 @@ beldamnolos.cfd
 beldooschae.com
 belfrybreathrich.com
 belgianaplombs.cfd
-belgikanst.iad-03.braze.com
 belgium.wolterskluwer.com
 belia-glp.com
 belialtweest.com
@@ -31067,7 +31068,6 @@ c.bebi.com
 c.betrad.com
 c.bigcomics.bid
 c.bigmir.net
-c.bing.com
 c.blockdetector.org
 c.bouncepingpong.com
 c.bubutv.top
@@ -31176,7 +31176,6 @@ c.r10.mopub.com
 c.refun.do
 c.revlifter.com
 c.rhapsody.com
-c.riskified.com
 c.rzk-m.com
 c.salon24.pl
 c.savysec.co.uk
@@ -34057,6 +34056,7 @@ cdn.switchadhub.com
 cdn.sy-d.io
 cdn.taboola.com
 cdn.tagcommander.com
+cdn.tanx.com
 cdn.taplytics.com
 cdn.tbfos.com
 cdn.tcwrf.com
@@ -36307,6 +36307,7 @@ click.signaturemarket.co
 click.socialsecurityupdate.org
 click.startappservice.com
 click.sutra.co
+click.tanx.com
 click.taobao.com
 click.tecdo-ec.com
 click.techtree.jp
@@ -59050,6 +59051,7 @@ en-log.vietnamplus.vn
 en-sg.siemensplmevents.com
 en-us.coloplastcare.com
 en.ad-stir.com
+en.dobytowsy.com
 en.elowriderst.com
 en.ikmemergent.net.jumia.co.ke
 en.themoneytizer.com
@@ -68049,7 +68051,6 @@ gasocialtracking.js
 gasolineimproveabroad.com
 gaspcommercehermione.com
 gaspersingled.qpon
-gaspra.iad-03.braze.com
 gaspsoap.com
 gassales.eversource.com
 gassedcruset.shop
@@ -83084,6 +83085,7 @@ iad-03.braze.com
 iad-04.braze.com
 iad-05.braze.com
 iad-06.braze.com
+iad-07.braze.com
 iad-08.braze.com
 iad-2-apex.go.sonobi.com
 iad-2-sync.go.sonobi.com
@@ -83691,7 +83693,7 @@ iframeshowitem.php
 ifrb.a8.net
 ifren.sevlaser.com
 ifrwam.com
-ifsk2.tanx.com
+ifs.tanx.com
 iftqaq.benerent.com
 iftuzvnyudfus.online
 ifunny.co
@@ -97586,6 +97588,7 @@ live-eu.pornamigo.com
 live-eu.pornamigos.com
 live-eu.vot.media
 live-icloud.com
+live-ifs.tanx.com
 live-st.rldatix.com
 live-st.rldatix.de
 live-tv.top
@@ -124027,6 +124030,7 @@ ope-pdmp.js
 opecloud.com
 opedlyc.shop
 opedyate.qpon
+opehs.tanx.com
 open-analytics.hrw.org
 open-test.wynk.in
 open-up.it
@@ -124367,6 +124371,7 @@ oqdrng.pharmacy2go.gr
 oqfy4va7a.com
 oqgelc.samuelhubbard.com
 oqgrax.sissy-boy.com
+oqhbgxvk.com
 oqhixtpv.com
 oqhonqklxdkxu.website
 oqidne.itaka.pl
@@ -130226,6 +130231,7 @@ plumbertowards.com
 plumbogcrepy.shop
 plumierunkirk.qpon
 plummeteffront.shop
+plummypokefunbenefit.com
 plump-message.pro
 plumpnativeresound.com
 plumprush.com
@@ -136837,6 +136843,7 @@ rdrtrk.com
 rds.ca
 rdsgb.petplate.com
 rdsig.yahoo.co.jp
+rdstat.tanx.com
 rdtk.io
 rdtk.maia.insure
 rdtk.practs.de
@@ -138472,7 +138479,6 @@ ressqretcwdkp.site
 rest.comfy.ua
 rest.content.ad
 rest.edit.site
-rest.iad-03.braze.com
 rest.php
 rest.redirectme.net
 rest.sexypornvideo.net
@@ -138940,6 +138946,7 @@ rh.ocq.com.br
 rh.otnolatrnup.com
 rh.rivohealth.co
 rh.vettaquimica.com.br
+rh.wallahrana.cfd
 rh1a.granions.fr
 rhaam.phoozy.com
 rhaeticaskarel.cyou
@@ -145173,6 +145180,7 @@ sdk-b.apptornado.com
 sdk-cdn.aiactiv.io
 sdk-cdn.optimove.net
 sdk-config.fyber.com
+sdk-config.tanx.com
 sdk-events.inner-active.mobi
 sdk-ios.ad.smaato.net
 sdk-loader.js
@@ -145214,6 +145222,7 @@ sdk.iad-03.braze.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
 sdk.iad-06.braze.com
+sdk.iad-07.braze.com
 sdk.iad-08.braze.com
 sdk.ironbeast.io
 sdk.jeeng.com
@@ -146768,7 +146777,6 @@ sermfhdkrupwy.store
 sermoncloud.com
 serootdaimons.qpon
 seroprevot.cfd
-serpens.iad-01.braze.com
 serpensguarabu.qpon
 serpigocrull.cyou
 serraisawah.cfd
@@ -184720,7 +184728,6 @@ tantractium.com
 tanvir.efooddokan.com
 tanvvybruhuju.website
 tanweb.net
-tanx.com
 tanyardfurcae.shop
 tanzid.thetrugro.com
 tanzyguarrau.cyou
@@ -204522,6 +204529,7 @@ vr.fanzacom.live
 vr.mttr.pt
 vr.ringentkenlore.com
 vr.vivareal.com
+vr5ip6ntb529k.2uhxnrj7qreorju4xfq.cfd
 vradfvwfmwvaw.space
 vranj.bondimealprep.com.au
 vrasto.openapp.link
@@ -217995,6 +218003,7 @@ zyrijmtfflrww.website
 zyrlyttzshqwr.space
 zyscrz.massnoun.com
 zyuo6teb8r9k4be69f8v.cfd
+zyuwjxerthht.com
 zyvbcstcltidm.online
 zyvbvqvwqomow.top
 zyvyto.eadplataforma.com
