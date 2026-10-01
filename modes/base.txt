@@ -16,6 +16,7 @@
 .credit-cooperatif.coop
 .euroads.fi
 .fdnames.com
+.grafana-ops.net
 .grafana.net
 .hashnode.com
 .kolektiva.net
@@ -18330,6 +18331,7 @@ ant.prefinery.com
 ant.september.digital
 antalfluidic.cyou
 antalyser.ants.vn
+antanalysis.min.js
 antananarbdivu.com
 antarcticoffended.com
 antblz.mediaworld.it
@@ -20016,6 +20018,7 @@ api.usebutton.com
 api.useinsider.com
 api.useshuris.com.br
 api.usestoryteller.com
+api.useunloq.com
 api.usevess.com.br
 api.usevoe.com.br
 api.uve.weibo.com
@@ -24721,6 +24724,7 @@ bacpfxhywfbb.com
 bacteriapokemoney.com
 bacurypredy.com
 badaladmin.savvybazz.store
+badge.js
 badgeboat.com
 badgegirdle.com
 badgerabbit.com
@@ -29412,6 +29416,7 @@ browserpusher.com
 browserr.top
 browsers.support
 browserstack.com
+browsertdidticket.m.qq.com
 browsfried.com
 browsing.doamore.com
 browsiprod.com
@@ -32220,6 +32225,7 @@ carsandcovers.shopforcovers.com
 carsarace.com
 carsensor.net
 carsguys.co.il
+cart-get-tokens.html
 cart.autodesk.com
 cart.matsuzaka-steak.com
 cartamin.cartamin.ae
@@ -33577,6 +33583,7 @@ cdn.yld.is
 cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zeroclick.io
 cdn.zg-api.com
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -40257,6 +40264,7 @@ crss.corporate-rebels.com
 crsspxl.com
 crta.and.co.uk
 crta.dailymail.co.uk
+crta.dailymail.com
 crta.metro.co.uk
 crtracklink.com
 crtsjbsjgvtrl.space
@@ -43875,6 +43883,7 @@ dailydomino.com
 dailyexaminer.com.au
 dailyexcessivestocks.com
 dailymail.co.uk
+dailymail.com
 dailymotion.com
 dailyrumor-jp.co.in
 dailyssshopee.com
@@ -53096,6 +53105,7 @@ dp.idealista.com
 dp.idealista.fr
 dp.idealista.it
 dp.idealista.pt
+dp.min.js
 dp.rentalia.com
 dp.ru
 dp.shoprunner.com
@@ -60168,6 +60178,7 @@ events.s4long.com
 events.samsungads.com
 events.santander.co.uk
 events.sd-nbb.de
+events.searchtap.net
 events.sevenfiguresecrets.com
 events.shareably.net
 events.shirrts.com
@@ -66729,6 +66740,7 @@ gatewaystoopdeplore.com
 gatewey.net
 gather.donga.com
 gathereden.com
+gatherer.m.qq.com
 gatheringtypes.com
 gathermadness.com
 gathersguidon.qpon
@@ -68490,6 +68502,7 @@ gktrlv.oryany.co.kr
 gkupv.theconsumerdigest.org
 gkuresx.com
 gkvjmx3xf.com
+gkx.gokwik.co
 gkxaay.tontarellishop.com
 gkxeea.ssamitbeauty.com
 gkxixncsphfli.online
@@ -84370,6 +84383,7 @@ info.johonnottechnologies.com
 info.jonas-construction.com
 info.jordansc.com
 info.josephmday.com
+info.js
 info.junior-deutsch.ch
 info.juniperwealthmanagement.com
 info.jwpepper.com
@@ -101606,6 +101620,7 @@ log.mofa.go.kr
 log.mp3.zing.vn
 log.musical.ly
 log.ncaudienceexchange.com
+log.news.baidu.com
 log.news.zing.vn
 log.newsvine.com
 log.nexgen.neustar.biz
@@ -118708,6 +118723,7 @@ nsteq.queensland.com
 nster.net
 nsthczdba1.com
 nstltp.icu
+nstool.netease.com
 nstp.notesik.com.br
 nstracking.com
 nsul.cn
@@ -123095,6 +123111,7 @@ p.rfihub.com
 p.russ-porno.net
 p.ryanhalliday.com
 p.s.360.cn
+p.sa7eer.com
 p.sadoc.com.br
 p.sfx.ms
 p.skimresources.com
@@ -125048,6 +125065,7 @@ pdn.applovin.com
 pdocs.yadro.ru
 pdogbyrewtabk.site
 pdp.gif
+pdp.gokwik.co
 pdptebicpdmry.online
 pdqzrlfcyihsc.store
 pdrearjakugya.store
@@ -130398,6 +130416,7 @@ pulsemaps.com
 pulsemgr.com
 pulseonclick.com
 pulsepoint-match.dotomi.com
+pulsepoint.ideal.house
 pulsonline.rs
 pultunpulpal.qpon
 puluk.drinkmagicdose.com
@@ -133979,6 +133998,7 @@ realtime-logger.production-public.tubi.io
 realtime-profiling.datarize.ai
 realtime.bbcl.cl
 realtime.connectad.io
+realtimeanalytics.yext.com
 realtimely.io
 realtimewebstats.com
 realtimewebstats.net
@@ -174091,6 +174111,7 @@ static.wjxcdn.com
 static.wondenthaitings.com
 static.woopra.com
 static.wpm.neustar.biz
+static.ws.126.net
 static.ws.apsis.one
 static.wwoz.org
 static.wxadserve.xyz
@@ -198090,6 +198111,7 @@ vebo8386.me
 vebsawehaoesj.site
 vecapture.js
 vectaury.io
+vecteezy.com
 vectoine.net
 vectoio.net
 vector.co
