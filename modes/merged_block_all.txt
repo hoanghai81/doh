@@ -86893,6 +86893,8 @@ ipv4-c006-mid001-telmex-isp.1.oca.nflxvideo.net.iberostar.com
 ipv4-c024-mia006-ix.1.oca.nflxvideo.net.iberostar.com
 ipv4-cs.intsig.net.iberostar.com
 ipv4.adrta.com
+ipv4.art
+ipv4.games
 ipv4.seeip.org
 ipv6.adm.admixer.com
 ipv6.adrta.com
@@ -170875,6 +170877,7 @@ st.preciousamber.com
 st.primopiano.com
 st.prindo.at
 st.prindo.de
+st.putler.com
 st.q-alshefa.com
 st.rahm.de
 st.rapidium.com.br
