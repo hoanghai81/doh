@@ -9515,6 +9515,7 @@ ad-log-upload-os.hoyoverse.com
 ad-log.dable.io
 ad-loupe.com
 ad-m.asia
+ad-manager.matsukiyococokara-online.com
 ad-mapps.com
 ad-maven.com
 ad-maven.xml-eu.ak-is2.net
@@ -32855,6 +32856,7 @@ catsnetwork.ru
 catsnthing.com
 catsnthings.fun
 catsonictp.com
+catsthumb.com
 catsys.jp
 cattailpectinselected.com
 cattell.loanzify.app
@@ -39481,6 +39483,7 @@ coralcranes.com
 coralogix.com
 coralreverie.com
 coralrimed.cfd
+coralwatches.com
 coramfendy.qpon
 corantohughes.cyou
 corantotailagedogtie.qpon
