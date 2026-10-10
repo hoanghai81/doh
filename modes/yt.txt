@@ -35284,6 +35284,7 @@ chocolatine.apexlegendsstatus.com
 choconart.com
 choib52.club
 choice.ameblojp.live
+choicebump.com
 choicymesilla.cfd
 choigamesumvip.vip
 choihitclub.xyz
@@ -39280,7 +39281,6 @@ content22.citi.eu
 content22.citibank.com.au
 content22.citibank.com.sg
 content22.citibankonline.com
-content22.online.citi.com
 content_tracker_hook.js
 content_tracking.js
 contentabc.com
@@ -39300,6 +39300,8 @@ contentreveal.net
 contents-search-windows.com
 contents-tracking.beop.io
 contents.pwc.com
+contents1.00110.citi.com
+contents2.00110.citi.com
 contentsfeed.com
 contentspread.net
 contentsquare.net
@@ -44758,6 +44760,7 @@ daily.schoolsweek.co.uk
 daily.thezebra.org
 daily.yubanet.com
 dailyc24.com
+dailydesigned.com
 dailydevstatus.com
 dailydivision.com
 dailydomino.com
@@ -96362,6 +96365,7 @@ lib4orji46xr854ug59fl2zyu3c.cfd
 libaz.splashwines.com
 libbarddibbles.cfd
 libellouschurchtommy.com
+libellud.com
 liberation.fr
 libero.it
 liberty.schip.io
@@ -145784,6 +145788,7 @@ search.ch
 search.jword.jp
 search.media.net
 search.naver.com
+search.rakuten.co.jp
 search.semp.net
 search.seznam.cz
 search.spotxchange.com
@@ -206916,6 +206921,7 @@ wdzrlfbdfclgq.online
 we-love-privacy.humane.club
 we-offer.com
 we-stats.com
+we-stats.com.cdn.cloudflare.net
 we.care.oswegohealth.org
 we.kurly.com
 we.trk.the-savings-guru.com
