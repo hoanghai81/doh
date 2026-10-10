@@ -149562,6 +149562,7 @@ sesktomr.furniturebox.co.uk
 session-replay.browser-intake-datadoghq.com
 session-replay.browser-intake-datadoghq.eu
 session-replay.browser-intake-ddog-gov.com
+session.bugsnag.kindle.amazon.dev
 session.mediacharge.com
 session.timecommerce.net
 sessioncam.com
