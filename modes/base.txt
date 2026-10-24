@@ -9627,6 +9627,7 @@ acrossexterminatorfoggy.com
 acrosspf.com
 acrotg.regatta.com
 acrylicconnivetepary.cfd
+acs-mum.alibabachengdun.com
 acs.adtdp.com
 acs.woolworths.com.au
 acs84.com
@@ -16048,6 +16049,8 @@ alhnoakqwahiw.online
 alhpdp.petsupplies4less.com
 alhrghtkvtwvz.online
 ali-ad.a.yximgs.com
+ali-ctf-req.cn-hangzhou.dualstack.log.aliyuncs.com
+ali-ctf.cn-hangzhou.dualstack.log.aliyuncs.com
 ali-pro-origin-pull.kwai.net.iberostar.com
 ali-pro-pull.kwai.net.iberostar.com
 ali-stats.jpush.cn
@@ -16107,6 +16110,7 @@ alitems.co
 alitems.site
 alitui.weibo.com
 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
+alivc-aio.cn-hangzhou.log.aliyuncs.com
 alive-airport.com
 aliveachiever.com
 aliveprompt.com
@@ -19665,6 +19669,7 @@ aphoticclo.qpon
 aphthaskiapod.com
 aphtn.dsw.ca
 aphxav.green-acres.it
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com
 api-ad-adapter.wps.com
 api-ad-callback.falconnet.app
@@ -22753,7 +22758,6 @@ appredeem.com
 appredirect.snapdeal.com
 apprefaculty.pro
 apprenticelandfallenough.com
-appres.camera360.com
 apprhs.hrm.healthgrades.com
 approach.wise1-golf.com
 appromauts.qpon
@@ -22925,6 +22929,7 @@ apytrc.com
 apyxeofvxtphc.com
 apzce.pcrichard.com
 apzlyyqehkque.website
+apzptquixoyr.com
 aq.sedus.com
 aq0vs4ftni.com
 aq7ua5ma85rddeinve.com
@@ -33034,6 +33039,7 @@ camellia49.top
 camelsfestival.com
 camelspark.com
 camelusnakulabiotite.cyou
+camera360-api.360in.com
 cameracaseira.com
 camghosts.com
 camgirls.casa
@@ -39299,6 +39305,7 @@ collect.calvinklein.pt
 collect.calvinklein.se
 collect.calvinklein.si
 collect.calvinklein.sk
+collect.camera360.com
 collect.cap.ch
 collect.cfrjournal.com
 collect.chaordicsystems.com
@@ -39789,6 +39796,7 @@ commitlogs.com
 commitmentelizabeth.com
 commityode.com
 commodeoverfeedstifling.com
+common-api.360in.com
 common-engine.js
 common.duapps.com
 common.html
@@ -55176,6 +55184,7 @@ disparitydegenerateconstrict.com
 disparkalvine.cyou
 dispatch.fcgi
 dispatcher.360in.com
+dispatcher.camera360.com
 dispatcher.mng-ads.com
 dispatcher.upmc.uc.cn
 dispatchunique.com
@@ -75617,6 +75626,7 @@ grokipedia.com
 groleegni.net
 grommetslip.qpon
 gromoboyara.link
+gromore.pangolin-sdk-toutiao.com
 grookilteepsou.net
 groomqueried.cfd
 groove.eezyball.com
@@ -87691,6 +87701,7 @@ ikvql.insideoptions.io
 ikwlimmgbapas.online
 ikzvk.trustruss.com
 ikzwvkuxrymqu.space
+il.coiffesreal.qpon
 il.promo.skf.com
 il191he2tib518wrggj.cfd
 ilaixsjjwkjoc.online
@@ -99266,6 +99277,7 @@ lavaveli.com
 laveerschantedtaskit.qpon
 lavemf.belvilla.be
 lavishboot.com
+lavnkios.in
 lavov.theperfectblueprint.com
 lavtcyojffug.com
 law.bppeloqua.com
@@ -108557,6 +108569,7 @@ log-ana.h3z.jp
 log-anninhthudo.zadn.vn
 log-api.cli.im
 log-api.newrelic.com
+log-api.pangolin-sdk-toutiao.com
 log-api.sooplive.com
 log-auth.flysleep.cn
 log-auth.zztfly.com
@@ -114709,6 +114722,7 @@ mautic.serverhub.vn
 mautic.sts.vn
 mautic.teky.edu.vn
 mautic.vmax.vn
+mauve-pinkgetawhifftime.com
 maven.io
 mavencoalition.io
 mavericks.marketo.com
@@ -122602,6 +122616,7 @@ mssdk.bytedance.com
 mssdk.capcutapi.us
 mssdk.tiktokw.eu
 mssdk.tiktokw.us
+mssdk.volces.com
 mssdk16-normal-sg.capcutapi.com
 mssdk16-normal-us-ttp.capcutapi.us
 mssdk16-normal.capcutapi.com
@@ -123033,6 +123048,7 @@ multiww.com
 multonly.ru
 multstorage.com
 mum.alibabachengdun.com
+mum.alibabachengdun.net
 mumazfqir.in
 mumbledcollut.com
 mumbleenzymic.qpon
@@ -133078,8 +133094,10 @@ pangiuseable.com
 pangle-b.io
 pangle.io
 pangle.pangleglobal.com
+pangolin-dsp-toutiao.com
 pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
+pangolin-sdk-toutiao1.com
 pangolin16.isnssdk.com
 pangolin16.sgsnssdk.com
 pangrg.debeugelknaller.nl
@@ -135333,6 +135351,7 @@ photonpulpily.cyou
 photorank.me
 photospace.life
 photosubscribe.com
+phototask-api.360in.com
 photovault.pics
 photovault.store
 phow238wzh.com
@@ -140405,6 +140424,7 @@ pushmeup.art
 pushmine.com
 pushmobilenews.com
 pushmono.com
+pushmsg.camera360.com
 pushnami.com
 pushnews.org
 pushno.com
@@ -152565,6 +152585,7 @@ sdk.appnext.com
 sdk.appsflyer.com
 sdk.apptentive.com
 sdk.beesads.com
+sdk.beizi.biz
 sdk.birdeatsbug.com
 sdk.conscent.in
 sdk.e.qq.com
@@ -152599,6 +152620,7 @@ sdk.starbolt.io
 sdk.stats-locations.com
 sdk.truepush.com
 sdk.zadn.vn
+sdk.zhangyuyidong.cn
 sdk4push.com
 sdk_release.js
 sdkaction.biz.weibo.com
@@ -158356,6 +158378,7 @@ sf.vserv.mobi
 sf14g.com
 sf16-static.i18n-pglstatp.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
+sf3-fe-tos.pglstatp-toutiao.com
 sf4567w2a56q.branch.salesfloor.net
 sf5q8gbnve37.branch.salesfloor.net
 sfa.standardfusion.com
@@ -192796,6 +192819,7 @@ ta7tfk0o2h.com
 ta88.club
 taarurinarytitian.qpon
 tab-obj.conversantmedia.com
+tab.volces.com
 tabcarts.com
 tabcp.tryshavest.com
 taberedscaups.qpon
@@ -206204,6 +206228,7 @@ ttz.nrywfw6ikuvy8w.cyou
 ttzerqriro.com
 ttzmedia.com
 ttzrx.sonno.co.uk
+tu.bawrelcuttail.com
 tu.moatads.com
 tu1500919341.cc
 tu2.taohuaimg.com
@@ -208317,6 +208342,7 @@ umini.shujupie.com
 umisrvofhmysc.site
 umjjqztyhceqz.website
 umlautbusyish.cyou
+umlazada.alibaba.com
 umlkp.snydersfurniture.com
 umlvbe.rucipello.com
 umlwjozzjdveq.website
@@ -209453,6 +209479,7 @@ urpaldueuqktf.website
 urpbte.theresheis.kr
 urqpvwovevlni.site
 urr.kumamoto-food.com
+urrfkabrkhxjat.com
 urrmmsnrrnuln.space
 urs.metacritic.com
 ursidaehairif.cyou
@@ -212511,6 +212538,7 @@ videocdn.adspeed.net
 videocdnmetrika.com
 videocdnshop.com
 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
+videocloud.cn-hangzhou.log.aliyuncs.com
 videoegg.com
 videoevents.outbrain.com
 videofan.ru
@@ -227331,6 +227359,7 @@ zh-tw.siemensplmevents.com
 zh4qnnf63.com
 zhagp.baddworldwide.com
 zhaner.xyz
+zhangyuyidong.cn
 zhanzhang.toutiao.com
 zhawhs.nantucketlooms.com
 zhcmli.ayakkabidunyasi.com.tr
