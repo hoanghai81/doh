@@ -39147,6 +39147,7 @@ collagen.renewskinco.com
 collarity.com
 collationuppermodel.com
 collect-ap2.attraqt.io
+collect-click.php
 collect-eu.attraqt.io
 collect-metrics.aquro.com
 collect-v6.51.la
@@ -128792,6 +128793,7 @@ offer-api.adgem.com
 offer-api.nextadgem.com
 offer-extensions.com
 offer-go.com
+offer-link.com
 offer.coface.com
 offer.fmservice.com
 offer.fyber.com
