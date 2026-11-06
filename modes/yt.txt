@@ -51720,6 +51720,7 @@ datadome.co
 datadome.garena.com.first-party-js.datadome.co
 datadome.maisonsdumonde.com
 datadome.monster.com.first-party-js.datadome.co
+datadome.secure-hotel-booking.com.first-party-js.datadome.co
 datadome00.id.me
 datadrivens.protocolopumpgluteos.com.br
 datadsk.com
@@ -93428,6 +93429,7 @@ joudauhee.com
 jouqfossffvwy.space
 journal-bt.wildberries.ru
 journal-news.com
+journaldemontreal.com
 journaldequebec.com
 journaldunet.com
 journalpowerlesspoetic.com
@@ -139741,6 +139743,7 @@ pumpkin.abine.com
 pumpkin.bellaandduke.com
 pumpsblanked.com
 punchbowl.alcmpn.com
+puncherr.com
 punchmedia.ru
 punchpantherwhip.com
 punctualbut.com
@@ -151934,6 +151937,7 @@ secure-ds.serving-sys.com
 secure-e.healthiq.com
 secure-eugo.arrow.com
 secure-gl.imrworldwide.com
+secure-hotel-booking.com
 secure-metrics.alcatel-lucent.com
 secure-stat.canal-plus.com
 secure-stats.pingdom.com
