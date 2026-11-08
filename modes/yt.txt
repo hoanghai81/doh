@@ -8794,6 +8794,7 @@ abc.zandergalerieofarts.de
 abc.zimple.io
 abc10.com
 abc17news.com
+abc3-log.tv360.vn
 abc8-vay.com
 abcd.cnhuoche.com
 abcd.coderays.com
@@ -9134,6 +9135,7 @@ absgznujbxmvz.online
 absinfo.eagle.org
 abslakpdotzst.site
 absm.hostliger.com
+absmartly.io
 absoft.actonservice.com
 absolstats.co.za
 absolutepropositionmayonnaise.com
@@ -13784,6 +13786,7 @@ adx-strategy-api.hookspf.com
 adx-tc.adform.net
 adx-th.ads.heytapmobile.com
 adx-tk.mtgglobals.com
+adx-track.bluexad.ai
 adx-tw.ads.heytapmobile.com
 adx-vg-req.mosspf.cn
 adx-vg-req.mosspf.com
@@ -16009,6 +16012,7 @@ alkbztuvuctbn.online
 alkemi.com.se
 alkemics.com
 alkeojfg.velovog.com
+alketech.eu
 alkhkw.jul7me.com
 alkiss.softsan.de
 alkjwptwpvwzd.site
@@ -17262,6 +17266,7 @@ analytics.chattarize.de
 analytics.chauddevant.com
 analytics.chefmaison.com
 analytics.chegg.com
+analytics.cherry-ai.com
 analytics.chilevision.cl
 analytics.chimar.com
 analytics.chocolatemoo53.com
@@ -17316,6 +17321,7 @@ analytics.conad.it
 analytics.concorsicartoonito.it
 analytics.config.js
 analytics.consolecrypt.dev
+analytics.consolewebgear.fr
 analytics.consumerrights.wiki
 analytics.contentexchange.me
 analytics.contents.by-fw.jp
@@ -17621,6 +17627,7 @@ analytics.heistotron.uk
 analytics.hello.axaxl.com
 analytics.hellospace.fr
 analytics.helpukrainewinwidget.org
+analytics.hemeratech.vn
 analytics.hendersonbaracco.com
 analytics.hennaplantshop.com
 analytics.herbertseidl.at
@@ -17651,6 +17658,7 @@ analytics.htmedia.in
 analytics.html
 analytics.hub-js.com
 analytics.hullahline.com
+analytics.hvn.works
 analytics.hyckes.com
 analytics.iatiseguros.com
 analytics.ibumovement.org
@@ -19543,6 +19551,7 @@ api-c.hiaiabc.com
 api-compatible.mixpanel.com
 api-d.hiaiabc.com
 api-df.hiaiabc.com
+api-engage-us.sitecorecloud.io
 api-eu-a.bidmachine.io
 api-eu.bidmachine.io
 api-exc.hiaiabc.com
@@ -21593,6 +21602,7 @@ app.explico.sg
 app.exponential.com
 app.f2trk.com
 app.fabulousfox.com
+app.factori.ai
 app.falkensteinercamping.com
 app.fans.wolveslynx.com
 app.fashalot.com
@@ -21895,6 +21905,7 @@ app.libertyfirstcreditunionarena.com
 app.libertyflames.com
 app.libre.org
 app.lifeinside.io
+app.lifesight.io
 app.link
 app.link.livibank.com
 app.link.nba.com
@@ -28080,6 +28091,7 @@ bid.dr.socdm.com
 bid.g.doubleclick.net
 bid.glass
 bid.js
+bid.novvy.ai
 bid.onetag-sys.com
 bid.openx.net
 bid.pubmatic.com
@@ -30821,6 +30833,7 @@ bsp-analytics.min
 bspiu.heatwavevisual.com
 bsptcqnovtxdq.site
 bsptz.shopthemint.com
+bspyoibtwrrc.com
 bsqhqpzlidgjj.site
 bsrji.bestgarlicsupplements.com
 bsrzl.beltmaster.com
@@ -37479,9 +37492,11 @@ client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
 client-logs-a.wbx2.com
+client-logs.gaijin.net
 client-metrics.chess.com
 client-sdk.hackle.io
 client-side-metrics.as.criteo.net
+client-stats.gaijin.net
 client-telemetry-preauth.hingeprod.net
 client-telemetry.hingeprod.net
 client-telemetry.roblox.com
@@ -38829,6 +38844,7 @@ collect.mounthermon.org
 collect.mounthermonadventures.com
 collect.mtgec.jp
 collect.nature.com
+collect.netshort.net
 collect.newstartcap.com
 collect.nicetekshop.com
 collect.nolte-kuechen.com
@@ -38997,6 +39013,7 @@ collector.betway.se
 collector.betwayarabia.com
 collector.brandify.com
 collector.bsg.brave.com
+collector.bsg.bravesoftware.com
 collector.bunchbox.co
 collector.cakeresume.com
 collector.camplejeunecontaminationlawsuits.com
@@ -53322,6 +53339,7 @@ deuymi.cozykids.gr
 dev-ad-track.aralego.com
 dev-adblocker.workers.dev
 dev-adload.skyadsmart.com
+dev-adtima-static.zdn.vn
 dev-adx.aralego.com
 dev-api.persona.ly
 dev-api.rottne.com
@@ -54484,6 +54502,7 @@ dio.admicro.vn
 diocgn.biltorvet.dk
 dionaeapeoplet.com
 dioqto.totaljobs.com
+dior.com
 dioramatupuna.cyou
 diouidlf98.com
 dioxanepenname.cfd
@@ -72095,6 +72114,7 @@ giajam.xlmoto.nl
 giantaffiliates.com
 gianteagle.com
 gianthypes.com
+giantpanda.xml.ak-is2.net
 giantsvessel.com
 giaodich-quetthetindung.com
 giaodich-quetthetindungvn.com
@@ -74948,6 +74968,7 @@ grookilteepsou.net
 groomqueried.cfd
 groove.eezyball.com
 groove.so
+grooveguides.com
 groovehq.com.gif
 groovespacing.com
 groovinads.com
@@ -79414,6 +79435,7 @@ gtm.prismabarra.com
 gtm.probefishing.com
 gtm.procarsoundsecurity.com
 gtm.proclinicfisio.com.br
+gtm.prod
 gtm.prodigium.com.br
 gtm.production-labs.com
 gtm.produtosdigitales.site
@@ -109030,6 +109052,7 @@ log.btopenworld.com
 log.bumlam.com
 log.bunjang.co.kr
 log.calomeal.com
+log.cand.vn
 log.cfm
 log.china.cn
 log.cizion.com
@@ -109044,6 +109067,7 @@ log.cloud.sbs.co.kr
 log.codemarketing.cloud
 log.cognex.com
 log.collectaction.com
+log.congluan.vn
 log.cookieyes.com
 log.cpex.cz
 log.d.eclick.vn
@@ -109196,6 +109220,7 @@ log.qrscanner.live
 log.quora.com
 log.qvb.qcloud.com
 log.rabobank.nl
+log.rada.vn
 log.radiko.jp
 log.realelements.live
 log.recommend.nicovideo.jp
@@ -109648,6 +109673,7 @@ logs.convertexperiments.com
 logs.datadoghq.com
 logs.datadoghq.eu
 logs.docnhanh.com.vn
+logs.dohaxe.com
 logs.dradis.netflix.com
 logs.dynamicauth.com
 logs.eresmas.com
@@ -109662,6 +109688,7 @@ logs.juspay.in
 logs.kaya.delfi.ee
 logs.magic-stickers.com
 logs.mezmo.com
+logs.mosevura.com
 logs.naukri.com
 logs.nebulahoroscope.com
 logs.netflix.com
@@ -111185,6 +111212,7 @@ lzegjbhetdfak.site
 lzfgzs.acmedelavie.com
 lzfljpsjzvokm.space
 lzhkkgtzlksfd.space
+lziawdwi.in
 lziccjzdqonsk.site
 lziqkx.countryoutfitter.com
 lziri.lifeboostcoffee.com
@@ -118807,6 +118835,7 @@ metrics.mercyships.ch
 metrics.mercyships.de
 metrics.mercyships.se
 metrics.merillat.com
+metrics.meta.vn
 metrics.metacam.de
 metrics.metrobyt-mobile.com
 metrics.mfitgyn.com.br
@@ -122696,6 +122725,7 @@ mpyrwiatobzzu.space
 mpzcpexsezuzp.space
 mpzlxmpszhiot.online
 mq.u2th3xx9uhb18i8ij9.cyou
+mq.unthrobkeelfat.cfd
 mq82ovaqu.com
 mqaae0c7m1.com
 mqabxsjlarnap.online
@@ -128908,6 +128938,7 @@ obysbqrqxdgnz.online
 obytag.kokiskashop.cz
 obyuhk.mondoaffariweb.it
 obyxuq.gazzy.com.br
+obzdiqozp.in
 obzmactgmqccp.site
 obzxiqas.in
 oc.orcoaching.co
@@ -133252,6 +133283,7 @@ pangiuseable.com
 pangle-b.io
 pangle.io
 pangle.pangleglobal.com
+pangleglobal.com
 pangolin-dsp-toutiao.com
 pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
@@ -134981,6 +135013,7 @@ perinstallcash.com
 periodiceffort.pro
 periodico.tesoros-de-carmen.com
 periodnecklacetrained.com
+periodpennavigation.com
 periodsairplane.com
 perion.com
 periscope73.com
@@ -135048,6 +135081,7 @@ personalize-edge.contentstack.com
 personalparcelmarker.com
 personals-pc-app.com
 personaly.click
+personica.js
 personio.com
 personnelsuperiority.com
 personyze.com
@@ -136144,6 +136178,7 @@ pixel.poptok.com
 pixel.prb-team.com
 pixel.prdredir.com
 pixel.prod2.invitemedia.com
+pixel.profound.click
 pixel.propublica.org
 pixel.pub.lilyai.net
 pixel.pulsebrand.io
@@ -139594,6 +139629,7 @@ pswzggx.icu
 psxc6fapn.com
 psxsjo.carrano.com.br
 psxzadkhsaevp.space
+psychcentral.com
 psychedelicarithmetic.com
 psychiatricmagnet.com
 psychologylosttraveling.com
@@ -139799,6 +139835,7 @@ pub.realmedia.fr
 pub.searchnova.net
 pub.servidoresge.com
 pub.sheknows.com
+pub.skyads.com.vn
 pub.toku-tag.jp
 pub.trads.io
 pub.tvads.co.kr
@@ -144095,6 +144132,7 @@ recid.aquatalia.com
 recipe.js
 recipeaddingavenue.com
 recipearena.com
+recipediner.com
 recipefy.net
 recipepile.net
 recipepin.com
@@ -144846,6 +144884,7 @@ renderbetter.net
 rendersackman.qpon
 renderstreamshuttleanalytics.net
 rendfy.com
+rendingdecreasehere.com
 renewedrepresent.com
 renewerrimerskyathoi.cyou
 renewnewss.net
@@ -148261,6 +148300,7 @@ rum.condenastdigital.com
 rum.corewebvitals.io
 rum.cronitor.io
 rum.gif
+rum.haystack.es
 rum.hlx.page
 rum.ingress.layer0.co
 rum.js
@@ -186107,6 +186147,8 @@ static.adora.network
 static.adportonic.com
 static.adprudence.com
 static.ads-twitter.com
+static.ads.brave.com
+static.ads.bravesoftware.com
 static.ads.fanta-olimpiadi.com
 static.ads.fantasanremo.com
 static.adsafeprotected.com
@@ -186888,7 +186930,9 @@ stats.boussalai.com
 stats.bouyguestelecom.fr
 stats.bradmax.com
 stats.brandontoner.ca
+stats.brave.com
 stats.bravecreativestud.io
+stats.bravesoftware.com
 stats.break.com
 stats.breathly.app
 stats.brendanhanke.com
@@ -186902,6 +186946,7 @@ stats.brumtechtapas.co.uk
 stats.brune-company.de
 stats.bruskowski.design
 stats.bryancollins.com
+stats.bsg.bravesoftware.com
 stats.buddiy.net
 stats.build.com
 stats.bungeefit.co.uk
@@ -193202,6 +193247,7 @@ tagging.bokus.com
 tagging.bourbon-sleeckx.com
 tagging.chartrequest.com
 tagging.chefstable.restaurant
+tagging.conde.digital
 tagging.debontewever.nl
 tagging.dekeij.nl
 tagging.depresenteerschool.nl
@@ -202026,6 +202072,7 @@ tracking-stvde.adsafety.net
 tracking-test.esearchvision.com
 tracking-uat.veritas.com
 tracking-user-behavior.meeyland.com
+tracking-v11.js
 tracking-vv.adsafety.net
 tracking-web.smobgame.com
 tracking-widget.fillr.com
@@ -203013,6 +203060,7 @@ tracking.nokai.jp
 tracking.norrteljetidning.se
 tracking.notizie.it
 tracking.novem.pl
+tracking.novvy.ai
 tracking.np.c.linuxfoundation.org
 tracking.nsk.se
 tracking.nsladies.de
@@ -203541,6 +203589,7 @@ tracking.vivareal.com.br
 tracking.vivay.be
 tracking.vlt.se
 tracking.vn.se
+tracking.vneconomy.vn
 tracking.vnncdn.net
 tracking.vodafone.co.uk
 tracking.vodafone.com
@@ -210879,6 +210928,7 @@ va6-bid.adsrvr.org
 va6test.va6prodt.test.cjmadobe.com
 vaatjcfcwvjsa.space
 vaatmetu.net
+vabpfbbtzs.com
 vabtbjzuwbzki.online
 vacancyconsiderably.com
 vacantazon.com
@@ -223485,6 +223535,7 @@ xrymwt5bap.com
 xrzjycxdmuzlq.space
 xrznrtxbswpuk.space
 xs.houyi.baofeng.net
+xs2.html
 xs213.javgg.club
 xsapykbbsdm.net
 xsbdujkox.com
@@ -224294,6 +224345,7 @@ yazio-analytics.com
 yazizim.com
 yazspspjorqhx.site
 yazzuf.joyn.de
+yb.hoodoescopses.com
 yb23b.com
 yb26b.com
 yb2es1rd82.com
