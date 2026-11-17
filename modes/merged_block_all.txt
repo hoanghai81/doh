@@ -24020,6 +24020,7 @@ atlas-trk.prd.msg.ss-inf.net
 atlas-upd.com
 atlas.atsptp.com
 atlas1.krone.at
+atlasobscura.com
 atlassolutions.com
 atlastravel.actonservice.com
 atlasworldusa.actonservice.com
@@ -129902,6 +129903,7 @@ omgcoool.com
 omgcreative.actonservice.com
 omgheasnyvnob.site
 omgpixel.json
+omgpixel_validation_osp.json
 omgpm.com
 omgt3.com
 omgt4.com
@@ -170248,6 +170250,7 @@ sportsmansguide.com
 sportsnearby.com
 sportstoday.pro
 sportsvot.com
+sportswidows.com
 sportybrains.com
 sportyforum.com
 spositive.positivelife.pl
@@ -198221,6 +198224,7 @@ topic.cgi
 topicalcartel.com
 topicjungle.com
 topicmagnitude.com
+topicspin.com
 topix.net
 topiz.ru
 topklik.com
@@ -213015,6 +213019,7 @@ visscore.tag.min.js
 vissense.js
 vissle.me
 visswongsky.com
+vistacool.net
 vistalid-statistiques.fr
 vistanet.it
 vistarsagency.com
@@ -215307,6 +215312,7 @@ waterfallalder.com
 waterfallplain.com
 waterfallreluctant.com
 watering.drinkflowater.com
+waterloco.com
 waterloggedkind.com
 waterlooberlin.viessmann.ca
 watermark.gif
@@ -215357,6 +215363,7 @@ wavzlt.michaelstars.com
 wawsembira.com
 waxa-direct.info
 waxapushlite.com
+waxguide.com
 waxsirens.com
 way2traffic.com
 wayanatomyunavailable.com
