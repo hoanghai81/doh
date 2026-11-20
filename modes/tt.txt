@@ -16638,6 +16638,7 @@ analytics-ping.js
 analytics-prd.aws.wehaa.net
 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics-prod.js
+analytics-prod.pubgen.org
 analytics-prod.readtheory.org
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
@@ -19907,6 +19908,7 @@ api.damalirys.com
 api.damarissaraivaacademy.com.br
 api.dancedogwhisper.com
 api.danielsoutoortopedista.com.br
+api.dappier.com
 api.darienseguros.com.br
 api.dasports.com.br
 api.data-analytics.pokemon.com
@@ -34295,6 +34297,7 @@ cdn.99gt1.com
 cdn.99kia.com
 cdn.9gtb.com
 cdn.9sfjd.com
+cdn.a9f3k7z2m1.com
 cdn.aabdr.com
 cdn.aanetwork.vn
 cdn.abc-gutachten.de
@@ -34691,6 +34694,7 @@ cdn.lukebond.store
 cdn.lumiflux.co
 cdn.lumupu.xyz
 cdn.m.ambientplatform.vn
+cdn.m2z7r9k4p1.com
 cdn.m6r.eu
 cdn.manga9.co
 cdn.marphezis.com
@@ -34835,6 +34839,7 @@ cdn.pushdy.com
 cdn.pushmaster-cdn.xyz
 cdn.pvmax.net
 cdn.q0losid.com
+cdn.q4x8n6b2t5.com
 cdn.qc.coccoc.com
 cdn.qc24h.com
 cdn.qgr.ph
@@ -34941,6 +34946,7 @@ cdn.super.com
 cdn.surfcountor.com
 cdn.switchadhub.com
 cdn.sy-d.io
+cdn.t2037ulzqct5.com
 cdn.taboola.com
 cdn.taboola.com.cn
 cdn.tagcommander.com
@@ -35033,6 +35039,7 @@ cdn.wusum.com
 cdn.wuyou.ca
 cdn.wwfx.xyz
 cdn.wy916.com
+cdn.x7k9m2q4z8r1.com
 cdn.xapads.com
 cdn.xbcpcn.com
 cdn.xclick.app
@@ -39935,6 +39942,7 @@ connectvet.rossu.edu
 connectwithus.cetera.com
 connexity.net
 connext-cdn.azureedge.net
+connext-fd-gnbrate4fjhjb3f7.z01.azurefd.net
 connextra.com
 connsdipnoid.com
 conopidlanai.qpon
@@ -59064,6 +59072,7 @@ ecommerce.longevitylab.hu
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
+ecommtracker.js
 econda-monitor.de
 econnect.actonservice.com
 economicadvantage.midamerican.com
@@ -63311,6 +63320,7 @@ eventos.plastimagen.com
 eventos.ubmmexico.com
 eventos.usj.es
 eventos.vendizap.com
+eventpiper.vlcapi.net
 eventrecorder.cm.bloomberg.com
 eventreg.sphdigital.com
 eventriansieusao.com
@@ -70010,6 +70020,7 @@ g2afpbshj.com
 g2afse.com
 g2dgmgl9dy.com
 g2insights-cdn.azureedge.net
+g2insights-fd-a0gpgwa4fycxd9d4.z01.azurefd.net
 g2w9awdq0.com
 g2wg5308q.com
 g33ktr4ck.com
@@ -81544,6 +81555,7 @@ gw.tushy.com
 gw.tushyraw.com
 gw.vixen.com
 gw.vixenplus.com
+gw.vlcapi.net
 gw.wifey.com
 gw7jpuouik.com
 gwalaissexruj.site
@@ -86472,6 +86484,7 @@ idealo.es
 idealo.fr
 idealo.it
 idealvergent.cyou
+ideamornings.com
 ideas.nanawall.com
 ideecoral.com
 idehe.tlfapparel.com
@@ -99679,6 +99692,7 @@ lida.entyrecare.com
 lida.pflegewegweiser.ch
 lidburger.com
 lidl.media01.eu
+lidsmarket.com
 lidtcctobkneu.website
 liduvxoyivocr.space
 liecso.e-himart.co.kr
@@ -218186,6 +218200,7 @@ whisperingcrib.com
 whisperingsummit.com
 whispermeeting.com
 whisperofisaak.com
+whispersinthecorridors.in
 whistle88.com
 whistledam.com
 whistlegown.com
