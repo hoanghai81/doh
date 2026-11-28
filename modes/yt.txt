@@ -14250,6 +14250,7 @@ affiliates.goodvibes.com
 affiliates.londonmarketing.com
 affiliates.mozy.com
 affiliates.myfax.com
+affiliates.purevpn.com
 affiliates.streamray.com
 affiliates.systems
 affiliates.thinkhost.net
@@ -49336,6 +49337,7 @@ data.claimmagic.com
 data.claimyourwishbook.com
 data.classlights.ro
 data.cleanster.com
+data.clickocean.io
 data.client-comms.nedbank.co.za
 data.client.openweb.bid
 data.cliente.clubeextra.com.br
@@ -65841,6 +65843,7 @@ farmaciabolli1833.it
 farmergoldfish.com
 farmoutuvulas.qpon
 faro-collector-prod-eu-west-0.grafana.net
+faro.mgmt.hancom.io
 farol.rogerle.com
 farriercategoryidentifier.com
 farsbux.ir
@@ -97208,7 +97211,6 @@ kilqg.drinkzyn.com
 kimbcmprbzjed.online
 kimberlite.io
 kimberlyspa.actonservice.com
-kimi.ai
 kimkgj.bibloo.pl
 kimksr.lojagtsm1.com.br
 kimonix.com
@@ -100618,7 +100620,6 @@ lezqeklxpyhsk.space
 leztr.giantpartners.com
 lf-static.tiktokpangle-cdn-us.com
 lf.lelefeminine.com
-lf3-data.volccdn.com
 lf5.lefestif.ca
 lfahl.balsamhill.com
 lfalfehuq.com
@@ -123915,6 +123916,7 @@ monitor.r53.cbsivideo.com
 monitor.rottne.com
 monitor.simpleanalytics.io
 monitor.superfastmediation.com
+monitor.tapper.ai
 monitor.teko.vn
 monitor.wpm.neustar.biz
 monitor_analytic.js
@@ -125999,6 +126001,7 @@ mythdev.b-cdn.net
 mythings.com
 mythtracker.com
 mythusaptera.cfd
+mythweaver.net
 mytictac.com
 mytizer.com
 mytop-in.net
@@ -135210,6 +135213,7 @@ panda.moritz-petersen.de
 panda.mvhphotoproject.org
 panda.teraskolmio.fi
 panda.unpublished.app
+pandect.es
 pandieslekach.cyou
 pandora.com
 panel.adsaro.com
@@ -136825,6 +136829,7 @@ pemsrv.com
 pemtpakqatzuz.site
 pen.pendoring.co.za
 penancesealike.cyou
+penbuzz.com
 pencillacklesslackless.com
 pencilsprout.com
 pendo-data-prod.box.com
@@ -141610,6 +141615,7 @@ psbiaf.converse.com
 pschenttidier.com
 pscjpstkkqcmo.site
 pscontent.playstream.media
+pscript.js
 pscsre.com
 pscunow.fmservice.com
 psdovpvghfphju.com
@@ -142352,6 +142358,7 @@ pure-operation.pro
 purebloom.net
 pureinfotech.com
 purevideo.com
+purevpn.com
 puribreeze-ss.whizahop.com
 purinsproved.com
 purioclean-ss.checkoutera.com
@@ -144334,6 +144341,7 @@ qsblhhfngvrau.online
 qsboxk.cosmomarket.gr
 qsccogecrwmdp.website
 qscjc.athleticpropulsionlabs.com
+qscripts.s3.amazonaws.com
 qsdvpw.green-bubble.com
 qsearch-a.akamaihd.net
 qsearch.media.net
